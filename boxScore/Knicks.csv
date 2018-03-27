@@ -1,0 +1,2889 @@
+400899375,Knicks,Cavaliers,88,117
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,30,8-18,1-4,2-2,1,4,5,3,1,0,4,5,-19,19
+Kristaps Porzingis,PF,1,33,5-13,3-5,3-6,4,3,7,0,1,2,2,5,-21,16
+Joakim Noah,C,1,20,0-1,0-0,0-0,1,5,6,3,1,0,1,1,-1,0
+Derrick Rose,PG,1,30,7-17,1-2,2-2,2,1,3,1,0,1,4,1,-19,17
+Courtney Lee,SG,1,20,0-5,0-2,0-0,1,2,3,0,0,1,2,1,-19,0
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,9,3-5,1-3,0-0,0,1,1,0,0,0,0,0,-4,7
+Lance Thomas,SF,0,17,1-4,0-0,0-0,0,1,1,1,2,0,1,2,-11,2
+Kyle O'Quinn,C,0,15,1-3,0-2,0-0,1,4,5,1,0,2,1,3,-10,2
+Willy Hernangomez,C,0,9,2-3,0-0,0-0,1,0,1,0,0,0,1,1,-3,4
+Brandon Jennings,PG,0,21,1-7,0-4,5-6,1,2,3,5,0,0,1,2,-14,7
+Sasha Vujacic,SG,0,3,0-1,0-1,1-2,0,0,0,1,0,0,1,1,-5,1
+Justin Holiday,SG,0,26,2-7,2-3,2-2,1,5,6,2,1,0,0,0,-14,8
+Ron Baker,SG,0,7,2-3,1-1,0-0,0,1,1,0,0,0,0,0,-5,5
+TEAM,,,,32-87,9-27,15-20,13,29,42,17,6,6,18,22,,88
+ ,,,,36.8%,33.3%,75.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+LeBron James,SF,1,32,9-14,0-3,1-2,3,8,11,14,0,1,4,3,+26,19
+Kevin Love,C,1,25,6-15,2-6,9-12,2,10,12,2,3,0,2,3,+24,23
+Tristan Thompson,C,1,22,0-1,0-0,0-0,2,4,6,0,0,0,2,4,+17,0
+Kyrie Irving,PG,1,30,12-22,4-7,1-1,1,1,2,4,2,0,0,1,+13,29
+JR Smith,SG,1,25,3-13,2-8,0-0,0,3,3,2,1,0,0,1,+13,8
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Channing Frye,PF,0,14,2-6,2-5,0-0,2,2,4,0,1,1,1,4,+7,6
+Chris Andersen,PF,0,6,1-1,0-0,0-0,0,0,0,0,0,1,0,0,+1,2
+Richard Jefferson,SF,0,26,5-7,2-3,1-2,0,4,4,1,2,0,2,1,+17,13
+Jordan McRae,SG,0,6,1-4,0-0,0-0,0,0,0,0,0,0,0,1,+1,2
+DeAndre Liggins,SG,0,12,2-3,0-0,0-0,0,3,3,3,0,1,1,1,+11,4
+Iman Shumpert,SG,0,14,1-3,0-1,0-0,1,1,2,3,0,1,2,2,-5,2
+James Jones,SG,0,6,1-2,1-1,2-2,0,0,0,0,0,0,0,1,+1,5
+Mike Dunleavy,SG,0,23,2-3,0-1,0-0,0,4,4,2,3,0,0,0,+19,4
+TEAM,,,,45-94,13-35,14-19,11,40,51,31,12,5,14,22,,117
+ ,,,,47.9%,37.1%,73.7%
+
+400899394,Knicks,Nets,95,90
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,27,6-22,1-6,2-3,2,1,3,0,1,0,3,1,-15,15
+Kristaps Porzingis,PF,1,26,7-15,1-4,4-7,4,8,12,1,0,2,2,5,+15,19
+Joakim Noah,C,1,13,1-2,0-0,1-2,1,6,7,0,0,0,2,1,-7,3
+Brandon Jennings,PG,1,43,1-11,0-4,4-6,0,3,3,10,5,0,2,2,+7,6
+Courtney Lee,SG,1,28,3-7,0-2,1-2,2,2,4,2,2,0,0,2,-15,7
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,17,4-10,1-2,0-0,3,2,5,2,2,1,2,1,+0,9
+Kyle O'Quinn,C,0,6,0-2,0-0,0-0,2,0,2,2,0,1,0,0,-6,0
+Willy Hernangomez,C,0,25,7-12,0-0,2-4,7,9,16,2,2,1,1,2,+9,16
+Sasha Vujacic,SG,0,22,4-10,2-5,2-2,0,2,2,0,0,1,0,3,+13,12
+Justin Holiday,SG,0,28,2-4,1-3,2-2,0,4,4,4,3,1,0,0,+26,7
+Ron Baker,SG,0,5,0-4,0-1,1-3,0,0,0,0,1,0,1,1,-2,1
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+TEAM,,,,35-99,6-27,19-31,21,37,58,23,16,7,13,18,,95
+ ,,,,35.4%,22.2%,61.3%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Bojan Bogdanovic,SF,1,29,6-10,1-5,2-4,1,6,7,0,0,0,3,3,+7,15
+Rondae Hollis-Jefferson,SF,1,30,6-11,0-1,4-4,3,5,8,3,0,1,4,5,-10,16
+Brook Lopez,C,1,31,4-11,0-2,2-4,2,4,6,1,1,1,0,2,+4,10
+Randy Foye,SG,1,17,2-5,0-2,0-0,0,4,4,0,0,1,1,2,+2,4
+Isaiah Whitehead,SG,1,23,2-9,0-0,0-0,1,3,4,4,0,0,2,4,+11,4
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Trevor Booker,PF,0,16,6-11,0-2,0-0,2,6,8,3,1,1,3,3,+2,12
+Joe Harris,SF,0,9,1-4,1-3,0-0,0,0,0,1,0,0,0,2,-10,3
+Justin Hamilton,C,0,19,3-4,1-1,2-2,2,1,3,0,0,2,1,0,-9,9
+Spencer Dinwiddie,PG,0,19,1-6,0-2,1-2,0,2,2,2,0,0,0,2,-11,3
+Sean Kilpatrick,SG,0,19,2-8,0-3,0-0,1,2,3,1,0,1,3,0,-11,4
+Caris LeVert,SG,0,27,4-9,2-4,0-0,0,4,4,2,2,0,3,1,+0,10
+Luis Scola,PF,0,DNP-COACH'S DECISION
+Quincy Acy,SF,0,DNP-COACH'S DECISION
+TEAM,,,,37-88,5-25,11-16,12,37,49,17,4,7,20,24,,90
+ ,,,,42.0%,20.0%,68.8%
+
+400899414,Magic,Knicks,115,103
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Serge Ibaka,PF,1,31,10-20,2-5,0-0,2,4,6,0,0,0,1,4,+10,22
+Aaron Gordon,PF,1,32,8-19,3-10,3-5,3,3,6,6,1,0,2,1,+8,22
+Bismack Biyombo,C,1,19,0-1,0-0,0-0,0,2,2,3,2,2,0,4,+9,0
+D.J. Augustin,PG,1,14,2-4,2-4,0-0,0,0,0,2,1,0,0,1,+2,6
+Jodie Meeks,SG,1,32,7-9,6-7,3-3,0,2,2,2,0,1,3,1,+16,23
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Arinze Onuaku,PF,0,2,1-1,0-0,0-0,1,0,1,0,0,0,2,0,-5,2
+Jeff Green,SF,0,27,3-10,1-3,3-4,1,2,3,1,2,0,1,3,+10,10
+Mario Hezonja,SF,0,2,0-0,0-0,0-0,0,0,0,0,1,0,0,1,-5,0
+Nikola Vucevic,C,0,31,7-11,0-0,0-1,5,8,13,5,2,0,2,1,+9,14
+C.J. Watson,PG,0,18,1-4,0-1,1-1,0,3,3,2,0,0,1,0,-5,3
+Elfrid Payton,PG,0,31,6-12,1-1,0-0,1,2,3,14,1,1,0,4,+14,13
+CJ Wilcox,SG,0,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
+Damjan Rudez,SF,0,DNP-COACH'S DECISION
+TEAM,,,,45-91,15-31,10-14,13,26,39,35,10,4,12,20,,115
+ ,,,,49.5%,48.4%,71.4%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,6-17,0-4,7-8,1,6,7,3,3,1,1,3,-14,19
+Lance Thomas,SF,1,20,4-8,1-2,1-2,2,1,3,1,1,0,1,3,-7,10
+Joakim Noah,C,1,33,3-7,0-0,2-4,5,5,10,2,2,2,1,1,-9,8
+Derrick Rose,PG,1,28,8-15,0-1,2-2,2,1,3,4,0,0,3,0,-8,18
+Courtney Lee,SG,1,34,6-11,1-4,1-1,1,2,3,0,1,0,2,2,-12,14
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,16,3-6,3-3,0-0,0,1,1,0,0,1,1,3,-4,9
+Maurice Ndour,SF,0,2,1-1,0-0,0-0,0,0,0,0,0,0,0,0,+5,2
+Kyle O'Quinn,C,0,17,0-3,0-0,0-0,3,6,9,1,0,1,1,3,-5,0
+Willy Hernangomez,C,0,16,2-3,0-0,0-2,1,2,3,2,0,0,3,0,-1,4
+Brandon Jennings,PG,0,24,4-9,2-5,2-3,1,2,3,4,0,0,3,1,-10,12
+Justin Holiday,SG,0,14,2-3,1-2,0-0,0,4,4,0,0,0,2,1,+0,5
+Ron Baker,SG,0,2,0-0,0-0,2-2,0,0,0,1,0,0,0,0,+5,2
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,39-83,8-21,17-24,16,30,46,18,7,5,18,17,,103
+ ,,,,47.0%,38.1%,70.8%
+
+400899438,Celtics,Knicks,110,94
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jae Crowder,PF,1,28,2-7,1-4,3-5,0,5,5,0,1,0,2,1,+18,8
+Al Horford,PF,1,26,6-9,1-4,1-1,1,6,7,1,0,0,1,1,+16,14
+Amir Johnson,C,1,20,4-5,1-1,0-0,1,2,3,0,0,0,3,3,+8,9
+Isaiah Thomas,PG,1,24,6-11,4-9,3-3,0,2,2,6,1,0,1,0,+10,19
+Jaylen Brown,SG,1,27,5-6,2-3,4-4,1,1,2,1,0,0,1,4,+12,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jonas Jerebko,PF,0,22,1-6,0-3,1-2,1,8,9,2,0,0,0,4,+3,3
+Kelly Olynyk,PF,0,19,5-7,1-2,1-3,0,4,4,2,1,2,2,3,+14,12
+Tyler Zeller,C,0,9,1-1,0-0,1-2,0,2,2,0,0,0,1,2,-9,3
+Marcus Smart,PG,0,27,6-11,1-5,1-1,1,1,2,5,1,0,3,3,+23,14
+Terry Rozier,PG,0,24,4-6,1-3,3-5,0,2,2,4,3,0,1,2,+6,12
+Gerald Green,SG,0,6,0-2,0-2,0-0,0,1,1,1,0,0,2,0,-10,0
+James Young,SG,0,8,0-1,0-1,0-0,0,2,2,0,1,1,0,2,-11,0
+TEAM,,,,40-72,12-37,18-26,5,36,41,22,8,3,17,25,,110
+ ,,,,55.6%,32.4%,69.2%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kristaps Porzingis,PF,1,28,6-10,0-0,2-4,0,1,1,0,1,0,0,1,-18,14
+Willy Hernangomez,C,1,19,6-9,0-0,0-0,0,3,3,3,2,0,2,2,-17,12
+Sasha Vujacic,SG,1,25,1-10,1-6,1-2,2,3,5,4,1,0,1,0,-15,4
+Courtney Lee,SG,1,30,5-10,1-3,5-5,1,2,3,5,1,0,1,0,-8,16
+Ron Baker,SG,1,29,2-5,0-0,0-0,0,3,3,3,2,0,1,4,-10,4
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,16,4-7,3-5,0-0,0,1,1,1,0,0,0,0,+7,11
+Maurice Ndour,SF,0,14,1-5,0-1,0-0,0,0,0,0,1,0,0,2,+1,2
+Kyle O'Quinn,C,0,17,2-7,0-0,7-7,3,6,9,0,0,2,2,4,-11,11
+Marshall Plumlee,C,0,12,1-2,0-0,3-3,2,2,4,0,2,0,1,0,+12,5
+Chasson Randle,PG,0,22,3-8,1-4,3-4,0,2,2,3,1,0,3,5,-4,10
+Justin Holiday,SG,0,28,2-12,1-6,0-0,0,1,1,1,1,0,0,2,-17,5
+TEAM,,,,33-85,7-25,21-25,8,24,32,20,12,2,11,20,,94
+ ,,,,38.8%,28.0%,84.0%
+
+400899478,Grizzlies,Knicks,104,111
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+JaMychal Green,PF,1,30,5-12,0-3,0-0,1,7,8,0,0,1,0,6,-14,10
+James Ennis III,SF,1,27,5-7,2-3,4-5,1,3,4,1,0,0,1,3,+9,16
+Marc Gasol,C,1,31,5-15,1-4,9-9,2,4,6,3,0,1,1,3,-9,20
+Mike Conley,PG,1,24,4-9,0-1,3-4,2,3,5,5,0,0,4,2,-18,11
+Andrew Harrison,SG,1,25,2-5,0-2,0-0,0,0,0,2,0,0,2,2,+1,4
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jarell Martin,PF,0,13,5-9,2-2,1-2,2,1,3,0,1,0,1,5,+0,13
+Zach Randolph,PF,0,21,5-14,1-1,2-2,2,7,9,2,0,0,1,3,+8,13
+Troy Williams,SF,0,9,1-2,1-2,0-2,0,0,0,1,2,0,0,1,+10,3
+Deyonta Davis,C,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
+Wade Baldwin IV,PG,0,22,2-4,1-1,0-0,0,2,2,3,0,0,2,1,-10,5
+Troy Daniels,SG,0,12,1-5,0-3,2-2,0,0,0,1,0,0,0,2,-1,4
+Vince Carter,SG,0,25,2-4,1-3,0-0,1,2,3,1,0,0,0,2,-9,5
+Tony Allen,SG,0,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+TEAM,,,,37-86,9-25,21-26,11,29,40,19,3,2,12,30,,104
+ ,,,,43.0%,36.0%,80.8%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,36,5-15,1-5,9-12,0,6,6,5,0,0,3,2,+12,20
+Kristaps Porzingis,PF,1,36,7-11,1-4,6-8,0,5,5,2,0,1,0,5,+13,21
+Joakim Noah,C,1,22,2-2,0-0,2-6,1,9,10,7,0,1,4,6,+16,6
+Derrick Rose,PG,1,32,6-13,0-1,1-2,1,3,4,3,2,1,0,2,+6,13
+Courtney Lee,SG,1,34,6-11,2-4,2-2,0,3,3,1,1,0,0,1,+3,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Lance Thomas,SF,0,19,3-5,0-1,0-0,1,2,3,0,0,0,0,1,-9,6
+Kyle O'Quinn,C,0,19,3-5,0-0,5-7,2,4,6,2,0,0,1,4,-1,11
+Willy Hernangomez,C,0,8,2-3,0-0,0-2,1,1,2,0,0,0,2,0,-11,4
+Brandon Jennings,PG,0,16,2-4,2-4,0-0,0,2,2,3,1,0,2,1,+0,6
+Justin Holiday,SG,0,19,4-7,0-2,0-0,0,0,0,1,0,1,0,3,+1,8
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,40-76,6-21,25-39,6,35,41,24,4,4,12,25,,111
+ ,,,,52.6%,28.6%,64.1%
+
+400899500,Knicks,Pistons,89,102
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,8-17,2-6,6-7,0,2,2,1,4,0,2,2,-7,24
+Kristaps Porzingis,PF,1,30,7-18,2-7,2-2,2,4,6,1,0,1,0,2,-14,18
+Joakim Noah,C,1,31,1-4,0-0,0-0,5,7,12,8,0,2,1,5,-6,2
+Derrick Rose,PG,1,32,8-17,0-1,3-3,1,4,5,2,0,1,2,0,-4,19
+Courtney Lee,SG,1,29,3-7,1-3,0-0,0,2,2,2,0,0,2,2,-1,7
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Lance Thomas,SF,0,26,1-6,0-0,0-0,0,4,4,0,0,0,2,2,-4,2
+Maurice Ndour,SF,0,6,1-2,0-0,1-2,0,2,2,0,1,0,0,1,-2,3
+Kyle O'Quinn,C,0,11,0-1,0-0,0-0,0,2,2,0,0,4,1,4,-4,0
+Willy Hernangomez,C,0,5,0-0,0-0,0-0,0,1,1,0,1,0,1,1,-2,0
+Brandon Jennings,PG,0,19,5-11,2-4,0-1,0,2,2,3,0,0,0,0,-12,12
+Sasha Vujacic,SG,0,5,1-2,0-0,0-0,0,2,2,1,0,0,0,0,-3,2
+Justin Holiday,SG,0,12,0-1,0-1,0-0,0,3,3,0,0,1,0,1,-6,0
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+TEAM,,,,35-86,7-22,12-15,8,35,43,18,6,9,11,20,,89
+ ,,,,40.7%,31.8%,80.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marcus Morris,PF,1,32,9-14,2-3,2-4,1,3,4,1,1,0,0,3,+5,22
+Tobias Harris,SF,1,36,8-12,2-3,7-8,1,9,10,3,0,1,3,2,+17,25
+Andre Drummond,C,1,35,4-13,0-0,1-6,2,11,13,2,2,1,1,1,+11,9
+Ish Smith,PG,1,32,5-14,0-0,0-0,0,2,2,8,1,0,1,4,+8,10
+Kentavious Caldwell-Pope,SG,1,34,7-11,4-6,1-1,0,3,3,3,1,0,1,0,+10,19
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jon Leuer,PF,0,26,4-9,0-1,0-0,3,3,6,0,1,1,0,1,+5,8
+Stanley Johnson,SF,0,17,0-4,0-0,1-2,2,3,5,1,1,1,1,1,+2,1
+Aron Baynes,C,0,13,1-3,0-0,0-0,1,3,4,0,0,1,1,1,+2,2
+Beno Udrih,PG,0,16,3-9,0-0,0-0,0,1,1,1,0,0,2,3,+5,6
+Henry Ellenson,PF,0,DNP-COACH'S DECISION
+Boban Marjanovic,C,0,DNP-COACH'S DECISION
+Michael Gbinije,SG,0,DNP-COACH'S DECISION
+Darrun Hilliard,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-89,8-13,12-21,10,38,48,19,7,5,10,16,,102
+ ,,,,46.1%,61.5%,57.1%
+
+400899508,Rockets,Knicks,118,99
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Ryan Anderson,PF,1,29,6-15,4-9,0-0,5,4,9,0,0,0,3,1,+11,16
+Trevor Ariza,SF,1,30,3-10,1-5,1-2,0,4,4,3,4,0,0,1,+15,8
+Clint Capela,C,1,21,4-6,0-0,0-3,5,1,6,1,1,1,1,3,+6,8
+James Harden,PG,1,34,9-16,5-12,7-8,1,5,6,15,2,0,3,1,+21,30
+Eric Gordon,SG,1,29,6-11,4-7,5-6,0,3,3,1,1,0,2,3,+20,21
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Montrezl Harrell,PF,0,27,8-11,0-0,1-2,5,5,10,0,1,3,4,2,+13,17
+Kyle Wiltjer,F,0,4,0-3,0-3,0-0,0,2,2,0,0,0,1,1,-4,0
+Sam Dekker,SF,0,19,2-5,0-1,1-2,2,5,7,1,1,0,2,1,+8,5
+Corey Brewer,SF,0,14,1-2,0-0,2-2,1,2,3,4,1,0,1,3,+8,4
+Tyler Ennis,PG,0,10,2-5,0-0,0-0,0,1,1,0,0,0,1,3,+2,4
+Bobby Brown,PG,0,4,0-2,0-1,0-0,0,0,0,0,0,0,0,1,-4,0
+KJ McDaniels,SG,0,19,1-3,1-2,2-2,0,3,3,0,1,4,1,1,-1,5
+Nene Hilario,C,0,DNP-COACH'S DECISION
+TEAM,,,,42-89,15-40,19-27,19,35,54,25,12,8,19,21,,118
+ ,,,,47.2%,37.5%,70.4%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,31,8-15,1-4,4-5,1,6,7,1,1,0,5,3,-17,21
+Kristaps Porzingis,PF,1,28,0-4,0-0,3-4,2,6,8,0,1,2,1,4,-8,3
+Joakim Noah,C,1,18,0-2,0-0,0-2,1,1,2,4,0,0,0,1,-9,0
+Derrick Rose,PG,1,30,8-18,0-0,0-0,1,3,4,4,2,0,2,2,-15,16
+Courtney Lee,SG,1,28,7-12,2-4,0-0,0,0,0,1,2,1,1,3,-11,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,6,1-3,1-1,3-4,1,0,1,0,1,0,0,0,+4,6
+Lance Thomas,SF,0,10,1-2,1-1,0-0,0,2,2,0,0,0,1,1,-5,3
+Maurice Ndour,SF,0,19,2-2,0-0,0-0,0,1,1,0,1,1,0,1,-2,4
+Kyle O'Quinn,C,0,5,2-2,0-0,0-0,0,1,1,0,0,2,0,0,-5,4
+Brandon Jennings,PG,0,23,3-7,0-2,6-8,0,3,3,3,0,0,1,2,-11,12
+Sasha Vujacic,SG,0,10,1-3,0-1,0-0,0,2,2,1,0,0,1,1,-3,2
+Justin Holiday,SG,0,18,3-10,2-4,0-0,0,2,2,2,1,0,3,3,-11,8
+Ron Baker,SG,0,16,1-5,1-3,1-2,1,0,1,2,1,0,1,1,-2,4
+TEAM,,,,37-85,8-20,17-25,7,27,34,18,10,6,16,22,,99
+ ,,,,43.5%,40.0%,68.0%
+
+400899523,Knicks,Bulls,117,104
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,36,9-22,2-6,5-5,3,4,7,4,0,1,1,4,+14,25
+Kristaps Porzingis,PF,1,33,10-15,4-7,3-5,2,3,5,1,0,0,0,5,+14,27
+Joakim Noah,C,1,35,7-11,0-1,2-2,3,6,9,4,3,0,0,4,+21,16
+Derrick Rose,PG,1,38,6-16,0-0,3-3,0,7,7,11,1,1,3,2,+12,15
+Courtney Lee,SG,1,41,8-10,1-1,0-0,0,2,2,4,0,0,0,3,+22,17
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Maurice Ndour,SF,0,7,0-1,0-0,0-0,1,1,2,0,0,0,0,5,-4,0
+Kyle O'Quinn,C,0,13,3-7,0-0,1-2,2,1,3,1,3,0,0,0,-10,7
+Brandon Jennings,PG,0,23,2-4,1-3,1-2,0,5,5,7,0,0,1,0,-3,6
+Sasha Vujacic,SG,0,1,0-1,0-1,0-0,0,0,0,0,0,0,0,0,-2,0
+Justin Holiday,SG,0,14,1-2,1-2,1-2,0,0,0,0,0,0,0,0,+1,4
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Willy Hernangomez,C,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,46-89,9-21,16-21,11,29,40,32,7,2,5,23,,117
+ ,,,,51.7%,42.9%,76.2%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Taj Gibson,PF,1,31,4-7,0-0,0-2,4,2,6,1,1,1,1,3,-11,8
+Robin Lopez,C,1,29,2-6,0-0,1-2,4,2,6,1,0,2,1,2,-7,5
+Rajon Rondo,PG,1,30,2-10,0-2,0-0,1,4,5,5,1,0,2,2,-16,4
+Dwyane Wade,SG,1,33,12-20,5-7,6-8,2,8,10,1,0,0,3,3,-23,35
+Jimmy Butler,SG,1,37,7-15,1-4,11-11,2,3,5,2,1,0,2,0,-8,26
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Nikola Mirotic,PF,0,21,4-10,2-6,4-4,0,6,6,0,0,1,2,2,-4,14
+Bobby Portis,PF,0,3,0-1,0-0,0-0,0,0,0,0,0,0,0,2,-10,0
+Doug McDermott,SF,0,26,3-5,0-1,0-0,1,1,2,1,1,0,1,0,-2,6
+Denzel Valentine,SF,0,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Cristiano Felicio,C,0,9,1-1,0-0,0-0,1,0,1,2,0,0,0,2,+10,2
+Isaiah Canaan,PG,0,14,2-5,0-2,0-0,0,1,1,1,0,0,0,0,+3,4
+Jerian Grant,PG,0,6,0-4,0-1,0-0,0,0,0,1,0,0,0,0,+3,0
+Paul Zipser,SF,0,DNP-COACH'S DECISION
+TEAM,,,,37-84,8-23,22-27,15,27,42,15,4,4,12,16,,104
+ ,,,,44.0%,34.8%,81.5%
+
+400899537,Jazz,Knicks,114,109
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Derrick Favors,PF,1,27,6-10,0-0,1-3,3,3,6,0,0,0,2,5,-5,13
+Gordon Hayward,SF,1,36,6-17,2-8,14-14,1,4,5,0,0,0,3,3,+7,28
+Rudy Gobert,C,1,33,5-6,0-0,3-4,2,6,8,1,1,3,0,6,+11,13
+George Hill,PG,1,35,8-12,1-3,6-7,0,2,2,8,2,0,0,1,+2,23
+Rodney Hood,SG,1,38,7-13,2-4,2-3,0,6,6,5,1,0,0,2,+11,18
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Trey Lyles,PF,0,21,2-6,1-4,0-0,0,2,2,1,0,1,0,0,-4,5
+Joe Ingles,SF,0,4,0-1,0-1,0-0,0,0,0,0,0,0,0,0,-2,0
+Dante Exum,PG,0,11,0-1,0-1,0-0,0,0,0,2,0,0,0,0,-5,0
+Shelvin Mack,PG,0,12,2-3,0-0,0-0,0,3,3,2,0,0,4,0,+2,4
+Joe Johnson,SG,0,24,2-6,2-4,4-4,1,1,2,2,2,0,1,2,+8,10
+Joel Bolomboy,PF,0,DNP-COACH'S DECISION
+Jeff Withey,C,0,DNP-COACH'S DECISION
+Raul Neto,PG,0,DNP-COACH'S DECISION
+TEAM,,,,38-75,8-25,30-35,7,27,34,21,6,4,10,19,,114
+ ,,,,50.7%,32.0%,85.7%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,12-20,0-6,4-6,1,8,9,3,0,0,1,5,+6,28
+Kristaps Porzingis,PF,1,33,10-18,3-7,5-5,1,7,8,1,0,2,2,4,+0,28
+Joakim Noah,C,1,20,2-3,0-0,0-0,2,3,5,2,1,1,2,3,+1,4
+Derrick Rose,PG,1,36,7-14,0-0,4-4,2,2,4,8,1,0,4,3,+1,18
+Courtney Lee,SG,1,36,3-8,2-2,2-2,1,5,6,0,3,0,2,3,+4,10
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,8,2-5,1-2,0-0,2,0,2,0,0,0,0,1,-6,5
+Lance Thomas,SF,0,29,2-5,1-1,0-0,0,2,2,1,1,0,0,4,-9,5
+Kyle O'Quinn,C,0,13,1-4,0-0,2-2,1,0,1,0,0,2,0,1,-7,4
+Brandon Jennings,PG,0,16,2-4,1-2,0-0,0,1,1,2,2,0,1,2,-5,5
+Justin Holiday,SG,0,13,1-2,0-0,0-0,0,1,1,1,0,0,0,0,-10,2
+Willy Hernangomez,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,42-83,8-20,17-19,10,29,39,18,8,5,12,26,,109
+ ,,,,50.6%,40.0%,89.5%
+
+400899556,Nets,Knicks,96,110
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Trevor Booker,PF,1,29,1-6,0-0,3-4,1,5,6,2,3,0,1,2,-11,5
+Bojan Bogdanovic,SF,1,29,2-9,0-3,2-2,0,2,2,2,3,0,1,2,-6,6
+Rondae Hollis-Jefferson,SF,1,29,1-4,0-2,6-6,0,5,5,4,0,1,3,1,-1,8
+Brook Lopez,C,1,24,8-12,1-5,4-6,1,3,4,1,0,3,1,3,-4,21
+Sean Kilpatrick,SG,1,28,2-9,1-4,2-4,0,4,4,5,0,0,4,3,-10,7
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Chris McCullough,PF,0,3,0-2,0-0,0-0,1,0,1,0,0,0,1,1,+2,0
+Luis Scola,PF,0,14,2-5,0-1,1-3,1,3,4,0,0,0,2,3,-6,5
+Anthony Bennett,PF,0,4,2-3,1-2,0-0,1,1,2,0,0,0,0,0,+2,5
+Joe Harris,SF,0,29,3-7,1-4,1-2,1,6,7,1,1,0,1,4,-12,8
+Justin Hamilton,C,0,23,8-13,5-7,0-0,1,3,4,0,1,0,0,0,-11,21
+Yogi Ferrell,PG,0,14,2-3,1-1,0-0,0,1,1,3,1,0,3,0,-6,5
+Randy Foye,SG,0,15,2-6,1-4,0-0,0,0,0,1,0,0,1,1,-7,5
+TEAM,,,,33-79,11-33,19-27,7,33,40,19,9,4,18,20,,96
+ ,,,,41.8%,33.3%,70.4%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,34,9-22,2-6,2-2,1,7,8,2,1,1,0,3,+3,22
+Kristaps Porzingis,PF,1,31,7-15,4-8,3-5,1,7,8,1,2,2,2,2,+4,21
+Joakim Noah,C,1,21,1-2,0-0,0-0,2,5,7,4,1,0,2,2,+5,2
+Derrick Rose,PG,1,22,6-10,1-1,1-2,1,2,3,4,0,0,2,1,-10,14
+Courtney Lee,SG,1,31,5-10,0-3,3-4,0,3,3,1,0,0,0,0,+0,13
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,17,2-4,1-3,0-0,1,1,2,1,2,0,0,3,+23,5
+Lance Thomas,SF,0,10,3-5,0-1,0-0,0,1,1,0,1,0,0,1,-2,6
+Maurice Ndour,SF,0,8,2-3,0-0,0-0,0,2,2,0,1,0,1,1,-3,4
+Kyle O'Quinn,C,0,5,1-1,0-0,1-2,1,1,2,0,0,0,0,0,-6,3
+Willy Hernangomez,C,0,15,6-7,0-0,2-2,2,4,6,0,1,2,1,2,+15,14
+Brandon Jennings,PG,0,27,1-6,1-4,0-0,0,3,3,11,1,0,4,4,+24,3
+Sasha Vujacic,SG,0,13,1-5,1-4,0-0,0,5,5,1,1,0,2,2,+23,3
+Justin Holiday,SG,0,5,0-2,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
+TEAM,,,,44-92,10-30,12-17,9,41,50,25,11,5,14,21,,110
+ ,,,,47.8%,33.3%,70.6%
+
+400899575,Knicks,Celtics,87,115
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,12,5-8,1-1,1-1,0,2,2,1,0,0,1,2,-6,12
+Kristaps Porzingis,PF,1,23,5-15,0-2,4-4,2,4,6,1,1,2,1,4,-24,14
+Joakim Noah,C,1,22,4-5,0-0,1-1,3,7,10,2,1,3,3,0,-9,9
+Derrick Rose,PG,1,27,3-10,1-3,4-4,0,4,4,6,0,0,7,4,-10,11
+Courtney Lee,SG,1,22,0-4,0-1,1-1,1,0,1,1,0,1,1,3,-18,1
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,16,2-5,0-1,1-2,1,1,2,2,0,0,2,0,-1,5
+Lance Thomas,SF,0,20,3-7,1-3,0-0,1,4,5,1,1,1,1,1,-4,7
+Kyle O'Quinn,C,0,3,1-3,0-0,0-0,1,2,3,0,0,0,0,1,-1,2
+Willy Hernangomez,C,0,24,4-13,0-0,0-0,6,6,12,3,2,1,5,5,-24,8
+Brandon Jennings,PG,0,27,1-7,1-4,3-4,2,4,6,2,0,0,3,3,-21,6
+Sasha Vujacic,SG,0,9,0-3,0-2,0-0,0,1,1,0,0,0,0,1,-8,0
+Justin Holiday,SG,0,26,4-11,2-5,0-0,4,1,5,0,1,2,1,2,-7,10
+Ron Baker,SG,0,8,1-3,0-1,0-0,0,0,0,0,1,1,0,0,-7,2
+TEAM,,,,33-94,6-23,15-17,21,36,57,19,7,11,25,26,,87
+ ,,,,35.1%,26.1%,88.2%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kelly Olynyk,PF,1,30,6-11,3-5,4-4,2,5,7,3,2,0,3,3,+25,19
+Amir Johnson,C,1,21,0-1,0-0,2-2,2,1,3,1,1,0,2,2,+21,2
+Isaiah Thomas,PG,1,28,9-17,3-5,8-8,2,1,3,4,1,0,2,1,+16,29
+Marcus Smart,PG,1,34,5-13,2-7,0-0,1,5,6,10,3,0,1,1,+23,12
+Avery Bradley,SG,1,32,5-17,1-4,4-4,3,7,10,2,3,0,2,2,+6,15
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jonas Jerebko,PF,0,21,2-4,0-1,1-2,3,2,5,1,1,1,0,1,-6,5
+Jordan Mickey,C,0,3,1-2,0-0,0-0,2,1,3,0,0,0,0,0,+1,2
+Tyler Zeller,C,0,21,3-6,0-0,5-7,1,3,4,0,2,1,3,4,+15,11
+Terry Rozier,PG,0,27,1-8,1-1,7-8,2,3,5,1,2,0,0,2,+28,10
+James Young,SG,0,3,0-1,0-1,0-0,0,2,2,0,1,0,0,0,+1,0
+Jaylen Brown,SG,0,17,3-9,1-3,3-8,0,4,4,0,0,1,0,2,+9,10
+Gerald Green,SG,0,3,0-1,0-0,0-0,1,0,1,1,0,0,2,0,+1,0
+TEAM,,,,35-90,11-27,34-43,19,34,53,23,16,3,15,18,,115
+ ,,,,38.9%,40.7%,79.1%
+
+400899581,Knicks,Raptors,107,118
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,38,10-21,3-7,8-9,0,6,6,4,0,0,1,5,-4,31
+Kristaps Porzingis,PF,1,30,9-16,2-8,1-1,1,3,4,2,0,0,2,5,-12,21
+Joakim Noah,C,1,33,2-9,0-0,0-2,8,10,18,1,2,0,1,2,-5,4
+Derrick Rose,PG,1,38,10-20,0-3,1-2,2,2,4,4,0,0,4,0,+0,21
+Courtney Lee,SG,1,34,4-7,2-3,0-0,0,5,5,1,0,1,3,4,+0,10
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,11,1-4,0-0,0-0,2,2,4,0,0,0,0,1,-4,2
+Lance Thomas,SF,0,9,0-3,0-1,0-0,1,0,1,0,0,0,0,0,-4,0
+Kyle O'Quinn,C,0,14,5-7,0-0,0-0,2,2,4,1,0,1,2,2,+8,10
+Willy Hernangomez,C,0,4,0-0,0-0,0-0,0,1,1,0,0,0,1,0,-5,0
+Brandon Jennings,PG,0,16,2-6,0-0,2-2,1,1,2,5,1,0,0,2,-15,6
+Justin Holiday,SG,0,14,1-4,0-1,0-0,0,0,0,1,0,0,2,2,-14,2
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,44-97,7-23,12-16,17,32,49,19,3,2,16,23,,107
+ ,,,,45.4%,30.4%,75.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Pascal Siakam,PF,1,20,4-5,0-0,1-1,0,2,2,0,1,0,1,2,-6,9
+Norman Powell,SF,1,29,4-10,3-6,8-8,0,5,5,2,1,0,0,3,+15,19
+Jonas Valanciunas,C,1,22,4-8,0-0,5-6,2,6,8,0,1,1,3,2,+3,13
+Kyle Lowry,PG,1,41,7-15,0-5,2-2,3,3,6,6,0,0,2,3,+18,16
+DeMar DeRozan,SG,1,36,11-23,1-1,10-13,2,5,7,4,2,0,2,1,+7,33
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Patrick Patterson,PF,0,28,3-8,2-7,2-2,0,5,5,2,1,0,0,3,+17,10
+Lucas Nogueira,C,0,26,3-3,0-0,0-0,4,6,10,1,3,5,0,2,+8,6
+Cory Joseph,PG,0,20,0-3,0-1,1-2,0,1,1,3,0,0,3,3,-7,1
+Terrence Ross,SG,0,18,3-8,1-2,4-4,0,0,0,0,1,0,0,1,+0,11
+Bruno Caboclo,SF,0,DNP-COACH'S DECISION
+DeMarre Carroll,SF,0,DNP-COACH'S DECISION
+Jakob Poeltl,C,0,DNP-COACH'S DECISION
+Fred VanVleet,PG,0,DNP-COACH'S DECISION
+TEAM,,,,39-83,7-22,33-38,11,33,44,18,10,6,11,20,,118
+ ,,,,47.0%,31.8%,86.8%
+
+400899596,Mavericks,Knicks,77,93
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Dorian Finney-Smith,SF,1,21,2-4,0-1,0-0,1,2,3,2,2,0,2,4,+0,4
+Harrison Barnes,SF,1,35,8-17,0-2,4-6,0,3,3,1,1,1,3,1,-18,20
+Andrew Bogut,C,1,21,2-2,0-0,0-0,4,5,9,1,0,1,1,4,+0,4
+J.J. Barea,PG,1,33,8-16,1-5,0-0,0,1,1,4,0,0,0,0,-16,17
+Wesley Matthews,SG,1,34,3-9,2-5,0-0,0,5,5,1,2,0,1,2,-16,8
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Nicolas Brussino,SF,0,8,2-3,1-2,0-0,0,2,2,1,0,1,1,0,+8,5
+Quincy Acy,SF,0,2,1-2,0-0,0-1,0,0,0,0,0,0,0,0,+0,2
+Dwight Powell,C,0,18,2-8,0-0,2-2,1,3,4,0,1,1,2,1,-15,6
+Salah Mejri,C,0,11,0-0,0-0,2-2,0,0,0,0,0,2,0,1,-3,2
+AJ Hammons,C,0,3,0-0,0-0,0-0,0,1,1,0,0,1,0,0,+3,0
+Seth Curry,SG,0,30,4-12,1-7,0-0,2,3,5,3,1,0,1,0,-20,9
+Justin Anderson,SG,0,23,0-11,0-5,0-0,3,4,7,2,1,0,0,3,-3,0
+Deron Williams,PG,0,DNP-COACH'S DECISION
+TEAM,,,,32-84,5-27,8-11,11,29,40,15,8,7,11,16,,77
+ ,,,,38.1%,18.5%,72.7%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,33,8-18,3-6,5-6,2,6,8,3,0,2,3,3,+17,24
+Kristaps Porzingis,PF,1,36,8-16,2-5,6-6,2,9,11,1,0,1,3,3,+16,24
+Joakim Noah,C,1,15,0-2,0-0,0-0,4,2,6,2,0,0,1,0,-4,0
+Derrick Rose,PG,1,28,1-6,0-1,1-2,0,4,4,5,0,0,5,4,+20,3
+Courtney Lee,SG,1,32,3-7,1-3,0-0,0,2,2,2,1,0,1,1,+9,7
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,3,1-2,0-1,0-0,0,0,0,0,0,0,0,1,-3,2
+Maurice Ndour,SF,0,13,1-3,0-1,0-0,1,2,3,0,0,0,1,0,-4,2
+Kyle O'Quinn,C,0,3,1-3,0-0,0-0,2,0,2,1,0,1,0,0,-1,2
+Willy Hernangomez,C,0,13,2-6,0-0,0-0,2,4,6,0,1,0,0,1,+4,4
+Brandon Jennings,PG,0,23,2-4,1-3,0-0,1,2,3,1,1,0,1,0,+0,5
+Sasha Vujacic,SG,0,12,1-2,0-0,2-2,0,2,2,1,0,0,1,0,-1,4
+Justin Holiday,SG,0,25,6-7,2-3,2-2,0,4,4,2,1,1,1,3,+30,16
+Ron Baker,SG,0,3,0-2,0-2,0-0,0,0,0,0,1,0,0,0,-3,0
+TEAM,,,,34-78,9-25,16-18,14,37,51,18,5,5,17,16,,93
+ ,,,,43.6%,36.0%,88.9%
+
+400899612,Pistons,Knicks,102,105
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marcus Morris,PF,1,37,3-9,1-3,0-0,0,3,3,2,1,0,1,2,+7,7
+Tobias Harris,SF,1,39,6-13,1-4,6-6,2,8,10,1,1,0,1,2,-8,19
+Andre Drummond,C,1,29,7-13,0-0,1-2,1,8,9,1,0,1,3,4,-16,15
+Ish Smith,PG,1,35,6-7,1-1,1-2,1,1,2,8,1,0,3,1,+2,14
+Kentavious Caldwell-Pope,SG,1,37,9-22,3-9,0-0,1,3,4,3,1,0,0,1,+5,21
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jon Leuer,PF,0,27,7-11,2-4,1-1,2,7,9,3,1,0,2,2,+4,17
+Stanley Johnson,SF,0,11,1-2,0-0,0-0,0,1,1,0,1,0,0,2,-8,2
+Aron Baynes,C,0,12,0-1,0-0,0-0,1,1,2,0,0,0,0,0,+4,0
+Beno Udrih,PG,0,13,3-7,0-2,1-1,0,0,0,1,0,0,0,0,-5,7
+Henry Ellenson,PF,0,DNP-COACH'S DECISION
+Boban Marjanovic,C,0,DNP-COACH'S DECISION
+Reggie Bullock,SG,0,DNP-COACH'S DECISION
+Darrun Hilliard,SG,0,DNP-COACH'S DECISION
+TEAM,,,,42-85,8-23,10-12,8,32,40,19,6,1,10,14,,102
+ ,,,,49.4%,34.8%,83.3%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,37,9-17,4-6,0-0,1,4,5,3,1,0,2,0,-2,22
+Kristaps Porzingis,PF,1,40,13-22,3-7,6-7,4,3,7,3,1,1,1,2,+15,35
+Joakim Noah,C,1,25,3-7,0-0,1-6,7,8,15,3,1,3,1,2,+11,7
+Derrick Rose,PG,1,34,7-15,0-2,1-2,0,5,5,3,0,1,1,1,+2,15
+Courtney Lee,SG,1,29,2-12,1-3,0-0,2,2,4,3,3,0,0,1,+3,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,7,0-1,0-1,0-0,0,1,1,0,0,0,0,0,+3,0
+Maurice Ndour,SF,0,9,2-3,0-1,0-0,0,1,1,0,0,0,0,1,-2,4
+Kyle O'Quinn,C,0,15,2-3,0-0,2-2,2,3,5,2,1,3,2,2,-2,6
+Willy Hernangomez,C,0,4,1-2,0-0,0-0,1,1,2,0,0,0,0,0,-7,2
+Brandon Jennings,PG,0,17,0-4,0-2,0-0,0,2,2,7,1,0,2,1,+4,0
+Justin Holiday,SG,0,24,3-7,1-3,2-2,2,3,5,0,0,1,0,1,-10,9
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,42-93,9-25,12-19,19,33,52,24,8,9,9,11,,105
+ ,,,,45.2%,36.0%,63.2%
+
+400899619,Knicks,Wizards,112,119
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,7-17,1-8,4-4,0,3,3,3,1,0,1,4,-3,19
+Kristaps Porzingis,PF,1,37,7-16,2-5,0-0,2,5,7,2,4,0,2,4,-11,16
+Joakim Noah,C,1,19,1-3,0-0,0-0,3,5,8,2,0,0,1,2,-18,2
+Derrick Rose,PG,1,39,8-18,3-5,8-8,2,0,2,4,1,0,2,1,-8,27
+Courtney Lee,SG,1,23,2-9,0-1,0-0,0,3,3,0,0,0,0,1,-10,4
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,7,3-5,2-3,0-0,0,1,1,1,1,0,1,1,-7,8
+Maurice Ndour,SF,0,13,1-2,0-0,2-2,0,2,2,0,0,0,0,1,+4,4
+Kyle O'Quinn,C,0,7,1-1,0-0,0-0,0,0,0,0,0,0,3,1,-3,2
+Willy Hernangomez,C,0,10,2-2,0-0,1-2,0,1,1,0,0,1,0,0,-1,5
+Brandon Jennings,PG,0,24,7-10,3-5,0-0,3,2,5,11,1,0,2,3,+19,17
+Sasha Vujacic,SG,0,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
+Justin Holiday,SG,0,23,2-3,1-2,3-4,0,4,4,0,1,0,1,2,+8,8
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-86,12-29,18-20,10,26,36,23,9,1,13,20,,112
+ ,,,,47.7%,41.4%,90.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Markieff Morris,PF,1,35,4-11,0-2,0-0,1,7,8,2,1,0,3,4,+5,8
+Otto Porter Jr.,SF,1,39,8-14,4-5,1-1,1,7,8,1,2,1,2,2,+18,21
+Marcin Gortat,C,1,31,7-12,0-0,2-4,2,6,8,1,0,1,1,4,+16,16
+John Wall,PG,1,31,7-15,3-6,6-6,0,2,2,11,1,0,2,3,+20,23
+Bradley Beal,SG,1,29,5-10,3-5,5-5,0,2,2,5,0,0,1,0,+11,18
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jason Smith,PF,0,11,2-2,0-0,2-2,2,1,3,0,0,0,0,0,-6,6
+Andrew Nicholson,PF,0,6,1-2,0-0,0-0,0,0,0,0,0,0,0,1,+2,2
+Kelly Oubre Jr.,SF,0,23,3-6,2-4,0-0,0,3,3,1,0,0,1,2,-14,8
+Marcus Thornton,SG,0,18,5-7,3-3,0-0,1,1,2,1,1,0,2,3,-4,13
+Tomas Satoransky,SG,0,18,2-2,0-0,0-0,0,1,1,4,2,0,3,2,-13,4
+Daniel Ochefu,PF,0,DNP-COACH'S DECISION
+Trey Burke,PG,0,DNP-COACH'S DECISION
+Sheldon Mac,SG,0,DNP-COACH'S DECISION
+TEAM,,,,44-81,15-25,16-18,7,30,37,26,7,2,15,21,,119
+ ,,,,54.3%,60.0%,88.9%
+
+400899643,Hawks,Knicks,94,104
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Paul Millsap,PF,1,38,8-17,2-4,1-3,1,6,7,5,2,2,0,3,-7,19
+Dwight Howard,C,1,29,6-11,0-0,6-12,8,10,18,0,0,3,1,3,-7,18
+Dennis Schroder,PG,1,21,0-8,0-3,1-2,0,2,2,3,0,0,3,1,-7,1
+Kyle Korver,SG,1,37,7-12,2-4,1-1,0,4,4,1,2,0,0,1,-17,17
+Kent Bazemore,SG,1,30,4-11,0-3,4-4,0,3,3,5,1,0,1,3,-4,12
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mike Muscala,PF,0,19,1-5,0-1,2-2,1,1,2,0,0,0,2,2,+0,4
+Kris Humphries,PF,0,5,0-1,0-0,0-0,1,1,2,0,1,0,1,0,-4,0
+Tim Hardaway Jr.,SF,0,22,5-8,2-3,0-0,0,1,1,2,0,0,1,0,+2,12
+Taurean Prince,SF,0,18,2-8,0-2,0-0,3,2,5,0,0,1,0,1,-5,4
+Malcolm Delaney,PG,0,21,1-4,0-1,5-5,0,4,4,1,1,0,4,1,-1,7
+Ryan Kelly,PF,0,DNP-COACH'S DECISION
+DeAndre' Bembry,SF,0,DNP-COACH'S DECISION
+Thabo Sefolosha,SF,0,DNP-COACH'S DECISION
+TEAM,,,,34-85,6-21,20-29,14,34,48,17,7,6,13,15,,94
+ ,,,,40.0%,28.6%,69.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,38,12-22,4-8,3-3,2,5,7,3,2,0,3,4,+9,31
+Kristaps Porzingis,PF,1,31,8-15,1-5,2-4,1,10,11,0,0,0,0,4,+5,19
+Kyle O'Quinn,C,1,17,4-5,0-0,0-0,4,4,8,0,0,1,1,4,+12,8
+Derrick Rose,PG,1,30,5-14,0-2,4-4,1,2,3,7,0,0,4,0,+12,14
+Courtney Lee,SG,1,38,6-13,2-3,0-0,1,4,5,5,2,0,2,3,+6,14
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,6,0-1,0-1,0-0,0,1,1,2,0,0,0,0,+1,0
+Marshall Plumlee,C,0,5,0-0,0-0,0-0,0,1,1,0,0,0,0,1,-5,0
+Willy Hernangomez,C,0,29,3-4,0-0,1-3,2,6,8,1,0,0,3,3,+11,7
+Brandon Jennings,PG,0,28,2-6,1-3,0-0,0,4,4,3,3,0,1,3,-3,5
+Justin Holiday,SG,0,19,2-8,2-5,0-0,0,2,2,0,1,0,1,1,+2,6
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,42-88,10-27,10-14,11,39,50,21,8,1,15,23,,104
+ ,,,,47.7%,37.0%,71.4%
+
+400899658,Trail Blazers,Knicks,103,107
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Ed Davis,PF,1,33,7-9,0-0,0-0,4,6,10,0,0,2,1,2,-1,14
+Maurice Harkless,SF,1,34,6-13,1-3,2-4,1,7,8,0,1,1,3,3,+7,15
+Mason Plumlee,C,1,28,4-5,0-0,1-3,4,5,9,4,0,1,4,1,+6,9
+Damian Lillard,PG,1,35,8-18,2-6,4-4,0,5,5,6,2,0,5,1,-3,22
+CJ McCollum,SG,1,36,6-17,1-3,3-3,1,4,5,5,0,0,1,2,+6,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Noah Vonleh,PF,0,6,0-0,0-0,2-2,0,2,2,0,0,1,2,0,-2,2
+Evan Turner,SF,0,24,4-8,0-0,3-3,0,1,1,2,1,0,0,0,-16,11
+Meyers Leonard,C,0,19,2-9,1-7,2-2,0,1,1,1,1,0,0,3,-9,7
+Allen Crabbe,SG,0,23,1-7,1-3,4-5,1,2,3,0,0,0,0,1,-8,7
+Jake Layman,SF,0,DNP-COACH'S DECISION
+Shabazz Napier,PG,0,DNP-COACH'S DECISION
+Pat Connaughton,SG,0,DNP-COACH'S DECISION
+Tim Quarterman,SG,0,DNP-COACH'S DECISION
+TEAM,,,,38-86,6-22,21-26,11,33,44,18,5,5,16,13,,103
+ ,,,,44.2%,27.3%,80.8%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,36,7-22,3-9,0-0,2,4,6,0,1,1,1,3,-1,17
+Kristaps Porzingis,PF,1,40,13-23,3-8,2-2,3,6,9,1,0,1,2,4,+5,31
+Kyle O'Quinn,C,1,24,2-6,0-0,0-0,1,4,5,1,1,0,2,2,-15,4
+Derrick Rose,PG,1,28,8-15,0-0,2-2,2,2,4,5,2,1,1,4,-3,18
+Courtney Lee,SG,1,27,2-8,0-4,1-1,1,3,4,3,1,1,1,1,-5,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,21,4-6,2-3,0-0,0,3,3,1,1,0,1,2,+12,10
+Maurice Ndour,SF,0,3,0-1,0-0,2-2,0,0,0,0,0,1,0,1,+2,2
+Willy Hernangomez,C,0,21,4-5,0-0,1-1,0,4,4,0,0,0,4,3,+9,9
+Brandon Jennings,PG,0,22,2-6,0-4,0-0,1,2,3,11,2,0,0,1,+11,4
+Justin Holiday,SG,0,19,3-4,1-1,0-0,0,5,5,4,0,0,1,2,+5,7
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,45-96,9-29,8-8,10,33,43,26,8,5,13,23,,107
+ ,,,,46.9%,31.0%,100.0%
+
+400899678,Hornets,Knicks,111,113
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marvin Williams,PF,1,17,3-5,1-2,1-1,1,1,2,0,0,1,0,1,+2,8
+Michael Kidd-Gilchrist,SF,1,29,4-6,0-0,1-2,0,2,2,1,0,1,2,2,-13,9
+Cody Zeller,C,1,23,7-10,0-0,1-4,2,4,6,2,0,0,1,3,-2,15
+Kemba Walker,PG,1,32,7-16,0-5,3-5,1,4,5,3,4,0,3,3,-2,17
+Nicolas Batum,SG,1,45,7-17,1-7,3-6,0,9,9,9,0,1,2,0,+3,18
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Frank Kaminsky,PF,0,40,3-14,1-7,6-6,2,7,9,4,0,0,3,1,-4,13
+Spencer Hawes,PF,0,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Roy Hibbert,C,0,21,1-5,0-0,2-2,3,5,8,0,0,1,1,1,+2,4
+Ramon Sessions,PG,0,25,4-9,0-2,0-1,0,3,3,3,1,0,0,2,+2,8
+Marco Belinelli,SG,0,33,7-11,5-6,0-0,1,1,2,3,1,0,1,1,+2,19
+Brian Roberts,PG,0,DNP-COACH'S DECISION
+Treveon Graham,SG,0,DNP-COACH'S DECISION
+Jeremy Lamb,SG,0,DNP-COACH'S DECISION
+TEAM,,,,43-93,8-29,17-27,10,36,46,25,6,4,13,14,,111
+ ,,,,46.2%,27.6%,63.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,41,14-25,3-6,4-4,1,12,13,5,2,1,2,2,+7,35
+Kristaps Porzingis,PF,1,34,6-16,4-8,0-0,2,6,8,2,1,3,3,4,-12,16
+Joakim Noah,C,1,18,3-5,0-0,0-0,4,5,9,1,1,0,0,3,-9,6
+Derrick Rose,PG,1,38,6-13,0-1,4-5,2,1,3,5,1,1,3,1,+7,16
+Courtney Lee,SG,1,38,4-10,2-4,2-2,1,1,2,2,2,0,1,2,+13,12
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,24,0-6,0-4,2-2,1,3,4,2,1,0,0,2,+13,2
+Kyle O'Quinn,C,0,17,4-7,0-0,0-0,0,3,3,3,0,2,0,2,-10,8
+Willy Hernangomez,C,0,20,3-5,0-0,0-0,2,7,9,2,0,1,4,3,+16,6
+Brandon Jennings,PG,0,16,1-4,1-3,0-0,0,3,3,3,0,0,2,1,-8,3
+Sasha Vujacic,SG,0,4,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+4,0
+Justin Holiday,SG,0,16,4-6,1-2,0-0,0,1,1,1,1,0,1,1,-11,9
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,45-97,11-28,12-13,13,42,55,26,9,8,16,21,,113
+ ,,,,46.4%,39.3%,92.3%
+
+400899691,Knicks,Hornets,102,107
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,34,7-25,2-7,2-2,1,7,8,2,0,0,2,2,-16,18
+Kristaps Porzingis,PF,1,37,7-16,2-5,9-11,0,6,6,0,0,2,0,4,+0,25
+Joakim Noah,C,1,12,0-1,0-0,0-0,1,3,4,0,0,0,0,1,-12,0
+Derrick Rose,PG,1,34,6-20,1-3,5-6,5,3,8,8,2,2,1,3,-9,18
+Courtney Lee,SG,1,30,5-9,4-7,0-0,0,2,2,3,0,0,0,4,-15,14
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,9,0-2,0-0,0-0,0,0,0,1,1,0,0,1,+2,0
+Kyle O'Quinn,C,0,16,1-2,0-0,0-0,1,4,5,3,0,1,0,2,+13,2
+Willy Hernangomez,C,0,17,4-5,0-0,0-0,3,5,8,1,0,1,3,4,-8,8
+Brandon Jennings,PG,0,25,5-10,2-5,0-1,0,1,1,4,5,0,1,4,+2,12
+Sasha Vujacic,SG,0,6,0-2,0-2,0-0,0,1,1,0,0,0,0,0,+7,0
+Justin Holiday,SG,0,18,2-7,1-3,0-0,0,4,4,4,1,0,1,2,+11,5
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,37-99,12-32,16-20,11,36,47,26,9,6,8,27,,102
+ ,,,,37.4%,37.5%,80.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Frank Kaminsky,PF,1,35,5-13,2-4,2-2,0,5,5,3,0,0,1,2,+12,14
+Michael Kidd-Gilchrist,SF,1,35,4-6,0-0,3-4,0,8,8,0,0,1,3,1,+14,11
+Cody Zeller,C,1,25,2-7,0-0,7-12,5,5,10,2,1,2,0,5,+11,11
+Kemba Walker,PG,1,40,9-21,2-6,8-11,0,2,2,3,1,3,1,0,+9,28
+Jeremy Lamb,SG,1,36,8-15,1-3,1-2,2,15,17,2,1,0,1,0,+5,18
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Spencer Hawes,PF,0,14,2-7,1-4,0-0,1,2,3,1,0,1,1,3,-7,5
+Roy Hibbert,C,0,14,1-2,0-0,4-4,1,2,3,1,0,2,1,1,-7,6
+Brian Roberts,PG,0,6,0-1,0-0,0-0,0,0,0,0,0,0,0,0,+4,0
+Ramon Sessions,PG,0,15,2-3,1-2,4-7,1,1,2,3,0,0,2,1,-5,9
+Marco Belinelli,SG,0,20,2-5,1-3,0-0,0,2,2,1,0,0,0,1,-11,5
+Christian Wood,PF,0,DNP-COACH'S DECISION
+Treveon Graham,SG,0,DNP-COACH'S DECISION
+Nicolas Batum,SG,0,DNP-Corneal Abrasion
+TEAM,,,,35-80,8-22,29-42,10,42,52,16,3,9,10,14,,107
+ ,,,,43.8%,36.4%,69.0%
+
+400899705,Thunder,Knicks,112,103
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Steven Adams,C,1,32,7-11,0-0,0-0,4,6,10,0,0,0,1,2,+7,14
+Domantas Sabonis,C,1,16,2-5,1-1,0-0,0,1,1,0,0,0,2,3,-8,5
+Russell Westbrook,PG,1,36,9-23,2-3,7-7,5,12,17,14,2,0,7,3,+5,27
+Victor Oladipo,SG,1,31,4-11,0-4,0-0,0,4,4,4,1,1,0,2,+8,8
+Andre Roberson,SG,1,31,4-8,2-4,0-0,1,2,3,1,1,2,0,4,+3,10
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jerami Grant,SF,0,14,0-0,0-0,1-4,1,1,2,0,0,1,2,1,+7,1
+Joffrey Lauvergne,C,0,20,3-8,0-3,0-0,0,5,5,1,0,0,1,3,+4,6
+Enes Kanter,C,0,28,12-17,0-1,3-5,6,4,10,0,0,3,1,4,+15,27
+Semaj Christon,PG,0,12,0-2,0-1,0-0,0,1,1,4,0,0,0,0,+4,0
+Anthony Morrow,SG,0,20,5-7,3-5,1-2,0,0,0,1,0,0,0,0,+0,14
+Nick Collison,PF,0,DNP-COACH'S DECISION
+Kyle Singler,SF,0,DNP-COACH'S DECISION
+Alex Abrines,SG,0,DNP-COACH'S DECISION
+TEAM,,,,46-92,8-22,12-18,17,36,53,25,4,7,14,22,,112
+ ,,,,50.0%,36.4%,66.7%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,34,4-19,0-1,10-11,1,8,9,2,1,1,1,1,-9,18
+Kristaps Porzingis,PF,1,39,9-20,3-6,0-0,1,4,5,2,2,5,2,2,-7,21
+Joakim Noah,C,1,26,1-2,0-0,0-2,3,0,3,4,1,4,0,5,+4,2
+Derrick Rose,PG,1,38,10-20,0-2,10-10,2,5,7,4,0,0,1,0,-1,30
+Courtney Lee,SG,1,36,5-10,3-5,0-0,0,2,2,1,2,0,0,2,+0,13
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,7,1-2,0-1,2-2,0,0,0,2,0,0,0,0,-2,4
+Maurice Ndour,SF,0,1,0-2,0-0,0-0,1,0,1,0,0,0,0,0,+0,0
+Kyle O'Quinn,C,0,17,1-4,0-1,1-1,3,3,6,0,0,0,1,2,-12,3
+Willy Hernangomez,C,0,14,3-5,0-0,2-2,1,1,2,3,2,0,0,2,-3,8
+Brandon Jennings,PG,0,13,0-2,0-1,0-0,0,1,1,2,1,0,0,1,-10,0
+Justin Holiday,SG,0,15,2-5,0-2,0-0,0,4,4,0,0,1,0,1,-5,4
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,36-91,6-19,25-28,12,28,40,20,9,11,5,16,,103
+ ,,,,39.6%,31.6%,89.3%
+
+400899721,Knicks,Timberwolves,106,104
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,5-16,1-6,3-4,1,3,4,2,3,0,3,3,-17,14
+Kristaps Porzingis,PF,1,39,11-20,3-7,4-5,3,5,8,4,0,2,1,4,+9,29
+Kyle O'Quinn,C,1,18,1-2,0-0,0-1,2,6,8,2,0,0,1,4,+0,2
+Derrick Rose,PG,1,24,5-12,1-3,0-0,0,0,0,2,1,0,2,4,-9,11
+Courtney Lee,SG,1,8,3-3,1-1,0-0,0,1,1,3,0,0,0,1,+4,7
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,20,5-9,4-5,0-0,2,0,2,1,0,0,2,2,+17,14
+Maurice Ndour,SF,0,4,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-7,0
+Marshall Plumlee,C,0,19,1-1,0-0,2-3,1,4,5,1,1,0,0,2,+11,4
+Willy Hernangomez,C,0,8,2-2,0-0,2-2,1,1,2,1,0,0,1,2,-7,6
+Brandon Jennings,PG,0,34,5-14,2-5,0-0,1,1,2,7,2,0,3,2,+8,12
+Justin Holiday,SG,0,20,1-8,0-3,0-0,0,4,4,0,1,1,0,1,-9,2
+Sasha Vujacic,SG,0,11,2-4,1-2,0-0,1,2,3,1,0,0,0,1,+10,5
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-91,13-32,11-15,12,27,39,24,8,3,13,26,,106
+ ,,,,45.1%,40.6%,73.3%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Andrew Wiggins,SF,1,40,8-20,3-4,0-1,2,5,7,4,1,0,1,2,+12,19
+Gorgui Dieng,C,1,33,2-6,0-0,4-6,4,4,8,2,1,0,2,4,+4,8
+Karl-Anthony Towns,C,1,42,15-22,0-3,17-20,3,15,18,2,1,3,4,2,+7,47
+Ricky Rubio,PG,1,38,2-5,0-2,4-4,0,2,2,6,3,0,2,2,+9,8
+Zach LaVine,PG,1,42,5-13,1-5,6-6,1,1,2,1,1,0,3,1,+7,17
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Nemanja Bjelica,PF,0,16,0-5,0-4,0-0,0,0,0,2,1,0,0,3,-9,0
+Cole Aldrich,C,0,6,1-1,0-0,0-0,0,2,2,0,0,1,0,0,-6,2
+Tyus Jones,PG,0,6,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-10,0
+Kris Dunn,PG,0,10,0-1,0-1,0-0,0,0,0,0,1,1,3,2,-11,0
+Shabazz Muhammad,SG,0,8,1-4,0-0,1-2,1,0,1,0,0,0,0,1,-13,3
+Adreian Payne,PF,0,DNP-COACH'S DECISION
+Jordan Hill,C,0,DNP-COACH'S DECISION
+John Lucas III,PG,0,DNP-COACH'S DECISION
+TEAM,,,,34-77,4-19,32-39,11,29,40,17,9,5,15,17,,104
+ ,,,,44.2%,21.1%,82.1%
+
+400899727,Timberwolves,Knicks,114,118
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Andrew Wiggins,SF,1,36,6-14,0-2,7-8,1,2,3,4,1,0,1,3,-14,19
+Gorgui Dieng,C,1,18,1-2,0-0,0-0,1,4,5,0,0,0,2,5,-21,2
+Karl-Anthony Towns,C,1,30,5-18,3-5,7-8,3,5,8,1,0,3,4,4,-20,20
+Ricky Rubio,PG,1,30,1-4,0-2,1-1,1,2,3,6,1,0,1,2,-6,3
+Zach LaVine,PG,1,40,9-18,2-7,3-3,0,2,2,3,1,0,2,3,-7,23
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Nemanja Bjelica,PF,0,21,7-13,3-7,0-0,2,5,7,3,0,0,1,1,+18,17
+Cole Aldrich,C,0,27,4-6,0-0,2-2,5,7,12,2,2,3,0,3,+15,10
+Kris Dunn,PG,0,18,2-3,0-0,2-2,0,1,1,5,1,0,1,3,+2,6
+Shabazz Muhammad,SG,0,21,6-10,2-5,0-0,0,2,2,1,0,0,2,1,+13,14
+Adreian Payne,PF,0,DNP-COACH'S DECISION
+Jordan Hill,C,0,DNP-COACH'S DECISION
+Tyus Jones,PG,0,DNP-COACH'S DECISION
+John Lucas III,PG,0,DNP-COACH'S DECISION
+TEAM,,,,41-88,10-28,22-24,13,30,43,25,6,6,14,25,,114
+ ,,,,46.6%,35.7%,91.7%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,34,9-20,5-10,6-6,0,5,5,3,3,0,1,2,+21,29
+Kristaps Porzingis,PF,1,40,2-12,2-6,5-7,2,3,5,3,0,3,4,4,+7,11
+Kyle O'Quinn,C,1,31,9-11,0-0,2-2,7,7,14,2,0,2,2,4,+16,20
+Derrick Rose,PG,1,34,9-15,0-1,6-10,1,4,5,5,1,0,1,1,+13,24
+Justin Holiday,SG,1,31,3-9,2-6,5-5,0,6,6,0,3,1,1,4,+15,13
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,19,2-4,0-1,0-0,0,1,1,1,0,0,0,1,-19,4
+Lance Thomas,SF,0,3,1-2,1-2,0-0,0,0,0,1,0,0,0,0,-1,3
+Willy Hernangomez,C,0,17,3-6,0-0,0-0,1,3,4,1,0,0,2,2,-12,6
+Brandon Jennings,PG,0,19,1-4,0-2,0-0,0,3,3,8,0,0,4,0,-11,2
+Sasha Vujacic,SG,0,11,2-3,2-3,0-0,0,0,0,2,2,0,0,0,-9,6
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-86,12-31,24-30,11,32,43,26,9,6,15,18,,118
+ ,,,,47.7%,38.7%,80.0%
+
+400899744,Kings,Knicks,98,106
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Rudy Gay,SF,1,35,7-18,2-6,6-6,2,7,9,4,3,0,3,3,+4,22
+Kosta Koufos,C,1,19,1-7,0-0,0-0,5,6,11,0,0,1,0,2,-9,2
+DeMarcus Cousins,C,1,43,9-31,4-10,14-16,5,8,13,4,1,3,2,0,+1,36
+Darren Collison,PG,1,39,4-10,1-3,4-4,1,2,3,6,2,0,2,3,+8,13
+Arron Afflalo,SG,1,17,1-4,1-1,0-0,0,2,2,0,1,0,0,0,-11,3
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Garrett Temple,SF,0,18,2-3,1-2,0-0,0,3,3,1,1,1,1,3,-11,5
+Omri Casspi,SF,0,20,2-4,0-1,2-2,0,3,3,1,1,0,0,1,+2,6
+Matt Barnes,SF,0,17,1-11,0-4,0-0,2,1,3,1,2,0,1,1,-21,2
+Willie Cauley-Stein,C,0,23,4-7,0-0,1-3,3,1,4,0,1,0,0,4,+13,9
+Ty Lawson,PG,0,9,0-2,0-1,0-0,0,0,0,1,1,0,2,0,-16,0
+Anthony Tolliver,PF,0,DNP-COACH'S DECISION
+Ben McLemore,SG,0,DNP-COACH'S DECISION
+TEAM,,,,31-97,9-28,27-31,18,33,51,18,13,5,11,17,,98
+ ,,,,32.0%,32.1%,87.1%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,36,8-20,3-8,1-2,0,4,4,1,0,0,0,3,+15,20
+Kristaps Porzingis,PF,1,35,6-18,1-6,2-2,3,11,14,2,0,5,3,4,+11,15
+Joakim Noah,C,1,25,1-4,0-0,0-4,2,3,5,0,1,0,0,5,-4,2
+Derrick Rose,PG,1,34,9-14,0-0,2-3,2,4,6,6,0,0,4,1,-2,20
+Justin Holiday,SG,1,23,2-7,1-4,0-0,3,5,8,2,3,0,2,2,-2,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,4,1-2,1-2,0-0,0,0,0,1,0,0,1,1,-6,3
+Lance Thomas,SF,0,17,2-8,2-4,3-4,0,3,3,0,0,0,3,3,-3,9
+Willy Hernangomez,C,0,12,1-1,0-0,2-2,0,4,4,3,0,1,0,1,+12,4
+Kyle O'Quinn,C,0,14,2-5,0-0,0-0,3,6,9,0,0,4,1,4,+1,4
+Brandon Jennings,PG,0,26,5-7,2-4,7-7,0,1,1,3,0,0,4,0,+10,19
+Sasha Vujacic,SG,0,16,2-2,1-1,0-0,1,3,4,2,1,0,0,1,+8,5
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,39-88,11-29,17-24,14,44,58,20,5,10,18,25,,106
+ ,,,,44.3%,37.9%,70.8%
+
+400899758,Knicks,Heat,114,103
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,36,13-27,3-9,6-7,1,2,3,2,0,1,1,2,+25,35
+Kristaps Porzingis,PF,1,30,6-16,0-4,2-4,2,10,12,0,0,1,0,4,+7,14
+Joakim Noah,C,1,14,5-6,0-0,0-0,7,3,10,2,0,0,0,4,+9,10
+Derrick Rose,PG,1,25,4-12,0-1,2-2,1,1,2,3,2,0,1,0,+7,10
+Courtney Lee,SG,1,30,4-7,1-1,0-0,1,6,7,1,0,0,2,1,+16,9
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,10,1-5,0-3,0-0,1,2,3,1,0,1,1,0,-13,2
+Lance Thomas,SF,0,21,5-6,1-1,0-0,0,3,3,0,0,0,0,1,+5,11
+Kyle O'Quinn,C,0,27,6-8,0-0,0-1,5,2,7,3,1,2,1,4,+5,12
+Willy Hernangomez,C,0,3,0-0,0-0,0-0,0,2,2,0,0,1,0,0,-1,0
+Brandon Jennings,PG,0,24,2-8,1-4,1-2,0,1,1,9,1,0,4,0,+2,6
+Justin Holiday,SG,0,18,2-3,1-2,0-0,0,3,3,1,2,0,0,2,-5,5
+Ron Baker,SG,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,48-98,7-25,11-16,18,35,53,22,6,6,10,18,,114
+ ,,,,49.0%,28.0%,68.8%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Josh McRoberts,PF,1,29,2-6,1-2,2-2,3,5,8,5,0,0,2,3,-1,7
+Hassan Whiteside,C,1,38,10-20,0-0,3-9,5,9,14,1,1,3,0,3,-24,23
+Goran Dragic,PG,1,40,11-17,4-4,3-4,1,3,4,7,2,0,5,1,-15,29
+Wayne Ellington,SG,1,33,5-14,4-11,0-0,0,2,2,3,1,0,0,1,+5,14
+Rodney McGruder,SG,1,35,2-11,1-4,0-0,3,3,6,4,1,1,1,2,-12,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Derrick Williams,PF,0,15,1-5,0-2,3-4,0,3,3,0,1,0,1,4,+2,5
+Udonis Haslem,PF,0,4,0-0,0-0,1-2,0,0,0,0,0,0,0,0,-12,1
+Willie Reed,C,0,10,2-5,0-0,2-4,3,1,4,0,0,0,0,0,+13,6
+Tyler Johnson,SG,0,36,5-11,1-2,2-2,1,4,5,1,2,0,1,2,-11,13
+James Johnson,PF,0,DNP-RIGHT ROTATOR CUFF STRAIN
+Josh Richardson,SF,0,DNP-COACH'S DECISION
+Justise Winslow,SF,0,DNP-SORE LEFT WRIST
+Luke Babbitt,SF,0,DNP-COACH'S DECISION
+TEAM,,,,38-89,11-25,16-27,16,30,46,21,8,4,10,16,,103
+ ,,,,42.7%,44.0%,59.3%
+
+400899769,Cavaliers,Knicks,126,94
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+LeBron James,SF,1,32,7-10,1-2,10-14,2,4,6,7,1,2,4,2,+32,25
+Kevin Love,C,1,27,6-16,4-12,5-5,1,2,3,2,2,0,2,0,+27,21
+Tristan Thompson,C,1,34,0-5,0-0,3-4,6,14,20,1,2,1,0,2,+27,3
+Kyrie Irving,PG,1,30,9-17,4-6,6-6,0,3,3,6,0,0,2,1,+27,28
+DeAndre Liggins,SG,1,21,2-2,2-2,0-0,1,1,2,2,1,0,0,3,+29,6
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Channing Frye,PF,0,13,2-4,2-3,0-0,0,0,0,0,1,0,0,2,+2,6
+Chris Andersen,PF,0,8,1-1,0-0,0-0,0,1,1,0,1,1,0,0,+3,2
+Richard Jefferson,SF,0,18,2-5,1-2,0-0,0,3,3,0,0,0,0,1,+1,5
+Kay Felder,PG,0,10,2-6,0-1,0-0,0,0,0,3,0,0,1,1,+1,4
+Iman Shumpert,SG,0,23,4-8,4-6,2-2,0,6,6,1,2,0,3,4,+3,14
+James Jones,SG,0,8,3-3,3-3,0-0,0,0,0,0,1,0,0,1,+3,9
+Mike Dunleavy,SG,0,15,1-3,1-3,0-0,0,2,2,1,0,0,0,1,+5,3
+Jordan McRae,SG,0,DNP-COACH'S DECISION
+TEAM,,,,39-80,22-40,26-31,10,36,46,23,11,4,12,18,,126
+ ,,,,48.8%,55.0%,83.9%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,24,4-9,0-2,0-0,1,3,4,2,0,1,3,4,-31,8
+Kristaps Porzingis,PF,1,30,5-15,2-5,0-0,1,2,3,0,0,2,1,5,-19,12
+Joakim Noah,C,1,15,2-3,0-0,1-2,2,4,6,2,0,0,1,1,-29,5
+Brandon Jennings,PG,1,31,6-14,1-3,3-3,0,4,4,3,0,0,3,2,-29,16
+Courtney Lee,SG,1,31,5-10,3-7,2-2,1,1,2,5,2,0,1,2,-20,15
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,17,1-5,1-3,2-2,0,0,0,1,1,0,3,1,-5,5
+Lance Thomas,SF,0,14,2-5,1-3,0-0,0,2,2,0,0,0,0,1,-13,5
+Maurice Ndour,SF,0,10,0-2,0-0,0-0,0,1,1,1,1,0,0,0,-1,0
+Kyle O'Quinn,C,0,21,5-7,0-0,0-0,3,4,7,3,0,0,1,1,+4,10
+Willy Hernangomez,C,0,15,2-5,1-1,4-4,4,3,7,0,1,0,0,0,-1,9
+Sasha Vujacic,SG,0,9,0-2,0-1,0-0,0,2,2,3,0,0,1,4,-6,0
+Justin Holiday,SG,0,14,1-3,1-2,0-0,1,3,4,1,1,0,1,1,-9,3
+Ron Baker,SG,0,10,2-7,1-4,1-2,0,1,1,1,0,0,1,0,-1,6
+TEAM,,,,35-87,11-31,13-15,13,30,43,22,6,3,16,22,,94
+ ,,,,40.2%,35.5%,86.7%
+
+400899787,Knicks,Kings,103,100
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,36,9-22,3-10,12-14,0,7,7,4,1,1,2,3,+4,33
+Kristaps Porzingis,PF,1,35,6-19,1-5,4-4,2,9,11,2,0,0,2,3,+8,17
+Joakim Noah,C,1,28,1-3,0-0,2-2,1,8,9,1,1,2,2,4,+9,4
+Brandon Jennings,PG,1,39,5-10,0-4,3-4,0,5,5,7,0,0,4,1,+7,13
+Courtney Lee,SG,1,33,3-7,2-3,0-1,1,3,4,1,0,0,0,2,+7,8
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,7,2-4,1-2,0-0,1,1,2,0,0,1,1,1,-1,5
+Lance Thomas,SF,0,18,2-5,2-3,0-0,1,1,2,0,1,0,1,2,-5,6
+Kyle O'Quinn,C,0,20,4-7,0-0,0-0,5,6,11,5,0,2,1,4,-6,8
+Sasha Vujacic,SG,0,9,1-1,0-0,0-0,0,0,0,1,0,0,3,4,-4,2
+Justin Holiday,SG,0,15,3-6,1-2,0-0,1,2,3,1,0,0,0,1,-4,7
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Willy Hernangomez,C,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,36-84,10-29,21-25,12,42,54,22,3,6,16,25,,103
+ ,,,,42.9%,34.5%,84.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Rudy Gay,SF,1,35,4-15,0-5,5-6,0,5,5,1,1,0,0,5,-6,13
+Kosta Koufos,C,1,14,2-2,0-0,0-0,0,3,3,1,0,0,1,3,-3,4
+DeMarcus Cousins,C,1,36,9-25,0-6,10-12,3,9,12,6,3,1,3,2,-2,28
+Darren Collison,PG,1,30,5-11,1-2,3-3,0,3,3,3,2,0,0,1,-3,14
+Ben McLemore,SG,1,22,4-7,2-2,0-0,1,3,4,2,1,0,0,1,-3,10
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Anthony Tolliver,PF,0,27,4-9,2-6,0-0,1,4,5,2,0,0,1,3,-3,10
+Garrett Temple,SF,0,26,2-6,1-4,0-0,0,0,0,1,3,0,0,0,+0,5
+Omri Casspi,SF,0,20,4-5,1-1,3-3,0,3,3,1,0,0,1,2,+4,12
+Willie Cauley-Stein,C,0,12,0-2,0-0,0-0,1,0,1,1,0,0,0,2,+1,0
+Ty Lawson,PG,0,18,1-5,0-2,2-3,0,3,3,6,0,0,1,1,+0,4
+Matt Barnes,SF,0,DNP-REST
+Arron Afflalo,SG,0,DNP-COACH'S DECISION
+TEAM,,,,35-87,7-28,23-27,6,33,39,24,10,1,7,20,,100
+ ,,,,40.2%,25.0%,85.2%
+
+400899802,Knicks,Lakers,118,112
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,38,4-16,0-4,5-6,0,7,7,7,2,0,4,2,-4,13
+Kristaps Porzingis,PF,1,39,8-15,3-4,7-9,3,10,13,2,1,7,1,3,+13,26
+Joakim Noah,C,1,20,2-4,0-0,0-0,1,2,3,4,0,1,1,1,-2,4
+Derrick Rose,PG,1,34,12-16,0-1,1-2,0,3,3,2,0,1,2,1,+13,25
+Courtney Lee,SG,1,35,4-6,3-4,5-5,0,0,0,1,1,0,0,2,+14,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Lance Thomas,SF,0,16,0-2,0-1,0-0,0,0,0,0,2,0,0,0,-3,0
+Willy Hernangomez,C,0,20,3-8,0-1,0-0,4,8,12,1,1,2,0,3,+3,6
+Brandon Jennings,PG,0,23,5-11,3-4,6-6,0,3,3,4,1,0,1,0,+0,19
+Justin Holiday,SG,0,16,3-6,1-3,2-3,0,3,3,0,1,0,1,3,-4,9
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-84,10-22,26-31,8,36,44,21,9,11,10,15,,118
+ ,,,,48.8%,45.5%,83.9%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Julius Randle,PF,1,34,7-12,0-0,3-4,2,8,10,4,0,0,1,4,-1,17
+Luol Deng,SF,1,32,8-13,5-8,1-1,0,5,5,2,2,0,1,1,-7,22
+Timofey Mozgov,C,1,22,2-5,0-0,0-0,1,3,4,1,0,1,1,2,+2,4
+D'Angelo Russell,PG,1,17,1-8,1-3,0-0,0,0,0,5,2,0,4,0,-6,3
+Nick Young,SG,1,20,6-11,1-6,2-3,2,2,4,0,0,0,0,2,+0,15
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Thomas Robinson,PF,0,11,2-3,0-0,0-1,0,4,4,0,0,0,1,2,+4,4
+Larry Nance Jr.,PF,0,20,3-5,0-0,0-0,2,0,2,3,1,0,1,2,-12,6
+Brandon Ingram,SF,0,26,1-8,1-3,0-0,0,2,2,2,0,0,0,6,-8,3
+Jordan Clarkson,PG,0,32,6-10,0-1,2-3,2,2,4,4,0,0,0,1,+1,14
+Lou Williams,SG,0,26,6-13,2-7,10-10,0,6,6,5,2,0,5,2,-3,24
+Metta World Peace,SF,0,DNP-COACH'S DECISION
+Ivica Zubac,C,0,DNP-COACH'S DECISION
+Marcelo Huertas,PG,0,DNP-COACH'S DECISION
+TEAM,,,,42-88,10-28,18-22,9,32,41,26,7,1,14,22,,112
+ ,,,,47.7%,35.7%,81.8%
+
+400899814,Knicks,Suns,111,113
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,39,3-15,0-2,7-8,0,6,6,5,0,0,0,2,-8,13
+Kristaps Porzingis,PF,1,42,12-23,4-4,6-7,1,7,8,0,3,3,2,6,+4,34
+Joakim Noah,C,1,22,3-5,0-0,2-7,2,6,8,3,1,1,4,3,+0,8
+Derrick Rose,PG,1,10,0-6,0-1,2-2,0,1,1,0,0,0,0,0,-5,2
+Courtney Lee,SG,1,29,6-8,2-3,0-0,1,1,2,2,2,0,0,3,-8,14
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,4,0-3,0-2,1-2,0,0,0,0,0,0,0,1,-9,1
+Lance Thomas,SF,0,23,1-4,1-2,3-3,1,1,2,1,1,0,1,1,+9,6
+Kyle O'Quinn,C,0,28,9-16,0-1,4-6,5,9,14,2,1,0,1,5,+2,22
+Brandon Jennings,PG,0,28,1-6,0-2,1-1,0,0,0,5,1,0,2,0,-5,3
+Justin Holiday,SG,0,25,3-8,0-2,2-2,0,1,1,3,0,0,1,4,+2,8
+Ron Baker,SG,0,15,0-3,0-1,0-0,1,0,1,2,1,0,2,2,+8,0
+Willy Hernangomez,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,38-97,7-20,28-38,11,32,43,23,10,4,13,27,,111
+ ,,,,39.2%,35.0%,73.7%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marquese Chriss,PF,1,31,5-12,1-3,3-3,4,8,12,0,1,1,1,5,-1,14
+PJ Tucker,SF,1,40,6-13,1-5,0-2,1,6,7,1,3,1,2,5,+8,13
+Tyson Chandler,C,1,41,5-8,0-0,3-3,9,14,23,0,1,1,2,3,+6,13
+Eric Bledsoe,PG,1,39,9-21,1-4,12-12,2,4,6,8,2,1,5,2,+5,31
+Devin Booker,SG,1,36,3-16,1-5,5-5,0,1,1,0,0,1,1,2,+7,12
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Dragan Bender,PF,0,8,1-3,1-3,0-0,0,0,0,0,0,0,0,3,-1,3
+Alan Williams,PF,0,9,0-0,0-0,1-2,0,1,1,0,0,0,0,4,-5,1
+Jared Dudley,SF,0,22,2-4,2-3,0-0,0,6,6,1,2,1,3,4,+1,6
+Brandon Knight,PG,0,20,4-11,2-5,4-6,0,2,2,3,0,0,2,0,-9,14
+Leandro Barbosa,SG,0,18,3-5,0-2,0-0,0,3,3,0,0,1,1,0,-1,6
+Alex Len,C,0,DNP-RIGHT HIP
+Tyler Ulis,PG,0,DNP-COACH'S DECISION
+John Jenkins,SG,0,DNP-COACH'S DECISION
+TEAM,,,,38-93,9-30,28-33,16,45,61,13,9,7,17,28,,113
+ ,,,,40.9%,30.0%,84.8%
+
+400899830,Knicks,Warriors,90,103
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kristaps Porzingis,PF,1,35,4-13,0-2,0-2,2,3,5,0,0,0,2,2,-21,8
+Lance Thomas,SF,1,24,2-9,1-4,0-0,0,0,0,0,0,1,0,0,-16,5
+Joakim Noah,C,1,15,3-10,0-0,0-0,6,4,10,1,0,1,1,2,-14,6
+Brandon Jennings,PG,1,29,4-13,0-2,2-4,1,6,7,6,0,0,3,1,-16,10
+Courtney Lee,SG,1,33,4-11,0-3,1-2,0,4,4,3,0,1,0,1,-13,9
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,14,2-5,1-3,0-0,1,0,1,1,2,0,0,0,-6,5
+Maurice Ndour,SF,0,6,2-4,0-0,2-2,1,0,1,0,1,0,0,0,+4,6
+Kyle O'Quinn,C,0,15,2-4,0-0,1-3,2,5,7,0,1,0,2,2,-6,5
+Marshall Plumlee,C,0,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Willy Hernangomez,C,0,21,4-8,0-0,0-2,1,9,10,2,0,1,0,0,+9,8
+Sasha Vujacic,SG,0,2,0-1,0-1,0-0,0,0,0,0,0,0,0,0,+0,0
+Justin Holiday,SG,0,23,5-8,2-4,3-4,0,2,2,3,6,1,1,1,+6,15
+Ron Baker,SG,0,23,6-7,1-2,0-0,0,2,2,3,0,0,2,1,+8,13
+TEAM,,,,38-93,5-21,9-19,14,35,49,19,10,5,11,10,,90
+ ,,,,40.9%,23.8%,47.4%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Draymond Green,PF,1,32,2-12,1-5,0-0,5,6,11,7,0,2,3,3,+18,5
+Kevin Durant,SF,1,33,7-18,1-6,0-0,1,13,14,8,0,2,2,1,+8,15
+JaVale McGee,C,1,16,8-10,0-0,1-3,2,0,2,1,0,1,1,0,+13,17
+Stephen Curry,PG,1,34,3-14,2-8,0-0,1,9,10,8,1,0,3,0,+20,8
+Klay Thompson,SG,1,32,10-17,4-10,1-1,2,3,5,4,1,0,2,2,+17,25
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+David West,PF,0,10,1-1,0-0,0-0,1,3,4,4,2,1,2,1,-2,2
+James Michael McAdoo,SF,0,3,0-0,0-0,0-0,0,1,1,0,0,0,0,0,-1,0
+Kevon Looney,SF,0,15,2-2,0-0,1-2,2,2,4,0,1,1,0,2,-2,5
+Andre Iguodala,SF,0,21,2-3,0-1,1-2,1,3,4,3,1,2,1,5,+7,5
+Shaun Livingston,PG,0,19,5-8,0-0,0-0,0,1,1,3,0,1,0,2,-6,10
+Ian Clark,SG,0,11,4-7,1-1,0-0,0,0,0,2,1,0,2,1,-5,9
+Patrick McCaw,SG,0,15,1-4,0-1,0-0,0,1,1,1,0,0,1,0,-2,2
+Anderson Varejao,C,0,DNP-COACH'S DECISION
+TEAM,,,,45-96,9-32,4-8,15,42,57,41,7,10,17,17,,103
+ ,,,,46.9%,28.1%,50.0%
+
+400899846,Knicks,Nuggets,114,127
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,36,10-14,2-2,7-8,1,3,4,3,1,0,4,4,-21,29
+Kristaps Porzingis,PF,1,38,7-19,1-6,7-7,1,7,8,3,2,0,0,4,-5,22
+Joakim Noah,C,1,11,1-4,0-0,0-0,2,3,5,0,0,0,1,2,-7,2
+Brandon Jennings,PG,1,36,2-8,2-5,8-8,0,0,0,7,3,0,3,2,-14,14
+Courtney Lee,SG,1,36,4-11,2-3,0-0,1,0,1,1,0,0,0,6,-22,10
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,2,0-0,0-0,0-0,0,0,0,0,0,0,0,1,+2,0
+Lance Thomas,SF,0,11,1-2,0-0,2-2,0,0,0,0,0,1,0,1,-3,4
+Maurice Ndour,SF,0,2,0-0,0-0,2-2,1,1,2,0,0,0,0,0,+2,2
+Kyle O'Quinn,C,0,7,0-1,0-1,0-0,0,0,0,0,0,1,0,0,-6,0
+Willy Hernangomez,C,0,28,5-8,0-0,7-8,2,7,9,2,0,2,1,4,+7,17
+Sasha Vujacic,SG,0,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
+Justin Holiday,SG,0,20,3-6,1-3,3-4,0,1,1,1,0,0,1,3,-1,10
+Ron Baker,SG,0,12,2-7,0-3,0-0,1,4,5,1,0,0,1,0,+1,4
+TEAM,,,,35-80,8-23,36-39,9,26,35,18,6,4,11,27,,114
+ ,,,,43.8%,34.8%,92.3%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Wilson Chandler,SF,1,27,5-14,2-7,0-0,1,0,1,3,1,0,1,5,+10,12
+Danilo Gallinari,SF,1,28,4-9,2-7,3-4,0,3,3,3,0,0,0,5,+15,13
+Nikola Jokic,C,1,20,5-8,0-0,0-0,2,7,9,5,0,0,1,5,+6,10
+Emmanuel Mudiay,PG,1,32,10-15,2-3,0-0,0,7,7,5,1,0,1,2,+16,22
+Gary Harris,SG,1,30,6-9,0-1,4-6,0,2,2,2,1,0,0,2,+20,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Juan Hernangomez,PF,0,2,0-0,0-0,1-2,0,0,0,0,0,0,0,0,-2,1
+Kenneth Faried,PF,0,29,10-11,0-0,5-10,5,2,7,2,0,3,2,4,+16,25
+Darrell Arthur,PF,0,4,0-1,0-1,0-0,0,0,0,0,0,1,0,1,-5,0
+Will Barton,SF,0,32,6-10,2-3,3-5,0,8,8,2,2,1,2,1,-5,17
+Jusuf Nurkic,C,0,8,2-5,0-0,1-2,1,0,1,0,1,1,0,0,+3,5
+Jamal Murray,PG,0,13,2-5,2-4,0-0,2,1,3,0,0,1,0,1,-7,6
+Jameer Nelson,PG,0,16,0-3,0-1,0-0,0,0,0,4,0,0,3,1,-2,0
+Mike Miller,SG,0,DNP-COACH'S DECISION
+TEAM,,,,50-90,10-27,17-29,11,30,41,26,6,7,10,27,,127
+ ,,,,55.6%,37.0%,58.6%
+
+400899863,Pacers,Knicks,111,118
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Thaddeus Young,PF,1,37,9-17,2-5,1-2,2,5,7,1,2,0,0,2,-1,21
+Paul George,SF,1,36,6-17,0-4,4-4,1,4,5,3,2,0,4,2,-9,16
+Myles Turner,C,1,32,6-13,2-3,7-8,1,8,9,1,1,4,1,1,-7,21
+Jeff Teague,PG,1,37,5-13,0-3,7-9,1,6,7,12,1,1,1,1,-8,17
+Glenn Robinson III,SG,1,33,1-7,0-1,1-2,3,0,3,2,1,0,0,0,+4,3
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Lavoy Allen,PF,0,11,0-1,0-0,0-0,0,3,3,0,0,0,0,1,-6,0
+CJ Miles,SF,0,26,2-8,2-5,5-6,1,6,7,0,2,0,2,3,-9,11
+Al Jefferson,C,0,16,8-11,0-0,2-2,2,1,3,0,0,0,0,2,+0,18
+Aaron Brooks,PG,0,11,2-4,0-2,0-0,0,0,0,3,1,0,1,2,+1,4
+Georges Niang,F,0,DNP-COACH'S DECISION
+Kevin Seraphin,C,0,DNP-COACH'S DECISION
+Joe Young,PG,0,DNP-COACH'S DECISION
+Rodney Stuckey,PG,0,DNP-SORE LEFT HAMSTRING
+TEAM,,,,39-91,6-23,27-33,11,33,44,22,10,5,9,14,,111
+ ,,,,42.9%,26.1%,81.8%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,37,13-25,7-11,2-2,0,4,4,4,2,0,0,3,-7,35
+Kristaps Porzingis,PF,1,33,7-15,4-7,3-4,0,8,8,1,0,3,3,2,+11,21
+Joakim Noah,C,1,30,4-8,0-0,3-4,2,9,11,2,0,2,1,4,+0,11
+Derrick Rose,PG,1,36,9-18,0-0,6-7,0,4,4,6,0,2,4,0,+10,24
+Courtney Lee,SG,1,37,2-7,1-3,2-2,1,3,4,1,1,0,1,1,+0,7
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Lance Thomas,SF,0,6,1-1,0-0,0-0,0,1,1,0,0,0,0,1,-10,2
+Kyle O'Quinn,C,0,17,3-6,0-0,0-0,1,5,6,1,2,1,1,3,+9,6
+Willy Hernangomez,C,0,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
+Brandon Jennings,PG,0,22,2-3,0-0,1-2,0,3,3,6,1,0,3,2,+10,5
+Justin Holiday,SG,0,21,3-5,1-2,0-0,0,4,4,3,0,0,1,2,+16,7
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,44-88,13-23,17-21,4,41,45,24,6,8,14,18,,118
+ ,,,,50.0%,56.5%,81.0%
+
+400899880,Magic,Knicks,95,106
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Serge Ibaka,PF,1,32,10-18,3-7,0-0,3,7,10,1,0,1,3,2,+3,23
+Aaron Gordon,PF,1,19,3-8,0-3,0-0,0,2,2,1,0,0,1,2,-11,6
+Bismack Biyombo,C,1,27,3-6,0-0,3-4,1,5,6,0,1,5,0,2,-13,9
+D.J. Augustin,PG,1,20,1-4,0-2,0-0,0,3,3,3,0,0,1,0,+1,2
+Evan Fournier,SG,1,36,9-17,1-5,2-2,1,4,5,4,0,1,2,2,+1,21
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Damjan Rudez,SF,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Mario Hezonja,SF,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Jeff Green,SF,0,29,3-8,0-2,4-4,0,1,1,1,3,0,2,0,+0,10
+Stephen Zimmerman,C,0,1,0-2,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Nikola Vucevic,C,0,27,4-11,0-1,2-4,3,2,5,6,1,0,1,4,-15,10
+Elfrid Payton,PG,0,31,4-11,1-4,1-2,2,6,8,4,2,0,6,1,-9,10
+C.J. Watson,PG,0,17,2-5,0-3,0-0,0,1,1,1,0,0,0,1,-12,4
+Jodie Meeks,SG,0,DNP-PERSONAL REASONS
+TEAM,,,,39-90,5-27,12-16,10,31,41,21,7,7,16,14,,95
+ ,,,,43.3%,18.5%,75.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,29,5-17,0-3,5-5,1,7,8,3,1,0,1,2,+3,15
+Kristaps Porzingis,PF,1,27,5-11,2-2,0-0,2,2,4,1,1,2,3,1,+10,12
+Joakim Noah,C,1,22,2-5,0-0,2-2,4,3,7,1,2,0,3,2,+8,6
+Derrick Rose,PG,1,26,7-16,1-2,4-4,1,4,5,3,0,0,0,2,-4,19
+Courtney Lee,SG,1,29,4-7,2-3,0-0,1,2,3,3,2,1,2,1,+2,10
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,18,2-3,1-2,1-2,0,2,2,3,1,1,0,3,+8,6
+Kyle O'Quinn,C,0,24,6-12,0-1,2-2,5,11,16,0,0,5,1,2,+5,14
+Willy Hernangomez,C,0,21,7-11,1-3,0-0,3,2,5,0,0,0,1,3,+1,15
+Brandon Jennings,PG,0,22,1-5,1-2,1-2,1,0,1,12,1,0,3,2,+15,4
+Sasha Vujacic,SG,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Justin Holiday,SG,0,20,2-8,1-2,0-0,0,0,0,0,1,0,0,0,+7,5
+Ron Baker,SG,0,1,0-1,0-0,0-0,0,1,1,0,0,0,1,0,+0,0
+Lance Thomas,SF,0,DNP-COACH'S DECISION
+TEAM,,,,41-96,9-20,15-17,18,34,52,26,9,9,15,18,,106
+ ,,,,42.7%,45.0%,88.2%
+
+400899898,Celtics,Knicks,119,114
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jae Crowder,PF,1,34,5-9,3-6,3-4,1,5,6,1,0,0,0,3,+1,16
+Al Horford,PF,1,35,7-13,1-3,0-0,3,4,7,5,3,1,0,0,+5,15
+Amir Johnson,C,1,24,3-6,0-0,3-4,5,1,6,3,1,0,0,4,+8,9
+Isaiah Thomas,PG,1,33,9-23,3-13,6-8,0,3,3,3,0,0,2,3,-7,27
+Avery Bradley,SG,1,32,5-12,1-1,0-0,0,6,6,3,3,0,1,2,-6,11
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jonas Jerebko,PF,0,13,1-5,0-3,0-0,1,1,2,0,1,0,0,3,-2,2
+Kelly Olynyk,PF,0,23,7-9,2-3,0-0,0,2,2,2,0,0,1,3,-6,16
+Marcus Smart,PG,0,28,5-9,2-4,3-4,1,1,2,7,1,0,1,2,+17,15
+Gerald Green,SG,0,12,3-6,2-3,0-0,1,2,3,1,1,1,0,0,+17,8
+Jaylen Brown,SG,0,6,0-1,0-0,0-0,0,2,2,0,0,0,0,0,-2,0
+Tyler Zeller,C,0,DNP-COACH'S DECISION
+Terry Rozier,PG,0,DNP-COACH'S DECISION
+James Young,SG,0,DNP-COACH'S DECISION
+TEAM,,,,45-93,14-36,15-20,12,27,39,25,10,2,5,20,,119
+ ,,,,48.4%,38.9%,75.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,39,9-24,2-7,9-9,2,5,7,2,1,1,2,2,-8,29
+Kristaps Porzingis,PF,1,37,9-16,2-4,2-2,2,10,12,1,2,3,5,4,-3,22
+Joakim Noah,C,1,28,3-4,0-0,2-3,5,7,12,2,0,0,0,4,+4,8
+Derrick Rose,PG,1,38,10-19,0-0,5-6,3,2,5,3,0,0,3,3,-5,25
+Courtney Lee,SG,1,34,4-9,2-6,1-2,1,2,3,0,0,2,0,3,-6,11
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,9,1-3,1-2,0-0,1,0,1,0,0,0,0,0,-1,3
+Lance Thomas,SF,0,9,1-3,0-1,1-1,2,0,2,1,0,0,0,2,+4,3
+Kyle O'Quinn,C,0,13,3-4,0-0,0-0,1,3,4,0,0,0,4,3,+1,6
+Willy Hernangomez,C,0,3,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-10,0
+Brandon Jennings,PG,0,16,0-2,0-1,0-0,0,2,2,2,2,0,1,1,-4,0
+Justin Holiday,SG,0,14,1-3,1-2,4-4,0,1,1,0,0,0,2,1,+3,7
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-87,8-23,24-27,17,32,49,11,5,6,17,23,,114
+ ,,,,47.1%,34.8%,88.9%
+
+400899920,Knicks,Hawks,98,102
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,15,4-9,1-2,1-2,1,4,5,1,0,0,1,1,-1,10
+Kristaps Porzingis,PF,1,42,7-17,4-8,6-9,2,6,8,1,1,3,5,4,-3,24
+Joakim Noah,C,1,38,5-8,0-0,4-4,6,10,16,3,2,1,1,3,+0,14
+Derrick Rose,PG,1,43,9-28,0-2,8-9,2,5,7,6,0,0,2,3,+6,26
+Sasha Vujacic,SG,1,27,1-7,0-3,0-0,1,4,5,1,1,0,0,1,-8,2
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,3,0-0,0-0,0-0,0,0,0,0,0,0,1,1,-4,0
+Lance Thomas,SF,0,12,0-1,0-1,0-0,0,1,1,0,0,0,0,2,-3,0
+Kyle O'Quinn,C,0,13,3-5,0-0,0-0,0,4,4,0,1,1,2,3,+2,6
+Willy Hernangomez,C,0,10,0-1,0-0,0-0,1,1,2,1,0,0,1,1,-1,0
+Brandon Jennings,PG,0,28,1-5,0-4,0-0,0,4,4,3,1,1,1,3,-5,2
+Justin Holiday,SG,0,34,5-12,2-7,2-2,1,2,3,4,2,1,3,1,-3,14
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,35-93,7-27,21-26,14,41,55,20,8,7,17,23,,98
+ ,,,,37.6%,25.9%,80.8%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Paul Millsap,PF,1,41,4-20,1-6,3-4,3,4,7,6,1,2,0,3,+7,12
+Thabo Sefolosha,SF,1,31,3-7,1-4,4-4,1,5,6,0,2,0,4,2,-3,11
+Dwight Howard,C,1,39,6-9,0-0,4-6,7,15,22,3,1,1,1,5,-1,16
+Dennis Schroder,PG,1,40,11-21,1-3,4-6,0,0,0,5,2,0,2,2,+11,27
+Kent Bazemore,SG,1,40,4-12,1-4,2-2,0,1,1,4,0,0,3,4,+8,11
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mike Muscala,PF,0,14,1-4,0-1,0-0,3,2,5,0,1,0,1,0,-6,2
+Kris Humphries,PF,0,12,2-7,0-1,2-2,2,4,6,0,1,0,0,0,+5,6
+Tim Hardaway Jr.,SF,0,13,0-7,0-2,0-0,1,2,3,0,0,0,0,2,-1,0
+Malcolm Delaney,PG,0,10,2-4,0-1,0-1,0,0,0,0,0,0,1,1,+0,4
+Kyle Korver,SG,0,25,4-10,3-5,2-2,0,5,5,1,0,0,1,0,+0,13
+Mike Scott,PF,0,DNP-COACH'S DECISION
+DeAndre' Bembry,SF,0,DNP-COACH'S DECISION
+Taurean Prince,SF,0,DNP-COACH'S DECISION
+TEAM,,,,37-101,7-27,21-27,17,38,55,19,8,3,13,19,,102
+ ,,,,36.6%,25.9%,77.8%
+
+400899937,Knicks,Pelicans,92,104
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,40,8-22,1-5,9-10,1,12,13,3,1,0,4,3,-9,26
+Kristaps Porzingis,PF,1,38,8-20,0-2,5-5,3,9,12,3,2,2,0,4,-8,21
+Joakim Noah,C,1,16,0-3,0-0,0-0,3,3,6,2,0,2,4,3,-12,0
+Derrick Rose,PG,1,38,9-21,1-2,1-1,0,2,2,1,3,0,4,2,-7,20
+Sasha Vujacic,SG,1,22,1-2,1-2,0-0,0,2,2,2,0,1,0,2,-4,3
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Lance Thomas,SF,0,18,2-5,1-2,0-0,0,1,1,0,0,0,0,0,-7,5
+Kyle O'Quinn,C,0,5,1-3,0-0,0-0,1,1,2,0,0,0,0,0,-2,2
+Willy Hernangomez,C,0,7,1-1,0-0,0-0,1,1,2,0,0,0,1,1,-6,2
+Brandon Jennings,PG,0,28,2-8,1-3,0-0,0,3,3,3,1,0,1,1,+4,5
+Justin Holiday,SG,0,28,3-8,2-7,0-0,1,6,7,4,0,1,0,2,-9,8
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Maurice Ndour,SF,0,DNP-SPRAINED RIGHT ANKLE
+Courtney Lee,SG,0,DNP-SORE RIGHT WRIST
+TEAM,,,,35-93,7-23,15-16,10,40,50,18,7,6,14,18,,92
+ ,,,,37.6%,30.4%,93.8%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Anthony Davis,PF,1,34,9-18,0-0,5-6,1,17,18,2,2,0,5,3,+12,23
+Dante Cunningham,SF,1,35,3-7,2-4,0-0,0,3,3,0,1,1,0,1,+19,8
+Solomon Hill,SF,1,28,4-6,2-4,0-0,0,0,0,0,0,0,1,5,+3,10
+Jrue Holiday,PG,1,35,5-10,0-1,2-2,0,4,4,11,1,2,1,1,+15,12
+Buddy Hield,SG,1,24,3-9,2-5,4-4,0,2,2,1,0,0,1,0,+9,12
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Terrence Jones,PF,0,18,2-6,0-0,1-1,0,4,4,1,0,2,1,0,+10,5
+E'Twaun Moore,SF,0,27,5-10,2-3,0-0,1,3,4,2,0,0,2,1,-1,12
+Langston Galloway,SG,0,21,2-8,2-7,0-0,0,2,2,1,0,0,1,1,-2,6
+Tyreke Evans,SG,0,18,5-11,2-5,4-4,0,5,5,4,0,0,1,0,-5,16
+Cheick Diallo,PF,0,DNP-COACH'S DECISION
+Alexis Ajinca,C,0,DNP-COACH'S DECISION
+Omer Asik,C,0,DNP-COACH'S DECISION
+Tim Frazier,PG,0,DNP-COACH'S DECISION
+TEAM,,,,38-85,12-29,16-17,2,40,42,22,4,5,13,12,,104
+ ,,,,44.7%,41.4%,94.1%
+
+400899946,Knicks,Rockets,122,129
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,19,3-11,0-2,1-2,1,0,1,3,0,0,1,3,-5,7
+Lance Thomas,SF,1,33,3-9,1-4,4-4,0,1,1,1,0,0,1,4,-14,11
+Joakim Noah,C,1,29,7-10,0-0,1-3,4,12,16,2,1,1,0,2,-11,15
+Derrick Rose,PG,1,41,8-23,1-3,4-5,2,3,5,7,2,0,0,0,-9,21
+Brandon Jennings,PG,1,41,12-22,3-8,5-7,1,4,5,7,0,1,2,0,-10,32
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,16,5-9,2-5,2-2,0,2,2,1,1,0,0,3,+4,14
+Maurice Ndour,SF,0,9,2-3,0-0,0-0,1,1,2,0,0,0,1,3,+8,4
+Willy Hernangomez,C,0,19,1-5,0-1,1-2,3,7,10,0,0,1,1,1,+4,3
+Sasha Vujacic,SG,0,4,0-1,0-1,0-0,0,0,0,0,0,0,0,0,+2,0
+Justin Holiday,SG,0,30,6-12,3-8,0-0,1,5,6,0,3,0,1,4,-4,15
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Courtney Lee,SG,0,DNP-SORE RIGHT WRIST
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,47-105,10-32,18-25,13,35,48,21,7,3,7,20,,122
+ ,,,,44.8%,31.3%,72.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Ryan Anderson,PF,1,35,8-12,4-8,5-6,2,4,6,1,0,2,0,3,+13,25
+Montrezl Harrell,PF,1,33,6-7,0-0,1-1,0,4,4,4,0,0,0,4,+7,13
+Trevor Ariza,SF,1,39,5-15,2-10,2-2,0,7,7,4,2,0,0,2,+9,14
+Corey Brewer,SF,1,29,3-6,1-3,0-0,1,3,4,1,0,0,2,5,+1,7
+James Harden,PG,1,42,14-26,9-16,16-18,3,13,16,17,0,0,8,2,+13,53
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Sam Dekker,SF,0,13,0-4,0-3,0-0,3,2,5,1,0,0,1,0,-6,0
+Nene Hilario,C,0,12,1-2,0-0,0-2,1,1,2,0,0,0,0,1,+1,2
+Tyler Ennis,PG,0,6,0-1,0-0,0-0,0,0,0,0,0,0,0,1,-6,0
+Eric Gordon,SG,0,32,5-19,5-15,0-0,0,2,2,2,1,0,2,2,+3,15
+Kyle Wiltjer,F,0,DNP-COACH'S DECISION
+Bobby Brown,PG,0,DNP-COACH'S DECISION
+Patrick Beverley,PG,0,DNP-SORE RIGHT WRIST
+KJ McDaniels,SG,0,DNP-COACH'S DECISION
+TEAM,,,,42-92,21-55,24-29,10,36,46,30,3,2,13,20,,129
+ ,,,,45.7%,38.2%,82.8%
+
+400899952,Bucks,Knicks,105,104
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Giannis Antetokounmpo,PF,1,39,10-18,1-4,6-7,1,12,13,4,1,3,3,2,-11,27
+Jabari Parker,PF,1,37,4-10,1-3,6-8,0,4,4,3,1,0,1,2,+6,15
+John Henson,C,1,14,1-1,0-0,0-0,0,2,2,0,0,0,0,3,-9,2
+Malcolm Brogdon,PG,1,38,5-14,0-3,2-2,1,5,6,8,0,0,0,2,+3,12
+Tony Snell,SG,1,20,1-5,1-5,0-0,0,3,3,1,0,0,2,1,-12,3
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mirza Teletovic,PF,0,21,4-10,3-8,2-2,1,0,1,0,0,0,2,0,+7,13
+Michael Beasley,SF,0,10,2-3,1-1,2-2,0,0,0,0,0,1,1,3,-2,7
+Miles Plumlee,C,0,4,0-2,0-0,0-0,0,1,1,0,0,0,1,0,+3,0
+Greg Monroe,C,0,31,7-10,0-0,4-10,3,6,9,4,3,1,3,1,+7,18
+Jason Terry,SG,0,28,3-5,2-4,0-0,1,2,3,0,2,0,0,1,+13,8
+Steve Novak,SF,0,DNP-COACH'S DECISION
+Thon Maker,C,0,DNP-COACH'S DECISION
+Matthew Dellavedova,PG,0,DNP-STRAINED RIGHT HAMSTRING
+TEAM,,,,37-78,9-28,22-31,7,35,42,20,7,5,13,15,,105
+ ,,,,47.4%,32.1%,71.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,37,10-23,4-10,6-8,1,10,11,7,2,0,2,3,+5,30
+Lance Thomas,SF,1,38,3-8,1-2,0-0,1,3,4,2,3,0,0,4,-2,7
+Joakim Noah,C,1,31,4-7,0-0,0-2,7,9,16,2,0,1,0,5,+7,8
+Derrick Rose,PG,1,33,7-18,1-2,0-0,0,3,3,4,1,0,5,0,+7,15
+Courtney Lee,SG,1,38,4-9,3-5,0-0,1,1,2,3,1,1,0,1,+6,11
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,19,6-10,2-5,1-2,2,2,4,1,2,1,1,3,-1,15
+Kyle O'Quinn,C,0,15,4-8,0-0,0-0,2,0,2,1,0,0,0,1,-9,8
+Willy Hernangomez,C,0,3,0-1,0-0,0-0,0,1,1,0,0,0,0,0,+1,0
+Brandon Jennings,PG,0,16,1-4,1-2,0-0,0,0,0,5,0,0,3,1,-12,3
+Justin Holiday,SG,0,10,3-6,1-2,0-0,1,2,3,1,0,0,2,1,-7,7
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,42-94,13-28,7-12,15,31,46,26,9,3,13,19,,104
+ ,,,,44.7%,46.4%,58.3%
+
+400899969,Knicks,Bucks,116,111
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,39,8-20,4-5,6-9,0,6,6,10,1,0,2,1,+22,26
+Kristaps Porzingis,PF,1,30,9-14,3-4,3-4,0,6,6,0,0,3,1,6,-5,24
+Joakim Noah,C,1,20,4-6,0-0,0-0,5,4,9,1,0,0,4,6,-6,8
+Derrick Rose,PG,1,32,4-14,0-1,4-4,0,2,2,8,0,0,1,1,-2,12
+Courtney Lee,SG,1,35,3-5,2-3,3-4,1,1,2,3,1,1,1,0,+8,11
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,13,3-5,1-3,0-0,0,1,1,1,0,0,1,0,-3,7
+Lance Thomas,SF,0,20,4-4,2-2,0-0,1,1,2,0,1,0,2,3,+0,10
+Kyle O'Quinn,C,0,26,4-9,0-0,1-2,4,4,8,1,2,2,0,3,+13,9
+Brandon Jennings,PG,0,5,0-1,0-1,0-0,0,1,1,1,0,0,2,0,-12,0
+Justin Holiday,SG,0,8,1-2,1-2,0-0,0,1,1,0,0,0,0,0,-8,3
+Ron Baker,SG,0,12,1-3,0-2,4-4,0,2,2,4,0,0,0,1,+18,6
+Willy Hernangomez,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-83,13-23,21-27,11,29,40,29,5,6,14,21,,116
+ ,,,,49.4%,56.5%,77.8%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Giannis Antetokounmpo,PF,1,38,9-21,2-5,5-6,2,3,5,2,2,6,5,4,-2,25
+Jabari Parker,PF,1,38,10-18,4-6,1-4,1,3,4,5,0,0,2,3,-7,25
+John Henson,C,1,20,1-4,0-0,2-2,1,6,7,1,0,2,0,1,-6,4
+Malcolm Brogdon,PG,1,31,4-9,0-1,2-2,0,6,6,5,0,0,1,2,-12,10
+Tony Snell,SG,1,38,5-6,3-4,0-0,0,3,3,0,2,2,1,0,-5,13
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mirza Teletovic,PF,0,17,3-5,3-5,2-2,0,1,1,0,1,0,0,0,+3,11
+Michael Beasley,SF,0,12,1-4,0-1,1-1,0,0,0,2,0,0,2,2,-3,3
+Greg Monroe,C,0,28,6-11,0-0,7-10,2,5,7,4,2,1,1,2,+1,19
+Jason Terry,SG,0,18,0-0,0-0,1-1,0,2,2,5,2,0,2,5,+6,1
+Steve Novak,SF,0,DNP-COACH'S DECISION
+Miles Plumlee,C,0,DNP-COACH'S DECISION
+Thon Maker,C,0,DNP-COACH'S DECISION
+Matthew Dellavedova,PG,0,DNP-RIGHT HAMSTRING
+TEAM,,,,39-78,12-22,21-28,6,29,35,24,9,11,14,19,,111
+ ,,,,50.0%,54.5%,75.0%
+
+400899973,Knicks,Pacers,109,123
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,27,6-14,1-4,4-5,0,2,2,5,0,0,0,3,-15,17
+Kristaps Porzingis,PF,1,34,5-11,4-6,2-2,1,3,4,3,1,4,5,4,-9,16
+Joakim Noah,C,1,21,2-4,0-0,0-2,2,4,6,3,1,0,2,2,-12,4
+Derrick Rose,PG,1,26,6-12,0-2,2-2,0,2,2,3,2,0,2,2,-7,14
+Courtney Lee,SG,1,28,3-9,1-3,2-2,0,4,4,1,2,0,1,1,-14,9
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,15,5-8,1-4,2-2,1,2,3,2,0,0,1,3,+10,13
+Lance Thomas,SF,0,16,1-3,1-2,0-0,1,0,1,2,0,0,0,1,-13,3
+Kyle O'Quinn,C,0,11,2-2,0-0,1-1,0,1,1,0,1,1,2,2,-4,5
+Willy Hernangomez,C,0,18,3-9,1-3,1-1,0,4,4,0,0,2,1,0,+3,8
+Brandon Jennings,PG,0,23,6-11,3-5,2-5,1,2,3,4,0,0,2,1,-6,17
+Justin Holiday,SG,0,8,1-3,0-1,0-0,0,0,0,0,1,0,1,2,-15,2
+Ron Baker,SG,0,12,0-1,0-1,1-2,0,2,2,2,1,0,0,3,+12,1
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,40-87,12-31,17-24,6,26,32,25,9,7,17,24,,109
+ ,,,,46.0%,38.7%,70.8%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Thaddeus Young,PF,1,29,6-8,2-2,2-4,1,8,9,2,6,0,2,2,+13,16
+Paul George,SF,1,28,7-16,1-4,4-4,0,3,3,4,2,0,4,3,+10,19
+Myles Turner,C,1,32,6-13,0-1,1-1,3,7,10,2,0,0,2,4,+10,13
+Jeff Teague,PG,1,31,4-7,2-3,9-9,1,3,4,8,0,0,3,3,+9,19
+Glenn Robinson III,SG,1,27,3-7,2-4,0-0,0,6,6,0,0,0,1,2,+12,8
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Georges Niang,F,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
+CJ Miles,SF,0,20,6-11,3-7,0-0,1,3,4,0,2,0,1,2,+4,15
+Kevin Seraphin,C,0,19,4-6,0-0,0-0,1,4,5,2,0,0,2,4,+1,8
+Al Jefferson,C,0,15,4-9,0-0,6-6,4,3,7,2,1,0,0,0,+2,14
+Joe Young,PG,0,1,0-1,0-1,0-0,0,0,0,1,0,0,0,1,+2,0
+Aaron Brooks,PG,0,16,1-3,0-0,0-0,1,2,3,2,0,0,2,2,+3,2
+Monta Ellis,SG,0,21,2-5,1-2,4-4,0,2,2,2,0,0,2,0,+2,9
+Lavoy Allen,PF,0,DNP-COACH'S DECISION
+TEAM,,,,43-86,11-24,26-28,12,41,53,25,11,0,19,23,,123
+ ,,,,50.0%,45.8%,92.9%
+
+400899989,Pelicans,Knicks,110,96
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Anthony Davis,PF,1,29,14-22,1-1,11-12,4,14,18,2,0,3,0,2,+26,40
+Dante Cunningham,SF,1,30,3-5,3-3,0-0,1,2,3,0,1,0,0,1,+22,9
+Solomon Hill,SF,1,23,1-5,0-3,0-0,0,2,2,1,2,1,1,0,+12,2
+Jrue Holiday,PG,1,25,3-8,1-3,2-3,0,4,4,7,1,0,2,1,+22,9
+Buddy Hield,SG,1,27,4-7,3-5,0-0,0,3,3,3,3,0,0,0,+16,11
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Cheick Diallo,PF,0,5,0-4,0-0,0-0,0,0,0,0,0,0,0,2,-13,0
+Terrence Jones,PF,0,14,4-6,0-0,3-4,1,2,3,0,1,2,0,0,+1,11
+Donatas Motiejunas,PF,0,16,1-2,1-1,0-0,1,2,3,3,2,0,2,2,-6,3
+E'Twaun Moore,SF,0,24,4-7,0-1,0-0,1,0,1,3,0,0,0,2,-4,8
+Tim Frazier,PG,0,5,0-1,0-1,0-0,0,0,0,0,1,0,0,1,-13,0
+Langston Galloway,SG,0,19,2-8,1-4,0-0,0,0,0,1,0,1,0,1,+8,5
+Tyreke Evans,SG,0,21,5-9,2-5,0-0,0,2,2,4,0,0,3,2,-1,12
+Alexis Ajinca,C,0,DNP-COACH'S DECISION
+TEAM,,,,41-84,12-27,16-19,8,31,39,24,11,7,8,14,,110
+ ,,,,48.8%,44.4%,84.2%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,26,7-15,2-3,2-3,0,6,6,1,0,0,1,1,-15,18
+Kristaps Porzingis,PF,1,24,3-13,0-4,3-4,0,4,4,1,0,2,2,2,-6,9
+Joakim Noah,C,1,18,2-3,0-0,0-0,3,7,10,2,0,0,1,4,-14,4
+Brandon Jennings,PG,1,29,8-14,4-9,0-0,1,4,5,4,2,0,2,0,-20,20
+Courtney Lee,SG,1,28,2-8,1-3,0-0,2,0,2,1,0,0,0,1,-19,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Lance Thomas,SF,0,19,2-5,2-2,3-4,1,0,1,0,0,0,0,3,-16,9
+Maurice Ndour,SF,0,15,0-1,0-1,0-0,1,2,3,0,1,0,1,1,+5,0
+Kyle O'Quinn,C,0,13,1-2,0-0,0-0,2,0,2,0,0,2,0,3,-8,2
+Willy Hernangomez,C,0,13,3-4,0-0,0-0,2,2,4,3,0,0,2,0,+8,6
+Justin Holiday,SG,0,21,3-10,1-5,2-2,0,1,1,0,0,0,2,1,+5,9
+Ron Baker,SG,0,25,3-5,0-0,0-0,0,7,7,4,1,0,2,2,-2,6
+Sasha Vujacic,SG,0,10,2-5,1-2,3-3,0,0,0,1,1,0,1,0,+12,8
+Derrick Rose,PG,0,DNP-NOT WITH TEAM
+TEAM,,,,36-85,11-29,13-16,12,33,45,17,5,4,14,18,,96
+ ,,,,42.4%,37.9%,81.3%
+
+400900001,Knicks,76ers,97,98
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,37,11-25,2-6,4-4,1,1,2,1,1,3,1,1,-13,28
+Kristaps Porzingis,PF,1,28,3-10,1-6,0-0,0,2,2,2,1,2,1,4,-4,7
+Joakim Noah,C,1,20,3-6,0-0,1-1,3,3,6,0,2,1,0,4,-9,7
+Derrick Rose,PG,1,32,11-16,0-0,3-4,0,2,2,4,1,0,2,1,-21,25
+Courtney Lee,SG,1,27,3-7,0-3,1-1,1,1,2,4,0,0,1,2,-12,7
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,10,0-2,0-2,0-0,0,0,0,1,1,0,2,1,+7,0
+Lance Thomas,SF,0,20,0-3,0-2,0-0,0,6,6,2,0,0,0,3,+13,0
+Kyle O'Quinn,C,0,24,5-6,0-1,0-0,3,12,15,3,1,2,2,4,+10,10
+Willy Hernangomez,C,0,3,0-0,0-0,0-0,0,0,0,0,0,0,0,2,+2,0
+Brandon Jennings,PG,0,24,4-6,1-1,0-0,0,3,3,2,0,0,3,0,+5,9
+Justin Holiday,SG,0,15,2-5,0-1,0-0,0,2,2,1,0,0,1,0,+17,4
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,42-86,4-22,9-10,8,32,40,20,7,8,13,22,,97
+ ,,,,48.8%,18.2%,90.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Ersan Ilyasova,PF,1,30,5-16,1-8,5-6,2,2,4,5,0,0,3,1,+9,16
+Robert Covington,SF,1,32,5-10,3-6,0-0,1,4,5,4,1,0,2,1,+11,13
+Joel Embiid,C,1,27,7-20,1-3,6-7,5,9,14,1,1,1,1,3,+9,21
+T.J. McConnell,PG,1,34,4-6,0-0,0-0,2,4,6,7,2,0,2,1,+2,8
+Nik Stauskas,SG,1,22,2-6,1-4,0-0,1,1,2,3,0,0,1,1,-4,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Dario Saric,PF,0,21,1-8,1-3,0-0,1,2,3,0,0,0,0,0,-16,3
+Nerlens Noel,C,0,21,5-8,0-0,3-4,4,4,8,1,2,0,2,1,-8,13
+Sergio Rodriguez,PG,0,14,1-7,0-3,0-0,1,0,1,4,0,0,3,0,-1,2
+Timothe Luwawu-Cabarrot,SG,0,12,2-4,0-1,1-2,1,1,2,1,1,0,0,3,-1,5
+Gerald Henderson,SG,0,26,5-10,0-0,2-2,0,2,2,1,0,0,0,1,+4,12
+Richaun Holmes,PF,0,DNP-COACH'S DECISION
+Jahlil Okafor,C,0,DNP-COACH'S DECISION
+Chasson Randle,PG,0,DNP-COACH'S DECISION
+TEAM,,,,37-95,7-28,17-21,18,29,47,27,7,1,14,12,,98
+ ,,,,38.9%,25.0%,81.0%
+
+400900008,Bulls,Knicks,89,104
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Taj Gibson,PF,1,25,4-8,0-0,4-5,5,4,9,0,0,0,3,2,-20,12
+Paul Zipser,SF,1,34,2-6,1-3,2-2,0,5,5,2,0,0,0,1,-16,7
+Robin Lopez,C,1,24,5-10,0-0,0-0,2,5,7,0,0,2,1,1,-11,10
+Michael Carter-Williams,PG,1,16,1-8,0-2,1-1,1,3,4,2,1,0,2,3,-7,3
+Dwyane Wade,SG,1,33,9-20,0-2,4-6,0,3,3,3,2,0,4,0,-12,22
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Bobby Portis,PF,0,19,1-4,0-3,0-0,2,1,3,0,1,0,0,1,+5,2
+Doug McDermott,SF,0,17,0-5,0-2,2-2,0,2,2,1,0,1,1,1,-12,2
+Cristiano Felicio,C,0,24,6-9,0-0,1-2,4,1,5,0,0,1,0,0,-4,13
+Rajon Rondo,PG,0,23,2-9,0-2,0-0,0,2,2,8,0,0,1,2,-6,4
+Jerian Grant,PG,0,25,5-10,2-4,2-3,0,3,3,4,1,0,0,1,+8,14
+Nikola Mirotic,PF,0,DNP-ILLNESS
+Denzel Valentine,SF,0,DNP-ILLNESS
+Isaiah Canaan,PG,0,DNP-COACH'S DECISION
+TEAM,,,,35-89,3-18,16-21,14,29,43,20,5,4,12,12,,89
+ ,,,,39.3%,16.7%,76.2%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,34,10-19,2-6,1-2,1,8,9,6,0,1,1,3,+22,23
+Lance Thomas,SF,1,29,2-9,0-1,0-0,2,0,2,2,0,0,2,4,+6,4
+Joakim Noah,C,1,27,6-10,0-0,0-0,9,7,16,1,0,1,3,3,+12,12
+Derrick Rose,PG,1,34,7-15,0-0,3-3,0,4,4,3,0,0,2,0,+15,17
+Courtney Lee,SG,1,31,3-8,0-4,0-0,0,2,2,3,0,0,0,0,+13,6
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,30,8-15,2-4,1-1,3,1,4,1,2,1,0,0,+9,19
+Kyle O'Quinn,C,0,17,5-7,0-0,2-2,2,9,11,3,0,4,1,2,-3,12
+Willy Hernangomez,C,0,7,0-0,0-0,0-0,0,0,0,0,0,0,1,2,+1,0
+Brandon Jennings,PG,0,14,1-4,1-4,2-3,0,0,0,1,1,0,2,1,+0,5
+Justin Holiday,SG,0,17,2-5,2-4,0-0,0,0,0,1,0,0,0,2,+2,6
+Ron Baker,SG,0,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,44-92,7-23,9-11,17,31,48,21,3,7,12,17,,104
+ ,,,,47.8%,30.4%,81.8%
+
+400900027,Knicks,Raptors,101,116
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,26,7-14,3-5,1-2,0,1,1,1,0,1,1,1,-25,18
+Lance Thomas,SF,1,2,0-1,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Joakim Noah,C,1,23,0-1,0-0,1-4,3,4,7,3,0,1,0,3,-24,1
+Derrick Rose,PG,1,29,6-12,0-0,4-5,0,2,2,3,0,1,2,0,-23,16
+Courtney Lee,SG,1,25,2-9,1-4,0-0,0,1,1,0,2,0,0,1,-22,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,23,3-8,1-5,2-2,1,1,2,1,0,0,2,3,+0,9
+Maurice Ndour,SF,0,7,1-3,0-0,0-0,0,1,1,0,2,0,1,1,-1,2
+Kyle O'Quinn,C,0,11,2-7,0-0,0-0,2,3,5,2,0,1,1,2,-15,4
+Willy Hernangomez,C,0,21,3-7,0-1,2-3,5,9,14,0,0,1,3,2,-2,8
+Brandon Jennings,PG,0,24,2-8,1-4,4-4,0,2,2,7,1,0,2,2,+5,9
+Sasha Vujacic,SG,0,7,2-3,2-3,1-2,0,1,1,2,1,0,0,1,+4,7
+Justin Holiday,SG,0,26,5-8,3-5,4-5,0,2,2,1,1,0,1,0,+9,17
+Ron Baker,SG,0,16,2-3,1-2,0-0,0,3,3,1,0,2,1,0,+19,5
+TEAM,,,,35-84,12-29,19-27,11,30,41,21,7,7,14,16,,101
+ ,,,,41.7%,41.4%,70.4%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+DeMarre Carroll,SF,1,27,7-13,1-6,5-5,1,1,2,0,2,1,0,1,+29,20
+Jonas Valanciunas,C,1,28,6-11,0-0,0-0,5,11,16,1,0,0,2,3,+20,12
+Lucas Nogueira,C,1,35,2-3,0-0,0-2,1,3,4,1,3,1,0,2,+32,4
+Kyle Lowry,PG,1,28,6-10,2-5,2-3,0,4,4,9,1,1,1,1,+35,16
+DeMar DeRozan,SG,1,28,8-17,0-0,7-7,0,5,5,5,0,0,2,2,+24,23
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Pascal Siakam,PF,0,13,2-3,0-0,0-0,2,2,4,0,1,1,0,2,-21,4
+Bruno Caboclo,SF,0,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Norman Powell,SF,0,24,7-12,1-3,6-6,1,0,1,0,1,0,2,2,-10,21
+Jakob Poeltl,C,0,4,0-1,0-0,0-0,0,0,0,0,0,0,1,5,-14,0
+Fred VanVleet,PG,0,5,0-3,0-1,0-0,0,0,0,0,0,0,0,0,-8,0
+Cory Joseph,PG,0,25,2-9,0-1,0-0,0,4,4,4,1,0,2,1,-13,4
+Terrence Ross,SG,0,23,4-7,4-6,0-0,0,2,2,1,0,0,0,1,+1,12
+Patrick Patterson,PF,0,DNP-SORE LEFT KNEE
+TEAM,,,,44-89,8-22,20-23,10,32,42,21,9,4,10,20,,116
+ ,,,,49.4%,36.4%,87.0%
+
+400900034,Hawks,Knicks,108,107
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Paul Millsap,PF,1,39,5-18,1-5,6-10,1,6,7,6,3,3,3,4,+5,17
+Thabo Sefolosha,SF,1,22,1-4,1-2,0-0,0,4,4,1,2,0,0,4,-8,3
+Tim Hardaway Jr.,SF,1,35,9-16,2-7,0-0,1,2,3,4,1,0,1,2,+2,20
+Dennis Schroder,PG,1,34,13-16,1-2,1-1,1,2,3,3,0,0,2,0,-2,28
+Kent Bazemore,SG,1,32,5-13,2-8,4-4,1,5,6,5,1,0,1,1,+2,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mike Scott,PF,0,10,1-5,1-2,0-0,1,1,2,1,0,0,0,0,+4,3
+Kris Humphries,PF,0,24,3-5,3-3,5-8,3,4,7,1,1,0,1,2,+4,14
+Taurean Prince,SF,0,7,1-1,0-0,0-0,0,0,0,0,0,0,0,1,+3,2
+Malcolm Delaney,PG,0,19,2-4,1-1,0-0,0,1,1,5,2,0,1,1,-2,5
+Mike Dunleavy,SG,0,19,0-5,0-2,0-0,0,3,3,0,1,0,1,0,-3,0
+DeAndre' Bembry,SF,0,DNP-PERSONAL REASONS
+Dwight Howard,C,0,DNP-COACH'S DECISION
+TEAM,,,,40-87,12-32,16-23,8,28,36,26,11,3,10,15,,108
+ ,,,,46.0%,37.5%,69.6%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,10-16,2-4,8-11,2,5,7,2,1,0,5,5,-2,30
+Mindaugas Kuzminskas,F,1,38,6-10,1-5,1-1,1,4,5,2,2,0,1,3,+2,14
+Joakim Noah,C,1,33,2-3,0-0,3-5,7,10,17,3,1,2,1,5,+0,7
+Derrick Rose,PG,1,32,8-16,0-0,2-4,1,3,4,9,1,1,6,4,+3,18
+Ron Baker,SG,1,22,4-9,4-7,0-0,1,2,3,1,2,0,1,4,-2,12
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kyle O'Quinn,C,0,16,3-10,0-0,0-0,2,6,8,2,0,0,1,1,-1,6
+Brandon Jennings,PG,0,20,1-4,0-3,0-0,0,3,3,1,1,0,2,0,-6,2
+Justin Holiday,SG,0,23,5-10,0-3,1-2,1,3,4,0,0,0,0,0,+1,11
+Courtney Lee,SG,0,21,3-7,1-4,0-0,0,2,2,1,0,0,1,0,+0,7
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Willy Hernangomez,C,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,42-85,8-26,15-23,15,38,53,21,8,3,18,22,,107
+ ,,,,49.4%,30.8%,65.2%
+
+400900051,Knicks,Celtics,117,106
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,33,5-14,3-9,0-0,1,3,4,3,0,1,1,2,-1,13
+Mindaugas Kuzminskas,F,1,29,6-12,2-3,3-3,2,4,6,2,0,0,1,1,-9,17
+Kyle O'Quinn,C,1,10,1-3,0-0,0-0,1,0,1,1,0,0,0,0,-5,2
+Derrick Rose,PG,1,33,13-24,0-0,4-4,4,6,10,5,2,2,4,3,-1,30
+Ron Baker,SG,1,11,0-0,0-0,0-0,0,1,1,0,0,0,2,5,-9,0
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marshall Plumlee,C,0,20,2-2,0-0,1-3,3,4,7,3,0,2,2,5,+11,5
+Willy Hernangomez,C,0,20,8-13,0-0,1-1,4,7,11,1,0,0,1,2,+9,17
+Brandon Jennings,PG,0,27,3-7,2-5,3-4,1,3,4,5,0,1,1,1,+19,11
+Justin Holiday,SG,0,19,4-8,2-5,3-3,0,5,5,0,0,1,2,3,+23,13
+Courtney Lee,SG,0,38,4-8,1-3,0-0,2,6,8,7,0,1,0,2,+18,9
+Kristaps Porzingis,PF,0,DNP-COACH'S DECISION
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,46-91,10-25,15-18,18,39,57,27,2,8,14,24,,117
+ ,,,,50.5%,40.0%,83.3%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Al Horford,PF,1,34,2-14,1-8,0-0,2,5,7,10,1,1,0,0,+2,5
+Jae Crowder,PF,1,37,7-13,2-5,5-6,0,5,5,1,0,0,0,3,-1,21
+Amir Johnson,C,1,18,5-6,0-0,0-0,1,6,7,2,1,2,0,4,+8,10
+Marcus Smart,PG,1,32,1-6,0-2,2-2,2,1,3,5,2,2,0,1,+0,4
+Isaiah Thomas,PG,1,37,12-25,5-12,10-10,2,1,3,2,1,0,2,0,+5,39
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kelly Olynyk,PF,0,13,2-6,0-1,0-0,1,1,2,2,0,0,1,1,-11,4
+Jonas Jerebko,PF,0,16,2-3,0-0,0-0,0,1,1,0,1,0,0,0,-21,4
+Jordan Mickey,C,0,6,0-1,0-0,2-2,0,0,0,0,1,2,0,0,-1,2
+Terry Rozier,PG,0,24,1-8,1-4,2-2,0,1,1,2,1,0,0,3,-22,5
+Gerald Green,SG,0,5,0-3,0-1,0-0,0,0,0,1,0,0,0,1,-6,0
+Jaylen Brown,SG,0,19,3-6,0-0,6-7,1,3,4,0,0,1,0,2,-8,12
+Demetrius Jackson,PG,0,DNP-D-LEAGUE
+Avery Bradley,SG,0,DNP-SORE RIGHT ACHILLES TENDON
+TEAM,,,,35-91,9-33,27-29,9,24,33,25,8,8,3,15,,106
+ ,,,,38.5%,27.3%,93.1%
+
+400900059,Wizards,Knicks,113,110
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Markieff Morris,PF,1,35,6-11,2-3,0-0,2,4,6,4,0,2,3,1,-12,14
+Otto Porter Jr.,SF,1,30,7-13,6-10,3-3,1,4,5,2,1,0,0,3,+1,23
+Marcin Gortat,C,1,30,6-12,0-0,0-0,5,8,13,2,0,1,1,3,+9,12
+John Wall,PG,1,37,11-21,1-3,6-8,0,5,5,13,3,0,2,2,+11,29
+Bradley Beal,SG,1,38,4-13,0-7,0-0,1,1,2,5,1,0,5,1,+0,8
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jason Smith,PF,0,23,5-8,1-2,0-0,1,3,4,0,0,2,2,4,+4,11
+Kelly Oubre Jr.,SF,0,25,3-6,1-4,3-3,0,3,3,1,0,0,0,4,+7,10
+Trey Burke,PG,0,7,1-2,1-2,0-0,0,0,0,1,0,0,1,1,-8,3
+Tomas Satoransky,SG,0,14,1-2,1-1,0-0,0,2,2,1,2,0,1,0,+3,3
+Daniel Ochefu,PF,0,DNP-COACH'S DECISION
+Andrew Nicholson,PF,0,DNP-COACH'S DECISION
+Marcus Thornton,SG,0,DNP-COACH'S DECISION
+Sheldon Mac,SG,0,DNP-COACH'S DECISION
+TEAM,,,,44-88,13-32,12-14,10,30,40,29,7,5,15,19,,113
+ ,,,,50.0%,40.6%,85.7%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,13-27,3-7,5-7,1,9,10,2,1,0,1,2,+1,34
+Mindaugas Kuzminskas,F,1,18,1-5,1-5,3-4,0,1,1,2,0,0,1,1,-15,6
+Kyle O'Quinn,C,1,21,7-10,0-0,0-0,4,4,8,3,1,3,1,1,+2,14
+Derrick Rose,PG,1,32,7-16,0-0,6-6,2,3,5,2,0,0,1,0,-12,20
+Ron Baker,SG,1,20,1-4,0-1,0-0,1,1,2,0,2,0,1,1,-5,2
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kristaps Porzingis,PF,0,29,6-11,0-3,3-3,3,2,5,2,1,0,1,3,-1,15
+Marshall Plumlee,C,0,11,0-1,0-0,0-0,3,0,3,0,0,0,1,1,-8,0
+Brandon Jennings,PG,0,24,1-4,1-2,0-0,0,1,1,5,0,0,3,1,+20,3
+Justin Holiday,SG,0,21,4-6,1-3,2-2,0,2,2,2,1,1,0,2,+4,11
+Courtney Lee,SG,0,29,2-6,1-3,0-0,0,4,4,2,1,0,0,2,-1,5
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Willy Hernangomez,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,42-90,7-24,19-22,14,27,41,20,7,4,10,14,,110
+ ,,,,46.7%,29.2%,86.4%
+
+400900075,Suns,Knicks,107,105
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marquese Chriss,PF,1,22,6-10,2-5,1-3,3,2,5,0,3,1,1,2,-5,15
+TJ Warren,SF,1,29,2-6,0-0,0-0,2,1,3,2,0,0,0,4,+0,4
+Tyson Chandler,C,1,32,2-5,0-0,5-5,4,12,16,0,1,0,0,0,+8,9
+Eric Bledsoe,PG,1,39,6-14,1-4,10-10,1,4,5,7,0,1,0,0,+3,23
+Devin Booker,SG,1,37,10-21,3-4,3-3,1,0,1,2,1,1,5,4,-1,26
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Dragan Bender,PF,0,10,0-2,0-2,0-0,0,1,1,0,0,0,1,4,-1,0
+PJ Tucker,SF,0,36,6-10,2-5,1-2,1,2,3,2,3,0,3,2,+9,15
+Alex Len,C,0,10,0-3,0-0,4-4,0,3,3,0,0,1,1,0,-5,4
+Tyler Ulis,PG,0,5,0-2,0-0,0-0,1,1,2,0,0,0,1,0,+6,0
+Brandon Knight,PG,0,20,5-12,1-4,0-0,1,4,5,2,1,0,1,2,-4,11
+Alan Williams,PF,0,DNP-COACH'S DECISION
+Jared Dudley,SF,0,DNP-COACH'S DECISION
+Leandro Barbosa,SG,0,DNP-COACH'S DECISION
+TEAM,,,,37-85,9-24,24-27,14,30,44,15,9,4,13,18,,107
+ ,,,,43.5%,37.5%,88.9%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,41,9-17,5-6,8-10,1,6,7,6,1,0,3,2,+3,31
+Kristaps Porzingis,PF,1,33,7-13,0-3,0-0,1,0,1,2,1,1,2,3,-6,14
+Joakim Noah,C,1,20,0-4,0-0,0-0,7,8,15,3,0,1,3,3,-6,0
+Derrick Rose,PG,1,36,12-26,0-1,2-2,3,0,3,5,0,0,0,2,+1,26
+Courtney Lee,SG,1,37,5-9,3-3,0-0,2,2,4,3,0,1,0,3,+3,13
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,18,3-7,1-3,0-0,0,1,1,0,1,0,1,2,-5,7
+Kyle O'Quinn,C,0,5,0-1,0-0,0-0,0,1,1,0,1,0,0,2,-4,0
+Willy Hernangomez,C,0,14,2-4,0-0,2-2,0,8,8,1,0,0,1,2,+13,6
+Brandon Jennings,PG,0,12,0-3,0-3,2-2,0,1,1,0,0,0,1,1,-3,2
+Justin Holiday,SG,0,5,1-1,1-1,0-0,1,1,2,0,0,0,0,0,+2,3
+Ron Baker,SG,0,19,1-4,1-1,0-0,0,3,3,0,2,0,1,0,-8,3
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,40-89,11-21,14-16,15,31,46,20,6,3,12,20,,105
+ ,,,,44.9%,52.4%,87.5%
+
+400900093,Knicks,Pacers,109,103
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,34,9-17,1-3,7-8,1,4,5,2,0,1,4,4,-1,26
+Kristaps Porzingis,PF,1,25,3-11,2-6,0-0,0,4,4,0,1,1,3,6,-7,8
+Joakim Noah,C,1,12,1-1,0-0,0-2,1,5,6,1,0,0,0,2,+2,2
+Derrick Rose,PG,1,40,7-16,0-1,6-6,0,3,3,6,0,0,4,1,+8,20
+Courtney Lee,SG,1,25,3-7,1-3,7-7,1,3,4,1,1,0,0,2,-6,14
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,11,0-1,0-0,0-0,0,3,3,0,0,1,1,0,-9,0
+Kyle O'Quinn,C,0,8,1-1,0-0,1-2,0,3,3,1,1,0,0,1,+11,3
+Willy Hernangomez,C,0,24,5-8,0-0,4-4,2,8,10,2,1,2,0,1,+12,14
+Brandon Jennings,PG,0,29,2-5,1-2,4-4,0,2,2,6,1,0,2,3,+6,9
+Justin Holiday,SG,0,32,4-9,3-7,2-2,1,2,3,0,3,2,0,1,+14,13
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,35-76,8-22,31-35,6,37,43,19,8,7,14,21,,109
+ ,,,,46.1%,36.4%,88.6%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Thaddeus Young,PF,1,31,2-6,1-1,0-0,1,2,3,3,3,0,0,4,-10,5
+CJ Miles,SF,1,34,4-14,2-9,0-0,1,2,3,1,0,1,0,0,-1,10
+Paul George,SF,1,39,11-24,3-10,6-7,1,6,7,3,2,0,3,3,+1,31
+Myles Turner,C,1,28,8-12,0-2,6-6,2,8,10,0,0,2,1,4,+2,22
+Jeff Teague,PG,1,36,3-9,1-3,0-2,0,4,4,7,0,0,3,4,-2,7
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Al Jefferson,C,0,19,5-8,0-0,3-4,1,2,3,0,0,1,1,2,-6,13
+Kevin Seraphin,C,0,5,1-2,0-0,0-0,0,1,1,0,0,0,0,0,+1,2
+Joe Young,PG,0,6,0-2,0-0,1-2,0,0,0,1,0,0,0,0,-5,1
+Monta Ellis,SG,0,24,1-6,0-1,4-4,0,3,3,3,0,0,2,0,+6,6
+Glenn Robinson III,SG,0,18,3-3,0-0,0-0,1,2,3,0,2,0,1,3,-16,6
+Lavoy Allen,PF,0,DNP-COACH'S DECISION
+Rakeem Christmas,PF,0,DNP-COACH'S DECISION
+Georges Niang,F,0,DNP-COACH'S DECISION
+TEAM,,,,38-86,7-26,20-25,7,30,37,18,7,4,11,20,,103
+ ,,,,44.2%,26.9%,80.0%
+
+400900109,Knicks,Mavericks,95,103
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,39,13-24,3-7,1-2,1,7,8,3,0,0,7,3,-15,30
+Kristaps Porzingis,PF,1,23,4-11,0-2,5-5,2,6,8,1,0,1,1,5,-11,13
+Joakim Noah,C,1,19,1-3,0-0,1-2,2,6,8,2,0,0,2,1,-7,3
+Derrick Rose,PG,1,35,6-15,1-1,0-0,2,1,3,3,0,0,3,2,-13,13
+Courtney Lee,SG,1,38,9-13,2-5,3-3,2,4,6,1,0,1,1,2,-5,23
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,12,1-3,0-2,0-0,1,0,1,1,0,0,2,0,+1,2
+Kyle O'Quinn,C,0,6,0-1,0-0,0-0,2,0,2,2,0,0,1,2,+6,0
+Willy Hernangomez,C,0,24,4-9,0-0,0-0,6,10,16,0,3,0,0,2,+0,8
+Brandon Jennings,PG,0,21,1-6,1-3,0-0,0,0,0,3,0,0,0,0,+6,3
+Sasha Vujacic,SG,0,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Justin Holiday,SG,0,19,0-5,0-2,0-0,0,2,2,0,1,0,0,3,+0,0
+Ron Baker,SG,0,4,0-2,0-1,0-0,0,1,1,1,0,0,1,1,-2,0
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+TEAM,,,,39-92,7-23,10-12,18,37,55,17,4,2,18,21,,95
+ ,,,,42.4%,30.4%,83.3%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Dorian Finney-Smith,SF,1,31,3-5,2-3,0-0,0,5,5,0,1,0,0,3,+13,8
+Harrison Barnes,SF,1,37,8-15,0-2,7-7,1,4,5,1,2,0,2,0,+12,23
+Dirk Nowitzki,C,1,25,8-12,0-2,3-3,2,2,4,2,0,3,0,2,-1,19
+Deron Williams,PG,1,16,3-6,1-2,0-0,0,0,0,7,0,0,0,0,+9,7
+Seth Curry,SG,1,34,8-19,2-6,2-2,0,5,5,0,3,1,2,2,+13,20
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Dwight Powell,C,0,10,1-1,0-0,0-0,2,1,3,0,0,0,0,1,-4,2
+Andrew Bogut,C,0,21,1-1,0-0,0-0,1,3,4,2,0,3,1,0,+10,2
+Devin Harris,PG,0,22,2-8,1-3,2-4,0,4,4,2,1,0,1,1,-7,7
+Justin Anderson,SG,0,20,3-8,0-4,5-7,1,2,3,2,3,0,1,3,-6,11
+Nicolas Brussino,SF,0,DNP-COACH'S DECISION
+Salah Mejri,C,0,DNP-COACH'S DECISION
+Wesley Matthews,SG,0,DNP-RIGHT HIP
+TEAM,,,,39-83,6-26,19-24,7,29,36,19,10,7,7,12,,103
+ ,,,,47.0%,23.1%,79.2%
+
+400900120,Hornets,Knicks,107,110
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marvin Williams,PF,1,31,6-14,5-9,0-0,0,3,3,0,1,0,1,3,-4,17
+Michael Kidd-Gilchrist,SF,1,37,5-9,0-1,2-2,1,5,6,1,1,0,0,3,-4,12
+Roy Hibbert,C,1,18,1-3,0-0,0-0,0,4,4,0,0,0,0,2,+3,2
+Kemba Walker,PG,1,37,13-29,2-11,3-4,2,8,10,5,0,1,1,1,+3,31
+Nicolas Batum,SG,1,36,5-12,3-6,2-2,2,9,11,9,1,0,5,2,-3,15
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Spencer Hawes,PF,0,25,1-4,0-2,4-4,2,3,5,1,1,2,2,0,-11,6
+Frank Kaminsky,PF,0,22,2-6,1-3,0-0,1,3,4,1,0,1,1,3,+8,5
+Ramon Sessions,PG,0,14,1-3,0-0,2-2,1,1,2,0,0,0,1,2,-6,4
+Marco Belinelli,SG,0,21,6-10,2-5,1-1,0,2,2,1,1,0,2,0,-1,15
+Christian Wood,PF,0,DNP-COACH'S DECISION
+Brian Roberts,PG,0,DNP-COACH'S DECISION
+Jeremy Lamb,SG,0,DNP-COACH'S DECISION
+Treveon Graham,SG,0,DNP-COACH'S DECISION
+TEAM,,,,40-90,13-37,14-15,9,38,47,18,5,4,13,16,,107
+ ,,,,44.4%,35.1%,93.3%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,8-26,1-7,1-3,0,11,11,0,0,1,0,0,+0,18
+Kristaps Porzingis,PF,1,35,8-11,2-4,0-0,1,3,4,0,0,3,2,6,-6,18
+Joakim Noah,C,1,12,0-1,0-0,0-0,1,1,2,2,0,1,0,2,+4,0
+Derrick Rose,PG,1,22,5-10,0-0,3-3,1,1,2,4,2,0,2,2,-14,13
+Courtney Lee,SG,1,35,7-12,2-5,0-0,0,3,3,4,3,1,1,1,-5,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,18,3-7,0-1,1-1,2,2,4,2,1,0,2,1,+15,7
+Kyle O'Quinn,C,0,16,4-7,1-1,1-1,2,5,7,2,0,3,1,1,+7,10
+Willy Hernangomez,C,0,15,2-5,0-0,0-0,4,3,7,3,0,0,2,2,-3,4
+Brandon Jennings,PG,0,31,6-11,2-5,1-3,0,3,3,3,1,0,0,1,+12,15
+Justin Holiday,SG,0,20,3-6,1-4,2-2,0,5,5,2,1,0,0,2,+5,9
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,46-96,9-27,9-13,11,37,48,22,8,9,10,18,,110
+ ,,,,47.9%,33.3%,69.2%
+
+400900132,Knicks,Hawks,139,142
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,46,18-36,3-9,6-7,0,6,6,4,0,1,3,6,-3,45
+Kristaps Porzingis,PF,1,30,6-14,0-3,3-3,3,2,5,1,0,3,2,6,-1,15
+Joakim Noah,C,1,41,2-5,0-0,2-2,7,7,14,5,3,2,1,6,+2,6
+Brandon Jennings,PG,1,53,5-15,4-8,4-6,0,3,3,11,1,0,1,5,-5,18
+Courtney Lee,SG,1,52,6-16,3-8,2-2,2,7,9,2,2,1,1,5,+5,17
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,36,5-13,1-7,2-3,0,4,4,4,1,1,1,1,+6,13
+Kyle O'Quinn,C,0,26,1-9,0-0,0-0,2,10,12,1,1,3,1,6,-2,2
+Willy Hernangomez,C,0,3,0-1,0-0,0-0,0,0,0,0,0,0,0,2,-8,0
+Justin Holiday,SG,0,36,5-15,5-13,0-0,1,8,9,2,1,0,1,2,-10,15
+Ron Baker,SG,0,16,3-4,2-3,0-0,0,1,1,2,0,0,1,0,+1,8
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,51-128,18-51,19-23,15,48,63,32,9,11,12,39,,139
+ ,,,,39.8%,35.3%,82.6%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Paul Millsap,PF,1,60,13-29,3-8,8-10,8,11,19,7,1,0,3,4,-1,37
+Tim Hardaway Jr.,SF,1,58,5-20,0-9,9-12,0,5,5,8,1,0,1,4,+5,19
+Dwight Howard,C,1,38,8-11,0-0,3-7,4,8,12,1,0,1,2,6,+1,19
+Dennis Schroder,PG,1,55,9-25,1-4,4-7,1,3,4,15,0,0,6,2,+5,23
+Kent Bazemore,SG,1,50,9-15,4-5,2-2,2,8,10,0,0,0,1,2,+4,24
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mike Muscala,PF,0,22,1-3,0-1,0-0,1,7,8,2,0,0,0,1,-1,2
+Kris Humphries,PF,0,10,0-2,0-0,0-0,1,0,1,0,0,0,0,2,-1,0
+Taurean Prince,SF,0,4,1-2,0-0,0-0,0,0,0,0,0,0,0,1,-9,2
+Malcolm Delaney,PG,0,22,1-6,0-1,2-2,0,2,2,2,2,0,1,2,-9,4
+Mike Dunleavy,SG,0,22,5-6,2-3,0-0,0,3,3,1,0,1,0,0,+21,12
+Mike Scott,PF,0,DNP-COACH'S DECISION
+DeAndre' Bembry,SF,0,DNP-COACH'S DECISION
+Lamar Patterson,SG,0,DNP-COACH'S DECISION
+TEAM,,,,52-119,10-31,28-40,17,47,64,36,4,2,14,24,,142
+ ,,,,43.7%,32.3%,70.0%
+
+400900145,Knicks,Wizards,101,117
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,32,10-17,1-3,5-5,1,4,5,0,0,0,1,1,-12,26
+Joakim Noah,C,1,15,0-1,0-0,0-0,2,2,4,1,1,0,2,2,-12,0
+Willy Hernangomez,C,1,32,5-12,0-0,5-5,6,8,14,4,0,0,1,4,-18,15
+Brandon Jennings,PG,1,38,5-16,2-6,9-11,2,3,5,2,4,0,4,2,-12,21
+Courtney Lee,SG,1,27,2-10,1-5,0-0,2,3,5,1,0,0,1,0,-18,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,14,0-5,0-2,1-2,0,1,1,1,0,0,0,1,+6,1
+Maurice Ndour,SF,0,8,3-5,1-2,0-0,1,1,2,0,0,0,0,0,-1,7
+Kyle O'Quinn,C,0,17,6-10,0-0,1-1,6,4,10,1,0,2,1,2,-1,13
+Marshall Plumlee,C,0,5,0-0,0-0,0-0,1,0,1,0,0,0,1,1,+2,0
+Sasha Vujacic,SG,0,5,0-2,0-1,3-4,0,0,0,3,2,0,0,0,+2,3
+Justin Holiday,SG,0,20,1-9,0-4,3-4,0,2,2,3,0,0,1,1,-4,5
+Ron Baker,SG,0,28,2-6,0-1,1-3,1,1,2,2,1,0,0,3,-12,5
+Kristaps Porzingis,PF,0,DNP-ILLNESS
+TEAM,,,,34-93,5-24,28-35,22,29,51,18,8,2,12,17,,101
+ ,,,,36.6%,20.8%,80.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Markieff Morris,PF,1,34,9-14,2-5,4-4,2,8,10,2,0,0,2,3,+13,24
+Otto Porter Jr.,SF,1,29,5-9,0-3,0-1,0,6,6,3,1,0,1,4,+12,10
+Marcin Gortat,C,1,31,7-7,0-0,1-1,0,10,10,2,1,1,1,3,+16,15
+John Wall,PG,1,34,6-18,1-2,2-3,2,2,4,13,0,0,2,2,+22,15
+Bradley Beal,SG,1,32,12-18,2-6,2-2,1,1,2,4,1,0,3,1,+14,28
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Daniel Ochefu,PF,0,2,0-1,0-0,0-0,0,0,0,0,0,0,0,2,-2,0
+Jason Smith,PF,0,15,1-2,0-1,0-0,2,3,5,1,0,2,0,1,+2,2
+Andrew Nicholson,PF,0,2,0-0,0-0,1-2,1,1,2,0,1,0,0,0,-2,1
+Kelly Oubre Jr.,SF,0,28,5-7,2-4,2-2,0,2,2,0,0,0,0,4,+11,14
+Trey Burke,PG,0,19,2-6,0-1,0-0,0,4,4,2,0,0,2,3,+0,4
+Tomas Satoransky,SG,0,11,2-5,0-0,0-0,1,0,1,0,0,1,0,2,-4,4
+Sheldon Mac,SG,0,2,0-1,0-0,0-0,0,0,0,0,0,0,1,0,-2,0
+Marcus Thornton,SG,0,DNP-COACH'S DECISION
+TEAM,,,,49-88,7-22,12-15,9,37,46,27,4,4,12,25,,117
+ ,,,,55.7%,31.8%,80.0%
+
+400900164,Cavaliers,Knicks,111,104
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+LeBron James,SF,1,40,12-20,4-8,4-5,0,5,5,10,0,0,5,1,+11,32
+Tristan Thompson,C,1,32,6-8,0-0,0-0,4,1,5,1,0,0,1,3,-7,12
+Kevin Love,C,1,35,7-16,4-7,5-6,5,11,16,1,1,0,5,1,+7,23
+DeAndre Liggins,SG,1,17,2-4,0-1,1-2,0,3,3,0,1,0,0,3,+5,5
+Iman Shumpert,SG,1,36,2-7,1-6,0-0,1,8,9,2,0,0,0,3,+13,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Channing Frye,PF,0,16,5-9,4-8,0-2,1,2,3,2,0,0,2,2,+14,14
+Richard Jefferson,SF,0,19,2-5,1-4,0-0,1,2,3,0,0,0,1,3,-3,5
+Kay Felder,PG,0,14,2-6,0-1,0-0,0,1,1,3,1,0,1,2,-7,4
+Kyle Korver,SG,0,31,3-9,2-5,3-3,0,4,4,1,0,0,0,1,+2,11
+Kyrie Irving,PG,0,DNP-RIGHT QUAD CONTUSION
+Jordan McRae,SG,0,DNP-COACH'S DECISION
+James Jones,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-84,16-40,13-18,12,37,49,20,3,0,15,19,,111
+ ,,,,48.8%,40.0%,72.2%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,6-20,1-6,4-5,2,4,6,2,2,1,2,4,-18,17
+Kristaps Porzingis,PF,1,29,3-10,1-3,2-5,1,7,8,2,1,3,2,5,+12,9
+Joakim Noah,C,1,6,2-2,0-0,0-0,2,0,2,0,0,0,0,0,-1,4
+Brandon Jennings,PG,1,42,8-13,6-8,1-2,0,5,5,10,2,0,1,4,-1,23
+Courtney Lee,SG,1,30,7-11,3-5,0-2,2,2,4,0,0,1,2,1,-17,17
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,19,2-6,1-4,3-4,1,5,6,0,1,0,0,0,+5,8
+Kyle O'Quinn,C,0,13,3-6,0-0,1-2,2,2,4,1,0,0,0,0,-9,7
+Willy Hernangomez,C,0,36,7-10,0-1,2-6,3,2,5,5,0,2,2,1,-4,16
+Sasha Vujacic,SG,0,6,0-2,0-0,0-0,0,0,0,0,0,0,0,1,-6,0
+Justin Holiday,SG,0,22,1-6,0-4,1-2,0,2,2,3,2,0,1,3,+8,3
+Ron Baker,SG,0,2,0-0,0-0,0-0,0,0,0,0,1,0,0,1,-4,0
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+TEAM,,,,39-86,12-31,14-28,13,29,42,23,9,7,10,20,,104
+ ,,,,45.3%,38.7%,50.0%
+
+400900173,Lakers,Knicks,121,107
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Tarik Black,PF,1,20,4-8,0-0,1-2,6,4,10,0,1,0,0,3,+34,9
+Julius Randle,PF,1,17,7-14,0-0,0-0,2,0,2,2,0,1,0,6,+6,14
+Brandon Ingram,SF,1,33,5-10,2-5,2-5,2,5,7,2,1,0,1,1,+1,14
+D'Angelo Russell,PG,1,20,1-4,0-1,2-2,1,1,2,6,0,0,0,1,+6,4
+Nick Young,SG,1,22,5-15,3-10,4-4,1,4,5,0,1,0,0,2,+5,17
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Larry Nance Jr.,PF,0,31,4-9,0-0,2-2,4,6,10,2,3,0,1,5,+8,10
+Metta World Peace,SF,0,2,1-3,0-1,0-2,0,0,0,0,0,0,0,0,-3,2
+Luol Deng,SF,0,24,1-6,0-4,5-5,0,3,3,1,1,1,0,2,+4,7
+Ivica Zubac,C,0,17,5-9,0-0,0-0,2,5,7,0,1,3,0,3,-8,10
+Jordan Clarkson,PG,0,29,5-13,0-2,2-2,1,6,7,2,0,0,1,4,+6,12
+Lou Williams,SG,0,26,6-11,3-5,7-7,1,1,2,4,1,0,4,1,+11,22
+Timofey Mozgov,C,0,DNP-COACH'S DECISION
+Jose Calderon,PG,0,DNP-COACH'S DECISION
+TEAM,,,,44-102,8-28,25-31,20,35,55,19,9,5,7,28,,121
+ ,,,,43.1%,28.6%,80.6%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,37,10-17,0-2,6-8,0,3,3,5,1,0,4,3,-9,26
+Kristaps Porzingis,PF,1,33,5-14,1-5,5-7,1,8,9,0,0,2,2,2,-17,16
+Kyle O'Quinn,C,1,16,2-5,0-0,6-6,1,1,2,1,0,0,1,3,-21,10
+Derrick Rose,PG,1,32,2-8,0-1,1-1,0,4,4,3,0,0,3,2,-12,5
+Courtney Lee,SG,1,25,3-6,2-4,0-0,0,3,3,1,0,0,0,2,+0,8
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,19,2-6,0-1,0-0,1,0,1,0,0,0,0,2,-7,4
+Maurice Ndour,SF,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Marshall Plumlee,C,0,2,0-0,0-0,0-0,0,0,0,0,0,0,0,2,-7,0
+Willy Hernangomez,C,0,24,3-9,0-0,2-2,3,10,13,1,2,1,1,4,+7,8
+Brandon Jennings,PG,0,28,5-9,1-3,5-7,0,3,3,5,1,0,2,3,-5,16
+Justin Holiday,SG,0,22,5-8,3-5,1-2,0,1,1,0,0,1,2,1,+1,14
+Ron Baker,SG,0,1,0-0,0-0,0-0,0,0,0,0,0,0,1,0,+0,0
+Sasha Vujacic,SG,0,1,0-0,0-0,0-0,0,1,1,0,0,0,0,0,+0,0
+TEAM,,,,37-82,7-21,26-33,6,34,40,16,4,4,16,24,,107
+ ,,,,45.1%,33.3%,78.8%
+
+400900196,Clippers,Knicks,119,115
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Luc Mbah a Moute,PF,1,26,1-3,0-2,0-0,0,2,2,0,2,0,0,4,-8,2
+Blake Griffin,PF,1,36,11-23,2-3,8-11,3,5,8,5,2,0,0,2,+5,32
+DeAndre Jordan,C,1,31,12-14,0-0,4-9,5,10,15,0,0,2,1,4,+8,28
+Austin Rivers,PG,1,36,3-10,1-3,0-1,0,4,4,10,1,0,5,3,+5,7
+JJ Redick,SG,1,28,4-12,2-6,4-4,0,5,5,2,0,0,0,1,+0,14
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marreese Speights,PF,0,10,2-5,1-4,0-0,1,2,3,0,1,0,1,1,-2,5
+Brandon Bass,PF,0,8,2-3,0-0,0-0,0,0,0,0,0,1,0,1,+0,4
+Wesley Johnson,SF,0,9,2-3,0-1,0-0,0,2,2,0,1,0,0,1,-1,4
+Raymond Felton,PG,0,21,1-6,1-1,0-0,3,2,5,3,0,0,0,2,+1,3
+Alan Anderson,SG,0,6,0-1,0-1,0-0,0,0,0,0,0,0,2,1,-2,0
+Jamal Crawford,SG,0,30,7-12,3-4,3-3,2,1,3,2,1,0,2,0,+14,20
+Paul Pierce,SF,0,DNP-COACH'S DECISION
+TEAM,,,,45-92,10-25,19-28,14,33,47,22,8,3,11,20,,119
+ ,,,,48.9%,40.0%,67.9%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,37,10-20,3-7,5-6,2,7,9,1,1,2,1,5,-5,28
+Kristaps Porzingis,PF,1,27,10-19,4-7,3-4,4,2,6,2,2,0,1,5,-1,27
+Kyle O'Quinn,C,1,25,8-13,0-0,2-2,2,4,6,2,3,2,1,3,-2,18
+Derrick Rose,PG,1,37,10-16,0-1,0-0,2,5,7,8,1,0,3,1,-9,20
+Courtney Lee,SG,1,32,2-4,0-1,0-0,0,1,1,6,1,0,0,0,-6,4
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,20,2-8,0-5,0-0,0,0,0,1,0,0,2,2,+4,4
+Marshall Plumlee,C,0,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
+Willy Hernangomez,C,0,20,0-3,0-0,5-6,2,7,9,4,0,0,1,3,+3,5
+Brandon Jennings,PG,0,17,2-3,0-1,0-0,0,0,0,1,0,0,1,1,+3,4
+Justin Holiday,SG,0,24,2-6,1-5,0-0,0,3,3,0,1,1,1,2,-10,5
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,46-92,8-27,15-18,12,29,41,25,9,5,11,22,,115
+ ,,,,50.0%,29.6%,83.3%
+
+400900205,Nuggets,Knicks,131,123
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Darrell Arthur,PF,1,21,5-9,3-6,0-0,0,3,3,2,0,0,1,1,-1,13
+Wilson Chandler,SF,1,37,9-14,1-2,0-0,1,3,4,3,2,2,2,2,+11,19
+Nikola Jokic,C,1,37,17-23,2-3,4-5,4,5,9,5,2,0,2,2,+19,40
+Jameer Nelson,PG,1,36,6-10,4-6,0-0,0,4,4,12,0,0,2,2,+19,16
+Gary Harris,SG,1,34,6-10,3-6,1-1,2,5,7,2,1,0,2,0,+22,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Juan Hernangomez,PF,0,16,3-6,2-4,0-0,0,1,1,1,1,1,0,1,-4,8
+Will Barton,SF,0,34,6-15,1-4,2-4,6,4,10,4,0,2,2,2,-7,15
+Jusuf Nurkic,C,0,11,1-4,0-0,0-0,2,1,3,0,0,0,1,1,-11,2
+Jamal Murray,PG,0,15,1-4,0-1,0-0,1,2,3,1,0,0,3,0,-8,2
+Johnny O'Bryant III,PF,0,DNP-COACH'S DECISION
+Emmanuel Mudiay,PG,0,DNP-LOW BACK SORENESS
+Mike Miller,SG,0,DNP-COACH'S DECISION
+Malik Beasley,SG,0,DNP-COACH'S DECISION
+TEAM,,,,54-95,16-32,7-10,16,28,44,30,6,5,15,11,,131
+ ,,,,56.8%,50.0%,70.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,13-20,6-10,1-2,1,5,6,4,2,0,2,2,-13,33
+Kristaps Porzingis,PF,1,33,7-14,2-4,1-2,2,2,4,2,1,1,1,3,-3,17
+Derrick Rose,PG,1,28,6-9,0-0,1-1,1,2,3,4,1,0,1,0,-15,13
+Brandon Jennings,PG,1,39,2-10,2-6,0-0,1,1,2,13,1,0,0,1,-2,6
+Courtney Lee,SG,1,31,6-10,3-7,0-0,0,3,3,4,2,0,2,5,-8,15
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Maurice Ndour,SF,0,3,0-2,0-0,0-0,1,1,2,0,0,0,0,0,-3,0
+Kyle O'Quinn,C,0,22,8-9,0-1,0-0,2,4,6,3,0,4,2,2,+6,16
+Willy Hernangomez,C,0,9,6-7,0-0,0-0,2,2,4,0,0,0,1,0,-6,12
+Justin Holiday,SG,0,20,3-8,3-8,0-0,0,2,2,2,2,0,1,0,+2,9
+Ron Baker,SG,0,20,1-4,0-2,0-0,0,1,1,4,1,0,0,1,+2,2
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,52-93,16-38,3-5,10,23,33,36,10,5,10,14,,123
+ ,,,,55.9%,42.1%,60.0%
+
+400900222,Spurs,Knicks,90,94
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+LaMarcus Aldridge,PF,1,37,5-16,0-1,5-6,6,4,10,1,0,0,0,1,+0,15
+Kawhi Leonard,SF,1,36,13-27,1-7,9-11,2,7,9,4,4,0,3,3,+0,36
+Dewayne Dedmon,C,1,24,1-2,0-0,1-2,1,6,7,0,2,1,2,1,-19,3
+Tony Parker,PG,1,31,0-3,0-1,0-0,0,1,1,4,0,0,0,2,+4,0
+Danny Green,SG,1,34,2-13,2-10,0-0,2,1,3,1,1,0,1,2,-10,6
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+David Lee,PF,0,21,5-8,0-0,0-0,4,3,7,1,1,0,2,1,+3,10
+Kyle Anderson,SF,0,7,1-3,0-0,3-3,0,1,1,0,0,0,1,0,-1,5
+Davis Bertans,C,0,14,1-2,1-1,0-0,3,1,4,0,0,0,0,1,+8,3
+Patty Mills,PG,0,20,3-8,2-5,0-0,1,0,1,2,2,0,2,3,-2,8
+Dejounte Murray,PG,0,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
+Manu Ginobili,SG,0,17,2-9,0-4,0-0,2,1,3,4,1,0,0,2,-1,4
+Joel Anthony,PF,0,DNP-COACH'S DECISION
+Bryn Forbes,SG,0,DNP-COACH'S DECISION
+TEAM,,,,33-91,6-29,18-22,21,25,46,17,11,1,11,16,,90
+ ,,,,36.3%,20.7%,81.8%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,40,9-21,3-5,4-6,1,6,7,2,0,0,4,2,+4,25
+Kristaps Porzingis,PF,1,37,4-10,3-5,5-5,0,7,7,2,1,4,2,3,+20,16
+Willy Hernangomez,C,1,29,6-8,0-0,0-0,3,6,9,1,3,0,2,3,-2,12
+Derrick Rose,PG,1,30,6-11,0-0,6-8,0,4,4,2,0,1,3,0,+6,18
+Courtney Lee,SG,1,35,4-9,1-2,0-0,1,4,5,5,1,0,2,1,+3,9
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Lance Thomas,SF,0,17,1-2,0-0,0-0,0,2,2,0,0,0,0,5,-10,2
+Kyle O'Quinn,C,0,21,1-3,0-0,2-2,0,7,7,2,0,3,2,4,+0,4
+Brandon Jennings,PG,0,18,1-1,0-0,0-0,0,3,3,3,0,0,1,0,-2,2
+Justin Holiday,SG,0,13,2-3,2-2,0-0,0,0,0,1,0,0,3,1,+1,6
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+TEAM,,,,34-68,9-14,17-21,5,39,44,18,5,8,19,19,,94
+ ,,,,50.0%,64.3%,81.0%
+
+400900251,Knicks,Thunder,105,116
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,39,11-20,6-7,2-2,0,4,4,4,1,2,4,4,-8,30
+Kristaps Porzingis,PF,1,33,4-13,1-4,2-2,0,7,7,1,1,2,4,4,-1,11
+Willy Hernangomez,C,1,32,3-6,0-0,2-2,3,7,10,1,2,3,1,3,-12,8
+Derrick Rose,PG,1,38,11-21,0-0,3-3,1,3,4,7,2,0,3,2,-10,25
+Courtney Lee,SG,1,39,7-13,2-5,0-0,0,4,4,1,0,0,1,2,-12,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Lance Thomas,SF,0,15,1-2,0-0,1-1,1,3,4,1,0,0,0,1,-5,3
+Kyle O'Quinn,C,0,11,1-3,0-0,0-0,1,3,4,0,1,4,2,1,+2,2
+Justin Holiday,SG,0,16,1-4,1-3,1-2,0,1,1,2,1,1,0,2,-9,4
+Ron Baker,SG,0,18,2-4,1-2,1-2,0,1,1,2,0,0,0,2,+0,6
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-86,11-21,12-14,6,33,39,19,8,12,15,21,,105
+ ,,,,47.7%,52.4%,85.7%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Steven Adams,C,1,31,4-9,0-0,3-4,3,4,7,1,0,1,1,1,+12,11
+Domantas Sabonis,C,1,24,3-8,0-1,0-0,3,3,6,0,1,0,0,3,+2,6
+Russell Westbrook,PG,1,38,13-22,3-5,9-13,3,11,14,12,3,1,6,0,+13,38
+Victor Oladipo,SG,1,37,9-17,3-6,0-0,0,4,4,2,1,0,2,1,+26,21
+Andre Roberson,SG,1,34,3-8,1-1,3-4,2,5,7,0,2,0,0,3,+12,10
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jerami Grant,SF,0,24,3-3,2-2,5-8,1,4,5,2,1,2,0,2,+4,13
+Joffrey Lauvergne,C,0,17,3-8,1-2,2-2,0,2,2,0,2,0,2,1,-5,9
+Cameron Payne,PG,0,12,0-6,0-3,0-0,0,2,2,3,0,0,1,0,-5,0
+Alex Abrines,SG,0,16,2-5,1-2,0-0,0,1,1,0,0,0,0,2,-3,5
+Anthony Morrow,SG,0,7,1-2,1-1,0-0,0,0,0,1,0,0,0,0,-1,3
+Nick Collison,PF,0,DNP-COACH'S DECISION
+Kyle Singler,SF,0,DNP-COACH'S DECISION
+Semaj Christon,PG,0,DNP-COACH'S DECISION
+TEAM,,,,41-88,12-23,22-31,12,36,48,21,10,4,12,13,,116
+ ,,,,46.6%,52.2%,71.0%
+
+400900259,Knicks,Cavaliers,104,119
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,40,9-25,2-8,0-0,1,4,5,6,0,0,5,3,-11,20
+Kristaps Porzingis,PF,1,16,4-10,0-4,0-0,1,4,5,0,0,2,0,0,-6,8
+Willy Hernangomez,C,1,27,4-10,0-1,3-4,4,7,11,3,0,2,1,3,-5,11
+Derrick Rose,PG,1,32,6-14,0-0,1-1,0,2,2,4,0,0,1,1,-12,13
+Courtney Lee,SG,1,36,10-15,3-5,2-2,1,5,6,5,1,0,1,1,+0,25
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,7,0-0,0-0,0-0,0,0,0,0,0,0,1,1,-6,0
+Maurice Ndour,SF,0,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
+Lance Thomas,SF,0,31,3-7,1-2,2-2,2,3,5,2,1,1,0,3,-9,9
+Kyle O'Quinn,C,0,19,2-6,0-0,0-1,6,4,10,0,1,0,1,2,-11,4
+Brandon Jennings,PG,0,14,2-9,1-4,2-2,1,1,2,3,1,1,1,5,-5,7
+Sasha Vujacic,SG,0,2,1-1,1-1,0-0,0,0,0,0,0,0,0,0,+2,3
+Justin Holiday,SG,0,12,1-4,0-1,1-3,0,3,3,0,0,1,1,0,-15,3
+Ron Baker,SG,0,2,0-0,0-0,1-2,0,1,1,1,0,0,0,0,+2,1
+TEAM,,,,42-101,8-26,12-17,16,34,50,24,4,7,12,19,,104
+ ,,,,41.6%,30.8%,70.6%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Channing Frye,PF,1,27,5-14,2-7,2-2,0,3,3,0,0,2,2,1,-1,14
+LeBron James,SF,1,37,7-11,0-2,4-6,0,13,13,15,0,3,6,1,+10,18
+Tristan Thompson,C,1,31,5-7,0-0,0-0,6,6,12,2,0,4,1,2,+6,10
+Kyrie Irving,PG,1,30,9-16,1-4,4-5,1,3,4,6,1,1,2,1,+4,23
+Iman Shumpert,SG,1,23,2-9,1-6,0-0,1,2,3,0,2,0,0,4,+3,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Derrick Williams,PF,0,27,4-8,2-5,0-0,0,1,1,2,1,0,0,1,+15,10
+Richard Jefferson,SF,0,23,5-6,2-3,2-2,0,2,2,0,0,0,1,2,+11,14
+Kay Felder,PG,0,3,0-1,0-0,0-0,0,1,1,1,0,0,0,0,+0,0
+Jordan McRae,SG,0,3,1-1,1-1,0-0,0,0,0,0,0,0,0,1,+0,3
+DeAndre Liggins,SG,0,3,1-2,0-0,0-0,0,2,2,0,0,0,0,1,+0,2
+James Jones,SG,0,3,0-0,0-0,0-0,0,0,0,0,0,0,0,1,+0,0
+Kyle Korver,SG,0,31,7-12,6-10,0-0,0,3,3,3,1,0,0,1,+27,20
+TEAM,,,,46-87,15-38,12-15,8,36,44,29,5,10,12,16,,119
+ ,,,,52.9%,39.5%,80.0%
+
+400900274,76ers,Knicks,109,110
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Dario Saric,PF,1,40,7-17,1-5,4-6,6,9,15,5,0,0,4,2,+6,19
+Robert Covington,SF,1,39,7-19,2-11,4-4,0,10,10,2,3,2,2,4,-4,20
+Jahlil Okafor,C,1,29,11-19,0-0,6-6,6,4,10,1,0,0,0,2,+3,28
+T.J. McConnell,PG,1,33,3-4,1-1,0-0,1,3,4,7,1,0,0,2,+6,7
+Gerald Henderson,SG,1,30,3-11,0-3,3-5,1,2,3,3,1,0,1,3,+4,9
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Richaun Holmes,PF,0,16,3-4,1-1,1-2,1,1,2,0,1,2,0,3,-6,8
+Sergio Rodriguez,PG,0,15,1-8,0-2,0-0,0,0,0,1,0,0,1,1,-7,2
+Timothe Luwawu-Cabarrot,SG,0,12,0-3,0-3,2-2,1,1,2,0,0,0,1,3,+3,2
+Justin Anderson,SG,0,4,0-1,0-1,0-0,0,1,1,0,0,0,0,1,-8,0
+Nik Stauskas,SG,0,24,5-9,2-4,2-2,0,3,3,0,0,1,2,0,-2,14
+Joel Embiid,C,0,DNP-LEFT KNEE CONTUSION
+Tiago Splitter,C,0,DNP-STRAINED RIGHT CALF
+TEAM,,,,40-95,7-31,22-27,16,34,50,19,6,5,11,21,,109
+ ,,,,42.1%,22.6%,81.5%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,37,15-25,2-7,5-7,1,5,6,2,0,1,3,4,+3,37
+Lance Thomas,SF,1,37,4-10,1-2,2-3,0,6,6,2,0,0,3,4,-7,11
+Willy Hernangomez,C,1,23,4-6,0-0,3-3,3,6,9,1,0,2,2,5,+3,11
+Derrick Rose,PG,1,36,8-17,0-1,2-2,0,5,5,3,0,0,1,1,+1,18
+Courtney Lee,SG,1,24,2-7,1-4,0-0,0,4,4,2,1,0,0,1,-3,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,22,1-3,0-1,1-1,0,0,0,3,0,0,0,1,+6,3
+Kyle O'Quinn,C,0,25,3-6,0-0,3-4,3,2,5,5,5,2,1,3,-4,9
+Brandon Jennings,PG,0,12,0-3,0-0,2-3,0,2,2,3,0,0,1,1,+0,2
+Justin Holiday,SG,0,24,6-14,2-6,0-0,3,4,7,0,0,2,0,2,+6,14
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Ron Baker,SG,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,43-91,6-21,18-23,10,34,44,21,6,7,11,22,,110
+ ,,,,47.3%,28.6%,78.3%
+
+400900288,Raptors,Knicks,92,91
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Serge Ibaka,PF,1,36,5-14,2-6,3-4,1,3,4,0,0,1,1,4,-2,15
+DeMarre Carroll,SF,1,30,3-8,1-4,2-2,1,4,5,2,0,0,2,3,+10,9
+Jonas Valanciunas,C,1,19,4-4,0-0,2-2,1,4,5,0,1,1,3,4,-7,10
+Cory Joseph,PG,1,34,3-7,0-3,0-0,1,2,3,4,2,0,2,1,-2,6
+DeMar DeRozan,SG,1,37,13-25,1-3,10-13,3,5,8,2,2,0,2,1,-1,37
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Patrick Patterson,PF,0,18,1-6,1-6,0-0,0,2,2,1,1,0,0,0,+7,3
+PJ Tucker,SF,0,26,1-4,0-0,0-0,3,2,5,1,2,0,0,2,-1,2
+Norman Powell,SF,0,18,1-6,1-2,0-0,1,4,5,1,1,1,2,1,-3,3
+Lucas Nogueira,C,0,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Jakob Poeltl,C,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,1,-5,0
+Fred VanVleet,PG,0,8,1-2,0-0,0-0,0,3,3,0,0,0,0,0,+6,2
+Delon Wright,PG,0,15,1-2,1-2,2-2,0,1,1,1,0,0,0,1,+3,5
+Pascal Siakam,PF,0,DNP-COACH'S DECISION
+TEAM,,,,33-78,7-26,19-23,11,30,41,12,9,3,12,18,,92
+ ,,,,42.3%,26.9%,82.6%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,39,9-26,2-9,4-4,1,3,4,2,1,0,3,1,+7,24
+Lance Thomas,SF,1,29,3-4,2-3,4-6,1,5,6,0,0,0,1,3,-1,12
+Willy Hernangomez,C,1,34,4-6,0-0,0-0,4,5,9,2,1,0,2,4,+1,8
+Derrick Rose,PG,1,40,5-12,0-1,6-6,0,6,6,4,2,0,3,3,+8,16
+Courtney Lee,SG,1,41,6-10,3-4,1-2,0,3,3,3,5,2,2,1,+10,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,2,0-1,0-0,0-0,0,0,0,0,0,0,0,1,-7,0
+Maurice Ndour,SF,0,4,0-0,0-0,0-0,0,0,0,0,0,0,0,1,+1,0
+Kyle O'Quinn,C,0,15,2-3,0-1,0-0,2,4,6,4,1,3,2,3,-2,4
+Sasha Vujacic,SG,0,3,0-2,0-2,0-0,0,0,0,0,0,0,0,0,-10,0
+Justin Holiday,SG,0,15,2-5,1-2,1-1,0,1,1,0,0,1,0,0,-4,6
+Ron Baker,SG,0,19,2-4,1-2,0-0,0,5,5,2,0,0,4,2,-8,5
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Chasson Randle,PG,0,DNP-COACH'S DECISION
+TEAM,,,,33-73,9-24,16-19,8,32,40,17,10,6,17,19,,91
+ ,,,,45.2%,37.5%,84.2%
+
+400900304,Knicks,76ers,102,105
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,36,5-18,2-5,6-6,1,5,6,2,2,2,2,3,+5,18
+Kristaps Porzingis,PF,1,31,6-12,0-2,6-6,0,8,8,1,1,0,0,5,+16,18
+Lance Thomas,SF,1,42,8-16,3-5,2-2,2,4,6,0,2,0,1,1,-4,21
+Derrick Rose,PG,1,38,5-13,0-0,10-13,1,3,4,5,2,0,3,0,+6,20
+Courtney Lee,SG,1,37,6-13,2-6,2-2,1,5,6,3,2,0,1,3,+12,16
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,5,0-2,0-1,0-0,0,1,1,0,0,0,1,1,-4,0
+Kyle O'Quinn,C,0,17,2-4,0-0,3-4,2,2,4,0,0,1,1,4,-11,7
+Marshall Plumlee,C,0,3,0-2,0-0,0-0,1,0,1,0,0,0,0,0,-9,0
+Justin Holiday,SG,0,18,0-1,0-1,0-0,0,2,2,1,0,0,0,2,-15,0
+Ron Baker,SG,0,14,1-3,0-1,0-0,1,2,3,2,1,0,1,1,-11,2
+Chasson Randle,PG,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,33-84,7-21,29-33,9,32,41,14,10,3,10,20,,102
+ ,,,,39.3%,33.3%,87.9%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Dario Saric,PF,1,27,7-14,1-5,6-10,1,9,10,4,0,0,1,5,-6,21
+Robert Covington,SF,1,36,3-9,2-5,8-9,1,3,4,3,1,5,4,4,+3,16
+Jahlil Okafor,C,1,20,5-10,0-0,2-2,4,4,8,1,0,1,2,5,+10,12
+T.J. McConnell,PG,1,32,5-11,0-1,1-2,0,4,4,4,1,1,1,2,-11,11
+Nik Stauskas,SG,1,30,1-5,1-4,2-2,0,5,5,1,0,0,1,0,+9,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Richaun Holmes,PF,0,25,3-4,0-0,4-4,1,3,4,1,0,1,0,0,-7,10
+Sergio Rodriguez,PG,0,16,0-5,0-2,1-2,0,0,0,3,2,0,3,0,+14,1
+Timothe Luwawu-Cabarrot,SG,0,25,4-12,2-4,0-0,2,7,9,1,1,0,1,3,+9,10
+Justin Anderson,SG,0,24,8-12,3-6,0-0,3,2,5,2,0,1,1,2,+0,19
+Tiago Splitter,C,0,DNP-RIGHT CALF
+Gerald Henderson,SG,0,DNP-LEFT HIP SURGERY
+TEAM,,,,36-83,9-28,24-31,12,38,50,20,5,9,15,21,,105
+ ,,,,43.4%,32.1%,77.4%
+
+400900323,Warriors,Knicks,112,105
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Draymond Green,PF,1,40,4-9,1-4,4-4,1,6,7,4,2,1,0,3,-2,13
+Matt Barnes,SF,1,19,1-3,1-3,0-0,1,2,3,2,2,1,1,3,+2,3
+Zaza Pachulia,C,1,18,5-6,0-0,0-0,0,1,1,2,1,1,2,1,+14,10
+Stephen Curry,PG,1,37,11-24,5-13,4-6,2,6,8,6,2,0,2,2,+22,31
+Klay Thompson,SG,1,37,8-21,4-9,9-9,2,2,4,1,1,0,1,1,-1,29
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+David West,PF,0,11,3-4,0-0,1-2,1,0,1,0,0,0,1,2,-15,7
+James Michael McAdoo,SF,0,3,0-1,0-0,0-0,1,1,2,0,0,0,0,1,+0,0
+Andre Iguodala,SF,0,31,2-5,2-5,0-0,1,2,3,4,2,0,1,1,+3,6
+JaVale McGee,C,0,8,2-3,0-0,1-2,1,3,4,0,0,0,0,0,+9,5
+Shaun Livingston,PG,0,14,0-4,0-0,0-0,0,0,0,1,0,0,0,3,-11,0
+Ian Clark,SG,0,6,2-5,0-1,0-0,0,0,0,1,0,0,0,0,+1,4
+Patrick McCaw,SG,0,16,2-3,0-0,0-0,1,1,2,0,1,0,0,1,+13,4
+Kevon Looney,SF,0,DNP-COACH'S DECISION
+TEAM,,,,40-88,13-35,19-23,11,24,35,21,11,3,8,18,,112
+ ,,,,45.5%,37.1%,82.6%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,6-12,1-4,2-2,2,4,6,2,0,2,2,1,-9,15
+Kristaps Porzingis,PF,1,40,9-21,2-6,4-4,4,11,15,2,0,2,2,3,-1,24
+Lance Thomas,SF,1,27,0-6,0-2,0-0,1,6,7,2,0,0,0,0,-3,0
+Derrick Rose,PG,1,35,9-18,0-1,10-11,0,1,1,4,1,0,2,4,-8,28
+Courtney Lee,SG,1,29,2-5,1-2,0-0,0,0,0,1,3,0,1,4,-15,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,11,1-2,0-0,2-4,1,0,1,0,0,1,0,0,+0,4
+Kyle O'Quinn,C,0,11,1-1,0-0,0-0,1,3,4,5,0,0,2,3,+8,2
+Willy Hernangomez,C,0,14,4-5,0-0,0-0,2,3,5,0,0,0,3,2,-17,8
+Justin Holiday,SG,0,15,4-6,2-4,0-0,0,3,3,1,0,0,1,1,+0,10
+Ron Baker,SG,0,23,3-7,1-3,2-4,1,4,5,1,1,1,2,2,+10,9
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Chasson Randle,PG,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,39-83,7-22,20-25,12,35,47,18,5,6,15,20,,105
+ ,,,,47.0%,31.8%,80.0%
+
+400900330,Knicks,Magic,113,105
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kristaps Porzingis,PF,1,30,6-12,0-0,2-2,2,5,7,1,0,1,1,4,-9,14
+Lance Thomas,SF,1,27,5-13,3-5,4-4,1,3,4,1,2,0,1,3,-3,17
+Derrick Rose,PG,1,27,2-9,0-0,8-8,0,5,5,6,0,0,2,0,-23,12
+Courtney Lee,SG,1,41,6-16,0-3,8-8,0,3,3,2,1,0,1,4,+6,20
+Ron Baker,SG,1,17,0-2,0-1,0-0,0,0,0,3,0,0,1,0,-1,0
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,16,3-5,1-1,1-1,0,1,1,1,1,0,0,2,+11,8
+Willy Hernangomez,C,0,18,7-10,0-0,0-0,4,4,8,3,0,0,2,4,+4,14
+Kyle O'Quinn,C,0,12,5-6,0-0,1-2,4,4,8,1,0,0,1,2,+12,11
+Chasson Randle,PG,0,26,2-7,0-1,3-3,1,4,5,5,0,0,0,1,+27,7
+Justin Holiday,SG,0,25,4-6,2-3,0-0,0,4,4,3,2,0,0,3,+16,10
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,40-86,6-14,27-28,12,33,45,26,6,1,9,23,,113
+ ,,,,46.5%,42.9%,96.4%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Aaron Gordon,PF,1,30,8-15,1-6,0-1,1,4,5,4,0,1,1,4,+8,17
+Bismack Biyombo,C,1,42,3-6,0-0,4-8,5,9,14,0,0,1,1,3,+2,10
+Elfrid Payton,PG,1,35,7-13,0-1,2-2,3,8,11,10,1,0,2,4,+7,16
+Evan Fournier,SG,1,34,9-17,4-9,3-4,0,2,2,3,0,0,2,2,+7,25
+Terrence Ross,SG,1,35,2-10,1-6,0-0,0,4,4,1,1,1,3,3,+5,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mario Hezonja,SF,0,15,3-6,0-1,2-3,0,3,3,0,1,1,1,0,-12,8
+Damjan Rudez,SF,0,4,0-1,0-1,0-0,0,0,0,1,0,0,0,0,-5,0
+Jeff Green,SF,0,20,5-10,1-4,4-4,0,1,1,0,0,1,2,3,-21,15
+C.J. Watson,PG,0,12,2-3,1-1,0-0,1,0,1,1,1,0,0,1,-16,5
+D.J. Augustin,PG,0,13,1-4,1-3,1-2,1,0,1,3,0,0,1,3,-15,4
+Stephen Zimmerman,C,0,DNP-COACH'S DECISION
+Nikola Vucevic,C,0,DNP-SORE RIGHT ACHILLES TENDON
+CJ Wilcox,SG,0,DNP-COACH'S DECISION
+TEAM,,,,40-85,9-32,16-24,11,31,42,23,4,5,13,23,,105
+ ,,,,47.1%,28.1%,66.7%
+
+400900347,Knicks,Bucks,93,104
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,40,6-13,2-5,2-3,2,2,4,3,1,0,2,5,-9,16
+Kristaps Porzingis,PF,1,37,5-15,2-5,1-2,1,7,8,2,0,3,2,2,-6,13
+Willy Hernangomez,C,1,28,6-10,0-0,1-3,3,9,12,1,2,1,6,6,+0,13
+Derrick Rose,PG,1,39,13-16,0-0,0-0,0,1,1,6,0,0,2,0,+4,26
+Courtney Lee,SG,1,37,4-12,2-5,2-2,1,6,7,5,0,0,0,1,-3,12
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,4,0-1,0-1,0-0,0,0,0,0,0,0,0,1,-6,0
+Lance Thomas,SF,0,24,0-6,0-2,2-2,1,5,6,1,0,0,1,3,-7,2
+Kyle O'Quinn,C,0,11,2-5,0-0,0-0,1,3,4,1,0,2,1,2,-5,4
+Justin Holiday,SG,0,12,1-1,0-0,0-0,0,0,0,2,1,0,1,0,-8,2
+Ron Baker,SG,0,9,2-5,1-3,0-0,1,0,1,1,0,0,0,0,-15,5
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Chasson Randle,PG,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,39-84,7-21,8-12,10,33,43,22,4,6,15,20,,93
+ ,,,,46.4%,33.3%,66.7%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Giannis Antetokounmpo,PF,1,41,11-21,0-1,10-13,6,7,13,7,4,2,1,2,+10,32
+Khris Middleton,SF,1,28,7-9,4-6,0-0,0,3,3,4,1,1,0,2,+9,18
+Thon Maker,C,1,11,2-7,0-2,0-0,1,2,3,0,0,0,0,1,+5,4
+Malcolm Brogdon,PG,1,22,1-8,0-3,2-2,1,0,1,3,1,0,1,1,-7,4
+Tony Snell,SG,1,38,3-9,2-3,2-2,1,6,7,1,2,0,1,2,+1,10
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Spencer Hawes,PF,0,8,1-2,0-1,0-0,1,1,2,1,0,0,1,0,-9,2
+Mirza Teletovic,PF,0,7,1-1,0-0,1-2,0,0,0,1,0,0,0,0,+1,3
+Greg Monroe,C,0,29,6-14,0-0,5-7,2,6,8,3,0,1,1,4,+15,17
+Matthew Dellavedova,PG,0,26,3-8,2-6,2-2,0,2,2,3,0,0,3,0,+18,10
+Jason Terry,SG,0,30,2-7,0-4,0-0,0,7,7,3,1,0,0,1,+12,4
+Terrence Jones,PF,0,DNP-COACH'S DECISION
+John Henson,C,0,DNP-COACH'S DECISION
+Rashad Vaughn,SG,0,DNP-COACH'S DECISION
+TEAM,,,,37-86,8-26,22-28,12,34,46,26,9,4,8,13,,104
+ ,,,,43.0%,30.8%,78.6%
+
+400900370,Knicks,Pistons,92,112
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,36,4-9,3-6,2-2,0,1,1,4,0,0,2,1,-21,13
+Kristaps Porzingis,PF,1,36,7-16,3-7,1-3,2,4,6,4,0,6,0,4,-8,18
+Willy Hernangomez,C,1,27,7-12,0-0,0-0,2,7,9,3,1,0,4,3,-17,14
+Derrick Rose,PG,1,27,5-12,0-1,1-2,1,1,2,2,1,0,4,0,-11,11
+Courtney Lee,SG,1,35,5-9,2-4,1-2,1,6,7,5,1,0,2,2,-17,13
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,7,2-4,0-0,2-2,0,1,1,0,0,0,1,2,-5,6
+Lance Thomas,SF,0,13,0-2,0-2,0-0,0,4,4,0,0,0,0,1,-4,0
+Kyle O'Quinn,C,0,19,1-3,0-0,0-0,2,6,8,3,1,0,0,1,+1,2
+Marshall Plumlee,C,0,2,0-0,0-0,0-0,0,1,1,0,0,0,0,0,-2,0
+Chasson Randle,PG,0,19,4-10,4-7,0-0,0,3,3,3,0,0,1,2,-7,12
+Sasha Vujacic,SG,0,4,0-1,0-0,0-0,0,1,1,1,0,0,1,0,-3,0
+Justin Holiday,SG,0,12,1-4,1-3,0-0,0,1,1,1,0,1,2,2,-4,3
+Ron Baker,SG,0,2,0-0,0-0,0-0,0,0,0,0,0,0,1,0,-2,0
+TEAM,,,,36-82,13-30,7-11,8,36,44,26,4,7,18,18,,92
+ ,,,,43.9%,43.3%,63.6%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marcus Morris,PF,1,34,3-10,1-4,0-0,1,4,5,2,0,1,0,1,+15,7
+Tobias Harris,SF,1,33,11-21,3-8,3-5,2,5,7,5,0,2,0,0,+23,28
+Andre Drummond,C,1,30,10-12,0-0,4-10,5,10,15,0,3,1,2,3,+13,24
+Reggie Jackson,PG,1,30,7-14,4-6,1-1,0,3,3,8,1,1,2,3,+12,19
+Kentavious Caldwell-Pope,SG,1,29,3-8,0-4,3-3,1,2,3,3,3,0,1,2,+12,9
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jon Leuer,PF,0,21,5-9,1-2,0-0,0,3,3,0,0,0,0,1,+0,11
+Stanley Johnson,SF,0,19,2-7,0-2,0-0,2,3,5,3,2,0,0,2,+8,4
+Reggie Bullock,SF,0,7,0-1,0-1,0-0,0,0,0,0,2,0,0,0,+0,0
+Aron Baynes,C,0,18,2-4,0-0,0-0,3,3,6,0,1,1,1,2,+7,4
+Ish Smith,PG,0,18,2-9,0-0,0-0,0,3,3,6,1,0,1,1,+8,4
+Darrun Hilliard,SG,0,2,1-1,0-0,0-0,0,1,1,0,1,0,0,0,+2,2
+Boban Marjanovic,C,0,DNP-COACH'S DECISION
+Beno Udrih,PG,0,DNP-COACH'S DECISION
+TEAM,,,,46-96,9-27,11-19,14,37,51,27,14,6,7,15,,112
+ ,,,,47.9%,33.3%,57.9%
+
+400900381,Knicks,Nets,112,120
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,37,10-26,1-5,6-7,1,6,7,3,0,1,3,2,-3,27
+Kristaps Porzingis,PF,1,34,7-16,2-6,3-4,2,8,10,4,0,5,4,6,-3,19
+Willy Hernangomez,C,1,17,3-8,0-1,0-0,1,9,10,1,0,1,0,1,-3,6
+Derrick Rose,PG,1,37,5-15,0-0,7-8,3,2,5,2,2,0,0,2,-6,17
+Courtney Lee,SG,1,39,5-10,2-4,3-4,1,1,2,1,1,0,0,3,-2,15
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Lance Thomas,SF,0,32,4-7,3-4,2-3,2,3,5,4,0,1,0,1,-5,13
+Kyle O'Quinn,C,0,6,1-1,0-0,0-0,0,0,0,2,1,0,0,2,-3,2
+Chasson Randle,PG,0,12,1-3,0-1,2-2,1,0,1,1,0,0,0,1,+1,4
+Justin Holiday,SG,0,10,1-5,0-1,0-0,0,1,1,1,0,0,0,1,-11,2
+Ron Baker,SG,0,17,2-3,0-1,3-4,0,2,2,3,1,0,2,1,-5,7
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,39-94,8-23,26-32,11,32,43,22,5,8,9,20,,112
+ ,,,,41.5%,34.8%,81.3%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Rondae Hollis-Jefferson,SF,1,24,6-8,0-0,2-4,5,6,11,0,0,1,1,5,+0,14
+Brook Lopez,C,1,29,8-17,6-9,3-4,2,4,6,2,1,1,4,1,+2,25
+Jeremy Lin,PG,1,27,3-14,1-6,6-9,0,4,4,5,1,0,2,2,-3,13
+Randy Foye,SG,1,12,1-2,0-1,0-0,0,2,2,1,0,0,0,2,-1,2
+Caris LeVert,SG,1,26,4-4,2-2,3-4,0,4,4,4,2,0,0,2,-4,13
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Trevor Booker,PF,0,25,6-12,2-3,0-0,5,4,9,0,0,0,1,2,+8,14
+Quincy Acy,SF,0,19,4-6,4-4,0-0,0,6,6,1,0,0,3,3,+6,12
+Spencer Dinwiddie,PG,0,28,3-5,2-2,1-2,1,1,2,6,1,1,0,1,+10,9
+Isaiah Whitehead,SG,0,26,4-10,2-5,0-0,0,3,3,2,2,0,1,3,+6,10
+Sean Kilpatrick,SG,0,25,1-9,0-6,6-6,0,8,8,2,0,0,0,2,+16,8
+Andrew Nicholson,PF,0,DNP-COACH'S DECISION
+Justin Hamilton,C,0,DNP-COACH'S DECISION
+KJ McDaniels,SG,0,DNP-COACH'S DECISION
+TEAM,,,,40-87,19-38,21-29,13,42,55,23,7,3,12,23,,120
+ ,,,,46.0%,50.0%,72.4%
+
+400900396,Pacers,Knicks,81,87
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Thaddeus Young,PF,1,37,2-4,0-1,0-0,2,5,7,1,1,0,0,1,+0,4
+CJ Miles,SF,1,25,2-9,2-8,0-0,0,4,4,0,0,0,0,1,+0,6
+Paul George,SF,1,38,9-22,3-8,1-1,2,8,10,2,0,0,6,2,-2,22
+Myles Turner,C,1,31,8-17,0-0,1-2,6,5,11,1,1,3,1,3,-2,17
+Jeff Teague,PG,1,32,4-15,1-6,0-1,1,8,9,6,0,0,7,0,-4,9
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Rakeem Christmas,PF,0,17,0-1,0-0,2-2,1,4,5,0,1,0,0,3,-4,2
+Kevin Seraphin,C,0,6,1-1,0-0,0-0,1,1,2,0,0,0,0,0,+2,2
+Rodney Stuckey,PG,0,16,1-6,1-3,3-6,0,1,1,3,0,0,1,1,+0,6
+Glenn Robinson III,SG,0,11,1-2,1-2,1-2,1,0,1,0,0,0,0,0,-8,4
+Monta Ellis,SG,0,25,4-10,0-1,1-1,0,3,3,3,3,0,1,3,-12,9
+Al Jefferson,C,0,DNP-COACH'S DECISION
+Joe Young,PG,0,DNP-COACH'S DECISION
+Aaron Brooks,PG,0,DNP-COACH'S DECISION
+TEAM,,,,32-87,8-29,9-15,14,39,53,16,6,3,16,14,,81
+ ,,,,36.8%,27.6%,60.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,41,8-17,3-6,3-5,0,13,13,1,1,0,2,0,+9,22
+Kristaps Porzingis,PF,1,25,5-17,1-6,0-0,2,1,3,3,1,3,2,1,-2,11
+Lance Thomas,SF,1,33,3-9,3-7,0-0,2,5,7,1,0,0,1,2,-5,9
+Derrick Rose,PG,1,32,7-12,0-1,2-2,0,2,2,4,0,0,0,0,-1,16
+Courtney Lee,SG,1,29,2-9,1-5,0-0,0,7,7,3,1,0,2,1,+7,5
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Willy Hernangomez,C,0,31,6-12,0-0,1-4,6,10,16,4,3,1,4,3,+7,13
+Chasson Randle,PG,0,7,0-1,0-1,2-2,0,1,1,2,0,0,0,3,-3,2
+Justin Holiday,SG,0,20,3-5,1-2,0-0,1,1,2,0,0,0,0,0,+12,7
+Ron Baker,SG,0,22,1-1,0-0,0-0,0,1,1,3,2,0,3,5,+6,2
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Kyle O'Quinn,C,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,35-83,9-28,8-13,11,41,52,21,8,4,14,15,,87
+ ,,,,42.2%,32.1%,61.5%
+
+400900411,Nets,Knicks,121,110
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Rondae Hollis-Jefferson,SF,1,25,7-12,0-1,6-6,5,5,10,0,1,1,1,4,+15,20
+Brook Lopez,C,1,30,9-17,1-5,5-5,1,5,6,3,0,1,3,4,+14,24
+Jeremy Lin,PG,1,30,5-16,2-9,3-3,0,4,4,8,2,0,1,3,+14,15
+Randy Foye,SG,1,28,3-9,2-4,2-3,0,4,4,2,1,0,1,2,+9,10
+Caris LeVert,SG,1,25,5-9,1-3,2-2,1,6,7,0,0,0,1,2,+9,13
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Quincy Acy,SF,0,23,3-6,1-2,2-3,1,4,5,1,0,0,0,1,-4,9
+Justin Hamilton,C,0,18,2-4,1-3,2-2,3,3,6,0,0,0,1,4,-3,7
+Spencer Dinwiddie,PG,0,21,1-2,1-1,3-6,0,3,3,3,1,0,2,0,-6,6
+Isaiah Whitehead,SG,0,21,4-6,0-2,0-0,1,0,1,1,0,0,2,1,+1,8
+KJ McDaniels,SG,0,18,2-5,1-2,4-5,1,4,5,1,0,0,1,2,+6,9
+Trevor Booker,PF,0,DNP-REST
+Andrew Nicholson,PF,0,DNP-COACH'S DECISION
+Archie Goodwin,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-86,10-32,29-35,13,38,51,19,5,2,13,23,,121
+ ,,,,47.7%,31.3%,82.9%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,37,6-18,0-6,5-5,0,6,6,5,1,1,1,5,-10,17
+Lance Thomas,SF,1,34,5-5,1-1,4-4,1,9,10,1,0,0,0,2,-4,15
+Willy Hernangomez,C,1,19,2-7,0-0,0-0,1,5,6,0,1,0,1,5,-18,4
+Derrick Rose,PG,1,33,7-17,0-0,8-9,0,2,2,2,0,0,2,2,-13,22
+Courtney Lee,SG,1,35,5-9,0-2,3-3,0,0,0,2,0,1,1,2,-16,13
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kyle O'Quinn,C,0,26,10-15,0-2,3-3,3,5,8,3,1,0,1,4,+10,23
+Chasson Randle,PG,0,6,0-0,0-0,0-0,0,0,0,2,1,0,1,1,+5,0
+Justin Holiday,SG,0,25,4-7,2-4,0-0,0,1,1,2,1,1,0,1,-3,10
+Ron Baker,SG,0,25,2-10,0-3,2-2,0,1,1,3,1,1,0,4,-6,6
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Maurice Ndour,SF,0,DNP-COACH'S DECISION
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-88,3-18,25-26,5,29,34,20,6,4,7,26,,110
+ ,,,,46.6%,16.7%,96.2%
+
+400900445,Knicks,Clippers,105,114
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,25,6-14,1-5,3-3,2,2,4,1,0,0,0,3,-14,16
+Kristaps Porzingis,PF,1,32,9-16,0-4,0-0,3,8,11,2,2,0,2,3,-7,18
+Willy Hernangomez,C,1,17,3-11,0-0,2-2,5,4,9,0,0,0,1,0,-12,8
+Derrick Rose,PG,1,28,6-11,0-0,6-6,1,3,4,5,0,0,1,1,-20,18
+Courtney Lee,SG,1,22,1-6,0-3,0-0,0,2,2,2,0,0,0,1,-8,2
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,18,2-6,1-4,3-3,2,2,4,3,1,0,3,3,-4,8
+Lance Thomas,SF,0,15,1-3,0-0,0-0,0,1,1,1,0,0,1,1,-9,2
+Kyle O'Quinn,C,0,3,0-0,0-0,0-0,0,1,1,0,0,0,0,0,-5,0
+Marshall Plumlee,C,0,20,2-3,0-0,0-4,0,4,4,2,0,0,2,1,+9,4
+Chasson Randle,PG,0,11,2-3,0-0,3-4,1,0,1,3,0,0,1,3,+10,7
+Sasha Vujacic,SG,0,3,1-3,1-3,0-0,0,0,0,0,0,0,0,1,+8,3
+Justin Holiday,SG,0,27,4-8,1-3,2-2,0,4,4,3,1,1,0,0,-4,11
+Ron Baker,SG,0,20,3-5,2-2,0-0,0,3,3,2,2,0,1,2,+11,8
+TEAM,,,,40-89,6-24,19-24,14,34,48,24,6,1,12,19,,105
+ ,,,,44.9%,25.0%,79.2%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Luc Mbah a Moute,PF,1,21,2-4,0-2,0-0,0,3,3,2,2,0,1,0,+15,4
+Blake Griffin,PF,1,31,12-19,3-4,3-7,3,3,6,2,1,1,1,3,+21,30
+DeAndre Jordan,C,1,28,7-9,0-0,0-0,3,7,10,0,0,3,0,1,+16,14
+Chris Paul,PG,1,28,5-11,2-5,1-1,0,5,5,13,1,0,0,2,+18,13
+JJ Redick,SG,1,23,4-11,3-6,3-3,0,3,3,3,0,0,1,1,+8,14
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marreese Speights,PF,0,16,1-3,0-2,2-2,1,3,4,0,1,0,1,0,+2,4
+Brandon Bass,PF,0,6,0-1,0-0,0-0,1,1,2,0,0,0,0,0,-11,0
+Wesley Johnson,SF,0,4,0-2,0-2,0-0,0,1,1,0,0,0,0,0,-9,0
+Paul Pierce,SF,0,11,1-2,0-1,0-0,0,2,2,1,0,0,0,2,-1,2
+Austin Rivers,PG,0,23,6-10,1-4,4-5,0,1,1,2,0,0,3,4,-7,17
+Raymond Felton,PG,0,20,0-5,0-1,2-2,1,4,5,2,2,0,1,2,-9,2
+Jamal Crawford,SG,0,29,5-10,1-4,3-4,0,1,1,0,1,0,1,4,+2,14
+Alan Anderson,SG,0,DNP-COACH'S DECISION
+TEAM,,,,43-87,10-31,18-24,9,34,43,25,8,4,9,19,,114
+ ,,,,49.4%,32.3%,75.0%
+
+400900461,Knicks,Jazz,101,108
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,36,5-13,1-4,5-5,1,2,3,3,1,0,1,3,-1,16
+Kristaps Porzingis,PF,1,31,8-17,3-7,5-6,2,5,7,0,1,1,0,5,-6,24
+Lance Thomas,SF,1,32,2-7,0-1,0-0,2,6,8,2,0,0,0,3,-6,4
+Derrick Rose,PG,1,32,7-12,0-0,3-3,0,1,1,6,0,0,3,0,-5,17
+Courtney Lee,SG,1,35,5-8,2-3,0-0,0,0,0,3,1,0,1,4,-13,12
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,5,0-1,0-0,0-0,0,0,0,0,0,0,0,1,+2,0
+Kyle O'Quinn,C,0,9,2-3,0-0,0-0,0,3,3,1,0,0,1,3,-7,4
+Willy Hernangomez,C,0,17,4-8,0-0,1-2,4,7,11,1,2,0,2,3,+3,9
+Chasson Randle,PG,0,2,0-0,0-0,0-0,0,0,0,1,0,0,0,1,+0,0
+Justin Holiday,SG,0,19,3-6,2-5,0-0,0,1,1,0,0,0,2,1,+2,8
+Ron Baker,SG,0,21,2-5,1-1,2-2,0,2,2,2,0,0,1,2,-4,7
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,38-80,9-21,16-18,9,27,36,19,5,1,11,26,,101
+ ,,,,47.5%,42.9%,88.9%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Gordon Hayward,SF,1,39,6-17,1-7,6-9,3,5,8,3,1,0,0,0,+9,19
+Boris Diaw,C,1,14,2-6,1-1,0-0,0,1,1,1,0,0,0,0,-12,5
+Rudy Gobert,C,1,38,13-15,0-0,9-12,13,2,15,1,1,4,3,2,+13,35
+George Hill,PG,1,35,7-18,1-4,0-0,0,7,7,4,1,0,4,1,+0,15
+Rodney Hood,SG,1,21,1-4,0-2,1-2,0,3,3,1,0,0,1,0,-2,3
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Trey Lyles,PF,0,3,0-2,0-1,0-0,0,1,1,0,0,0,0,1,+2,0
+Joe Ingles,SF,0,25,2-7,1-5,0-2,0,3,3,3,0,0,0,0,+9,5
+Jeff Withey,C,0,10,2-3,0-0,2-2,3,0,3,0,1,2,0,1,-6,6
+Raul Neto,PG,0,14,4-4,2-2,0-0,0,0,0,1,0,0,0,3,+2,10
+Joe Johnson,SG,0,23,4-10,1-3,1-2,1,3,4,2,0,1,0,3,+5,10
+Alec Burks,SG,0,19,0-4,0-3,0-0,0,3,3,2,1,0,0,0,+15,0
+Joel Bolomboy,PF,0,DNP-COACH'S DECISION
+Dante Exum,PG,0,DNP-COACH'S DECISION
+TEAM,,,,41-90,7-28,19-29,20,28,48,18,5,7,8,11,,108
+ ,,,,45.6%,25.0%,65.5%
+
+400900466,Knicks,Trail Blazers,95,110
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kristaps Porzingis,PF,1,38,8-21,0-5,2-3,3,6,9,1,1,3,2,2,-16,18
+Mindaugas Kuzminskas,F,1,32,3-8,2-5,6-6,1,7,8,2,0,0,2,3,-3,14
+Willy Hernangomez,C,1,21,5-10,0-0,0-1,3,5,8,2,0,2,0,2,-10,10
+Courtney Lee,SG,1,41,6-12,0-3,4-4,0,1,1,4,1,0,2,2,-14,16
+Ron Baker,SG,1,24,2-8,0-2,0-0,0,1,1,4,2,1,1,2,+1,4
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kyle O'Quinn,C,0,22,2-7,0-0,0-0,0,7,7,3,0,2,1,4,-6,4
+Marshall Plumlee,C,0,5,0-1,0-0,0-0,1,1,2,2,0,1,1,0,+1,0
+Chasson Randle,PG,0,19,4-7,2-4,3-3,1,1,2,2,0,0,0,0,-9,13
+Sasha Vujacic,SG,0,16,3-6,1-1,2-2,0,1,1,0,0,0,1,2,-6,9
+Justin Holiday,SG,0,22,3-8,0-2,1-1,0,1,1,3,1,0,1,3,-13,7
+Carmelo Anthony,PF,0,DNP-LEFT KNEE
+Lance Thomas,SF,0,DNP-RIGHT HIP
+Derrick Rose,PG,0,DNP-RIGHT FOOT
+TEAM,,,,36-88,5-22,18-20,9,31,40,23,5,9,11,20,,95
+ ,,,,40.9%,22.7%,90.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Noah Vonleh,PF,1,32,2-7,0-0,0-0,3,9,12,0,1,1,2,3,+5,4
+Maurice Harkless,SF,1,18,2-3,0-0,2-2,0,2,2,2,0,0,3,4,+12,6
+Jusuf Nurkic,C,1,27,6-9,0-0,4-7,3,7,10,3,0,0,2,5,+12,16
+Damian Lillard,PG,1,31,9-17,4-7,8-8,0,4,4,5,2,0,2,1,+15,30
+CJ McCollum,SG,1,34,8-17,2-5,2-2,1,3,4,1,0,0,1,1,+14,20
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Al-Farouq Aminu,PF,0,27,4-11,1-4,1-4,2,7,9,0,2,0,1,2,+12,10
+Jake Layman,SF,0,2,0-2,0-1,0-0,0,0,0,0,1,0,0,0,-5,0
+Evan Turner,SF,0,24,3-5,0-0,4-6,0,6,6,1,1,0,1,0,-4,10
+Meyers Leonard,C,0,8,1-1,1-1,0-0,0,1,1,1,0,0,1,1,+6,3
+Shabazz Napier,PG,0,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
+Allen Crabbe,SG,0,34,4-8,3-3,0-0,1,1,2,2,1,1,0,3,+18,11
+Pat Connaughton,SG,0,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
+TEAM,,,,39-80,11-21,21-29,10,40,50,15,8,2,13,20,,110
+ ,,,,48.8%,52.4%,72.4%
+
+400900480,Knicks,Spurs,98,106
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kristaps Porzingis,PF,1,26,3-8,0-1,6-6,0,5,5,2,1,1,5,5,-4,12
+Mindaugas Kuzminskas,F,1,36,8-12,3-5,0-0,1,0,1,2,0,0,0,2,+2,19
+Willy Hernangomez,C,1,36,11-16,0-0,2-3,5,8,13,1,1,1,1,5,-2,24
+Derrick Rose,PG,1,36,10-22,0-0,4-4,3,2,5,5,0,0,1,0,+2,24
+Courtney Lee,SG,1,40,3-11,0-1,0-0,1,6,7,7,2,1,3,1,+0,6
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Maurice Ndour,SF,0,17,1-2,0-0,1-2,0,4,4,2,1,0,1,2,+8,3
+Kyle O'Quinn,C,0,13,3-6,0-0,0-0,2,4,6,2,1,2,2,1,-12,6
+Marshall Plumlee,C,0,5,0-1,0-0,0-0,0,0,0,0,0,0,1,0,-8,0
+Chasson Randle,PG,0,3,0-2,0-1,0-0,0,0,0,1,0,0,0,0,-4,0
+Justin Holiday,SG,0,15,1-5,0-2,0-0,0,1,1,0,0,0,1,0,-16,2
+Ron Baker,SG,0,13,1-2,0-0,0-0,0,3,3,2,0,0,1,0,-6,2
+Sasha Vujacic,SG,0,DNP-COACH'S DECISION
+TEAM,,,,41-87,3-10,13-15,12,33,45,24,6,5,16,16,,98
+ ,,,,47.1%,30.0%,86.7%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+LaMarcus Aldridge,PF,1,36,9-21,1-2,0-0,4,6,10,2,1,0,1,1,+9,19
+Kawhi Leonard,SF,1,39,11-18,4-6,3-5,0,5,5,5,1,2,2,1,+12,29
+Jonathon Simmons,SF,1,24,2-7,0-3,2-2,0,2,2,1,1,0,3,5,+10,6
+Dewayne Dedmon,C,1,21,2-3,0-0,1-1,6,7,13,0,0,0,1,3,-3,5
+Tony Parker,PG,1,22,5-12,0-1,0-0,0,1,1,3,2,0,1,0,+1,10
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Joel Anthony,PF,0,1,0-0,0-0,0-0,0,0,0,0,0,1,0,0,-4,0
+David Lee,PF,0,11,1-3,0-0,0-0,1,4,5,1,0,1,2,2,+3,2
+Kyle Anderson,SF,0,13,1-4,0-0,0-0,0,2,2,2,2,0,0,1,-6,2
+Davis Bertans,C,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
+Pau Gasol,C,0,26,8-15,3-4,0-0,5,5,10,3,0,2,0,3,+15,19
+Patty Mills,PG,0,26,4-9,2-5,0-0,0,0,0,7,1,0,4,1,+10,10
+Bryn Forbes,SG,0,1,0-0,0-0,0-0,0,1,1,0,0,0,0,0,-4,0
+Manu Ginobili,SG,0,19,2-7,0-4,0-0,0,1,1,4,3,0,0,1,+1,4
+TEAM,,,,45-99,10-25,6-8,16,34,50,28,11,6,14,18,,106
+ ,,,,45.5%,40.0%,75.0%
+
+400900493,Pistons,Knicks,95,109
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Marcus Morris,PF,1,33,6-13,4-5,4-5,0,1,1,2,0,0,3,6,-10,20
+Tobias Harris,SF,1,34,5-15,0-2,2-2,2,2,4,1,1,0,0,3,-7,12
+Andre Drummond,C,1,25,5-7,0-0,0-4,5,10,15,3,0,0,1,1,-12,10
+Ish Smith,PG,1,35,6-14,2-3,1-2,0,6,6,5,1,0,1,1,-10,15
+Kentavious Caldwell-Pope,SG,1,32,3-12,2-7,4-4,1,1,2,1,1,0,3,0,-10,12
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Henry Ellenson,PF,0,1,0-0,0-0,0-0,0,0,0,0,0,0,1,0,+0,0
+Jon Leuer,PF,0,25,4-8,0-2,0-0,1,2,3,2,0,1,2,3,-11,8
+Stanley Johnson,SF,0,18,2-7,1-4,0-0,0,0,0,0,0,1,1,0,-4,5
+Aron Baynes,C,0,22,2-4,0-0,3-4,3,5,8,1,0,1,1,2,-2,7
+Boban Marjanovic,C,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Beno Udrih,PG,0,13,3-4,0-0,0-0,0,3,3,3,1,0,5,0,-4,6
+Darrun Hilliard,SG,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Michael Gbinije,SG,0,DNP-COACH'S DECISION
+TEAM,,,,36-84,9-23,14-21,12,30,42,18,4,3,18,16,,95
+ ,,,,42.9%,39.1%,66.7%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,35,8-15,3-5,2-2,0,3,3,5,3,0,4,2,+17,21
+Kristaps Porzingis,PF,1,37,10-16,1-4,4-4,0,8,8,3,2,3,1,5,+11,25
+Willy Hernangomez,C,1,27,6-9,0-0,3-4,2,3,5,2,1,0,0,2,+17,15
+Derrick Rose,PG,1,33,12-17,0-0,3-3,0,4,4,6,1,0,0,0,+13,27
+Courtney Lee,SG,1,33,3-6,1-2,0-0,0,7,7,3,2,1,2,3,+14,7
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,22,2-6,1-3,0-0,0,0,0,4,1,0,1,2,+0,5
+Maurice Ndour,SF,0,1,0-0,0-0,0-0,0,1,1,0,0,0,0,0,+0,0
+Kyle O'Quinn,C,0,20,0-4,0-0,0-0,2,4,6,0,0,1,2,2,-3,0
+Marshall Plumlee,C,0,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+Chasson Randle,PG,0,1,0-0,0-0,0-0,0,0,0,0,0,0,1,0,+0,0
+Sasha Vujacic,SG,0,1,0-1,0-1,0-0,0,0,0,0,0,0,0,0,+0,0
+Justin Holiday,SG,0,14,3-6,1-4,0-0,0,2,2,1,1,0,1,0,+0,7
+Ron Baker,SG,0,15,1-4,0-2,0-0,0,1,1,2,2,0,0,0,+1,2
+TEAM,,,,45-84,7-21,12-13,4,33,37,26,13,5,12,16,,109
+ ,,,,53.6%,33.3%,92.3%
+
+400900510,Heat,Knicks,105,88
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Luke Babbitt,SF,1,16,1-2,1-2,0-0,0,1,1,0,0,0,0,4,-1,3
+Josh Richardson,SF,1,35,7-12,3-7,0-0,0,1,1,1,5,1,3,0,+15,17
+Hassan Whiteside,C,1,28,5-11,0-0,1-1,1,8,9,1,0,4,1,4,+23,11
+Goran Dragic,PG,1,34,6-17,1-4,7-7,1,6,7,9,2,0,1,2,+13,20
+Rodney McGruder,SG,1,13,3-5,0-1,0-0,0,0,0,0,0,0,1,5,+3,6
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Okaro White,PF,0,20,3-3,1-1,0-0,1,4,5,0,0,0,1,2,+9,7
+James Johnson,PF,0,27,6-11,2-2,4-6,1,6,7,4,3,2,3,4,+11,18
+Willie Reed,C,0,17,1-2,0-0,1-2,0,1,1,1,1,0,0,1,-4,3
+Tyler Johnson,SG,0,31,5-12,2-4,0-1,3,4,7,1,0,0,0,0,+16,12
+Wayne Ellington,SG,0,19,3-9,2-4,0-0,1,1,2,1,0,0,0,1,+0,8
+Udonis Haslem,PF,0,DNP-COACH'S DECISION
+Dion Waiters,SG,0,DNP-SPRAINED LEFT ANKLE
+TEAM,,,,40-84,12-25,13-17,8,32,40,18,11,7,10,23,,105
+ ,,,,47.6%,48.0%,76.5%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,29,4-12,1-5,0-0,0,7,7,1,0,0,2,2,-11,9
+Kristaps Porzingis,PF,1,36,6-13,1-3,7-10,2,6,8,2,0,3,3,3,-14,20
+Willy Hernangomez,C,1,23,4-10,0-1,4-4,5,4,9,1,0,0,3,3,-6,12
+Courtney Lee,SG,1,31,4-9,1-1,1-1,0,2,2,1,2,1,0,1,-21,10
+Ron Baker,SG,1,40,2-12,0-5,2-3,2,3,5,3,0,0,3,3,-11,6
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,14,2-8,0-2,0-0,2,1,3,1,0,1,1,1,-4,4
+Maurice Ndour,SF,0,5,1-2,0-0,1-1,2,2,4,0,0,0,0,0,-2,3
+Kyle O'Quinn,C,0,12,2-6,0-1,0-0,2,3,5,2,0,1,0,0,-1,4
+Marshall Plumlee,C,0,3,0-0,0-0,0-0,1,1,2,1,0,0,0,0,+2,0
+Chasson Randle,PG,0,21,3-9,1-4,2-2,1,3,4,3,0,0,0,2,-11,9
+Sasha Vujacic,SG,0,3,2-5,1-3,0-0,0,0,0,1,0,0,0,1,+2,5
+Justin Holiday,SG,0,23,3-3,0-0,0-0,0,3,3,3,0,0,2,0,-8,6
+Joakim Noah,C,0,DNP-SUSPENDED BY LEAGUE
+TEAM,,,,33-89,5-25,17-21,17,35,52,19,2,6,14,16,,88
+ ,,,,37.1%,20.0%,81.0%
+
+400900528,Knicks,Heat,98,94
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kristaps Porzingis,PF,1,36,10-18,2-5,0-0,2,5,7,3,0,1,4,3,+10,22
+Willy Hernangomez,C,1,29,3-9,0-0,4-5,3,8,11,2,0,0,0,2,+4,10
+Courtney Lee,SG,1,35,6-15,2-4,6-6,0,4,4,1,3,0,3,0,+4,20
+Sasha Vujacic,SG,1,36,4-12,1-5,0-0,1,3,4,7,1,0,1,3,+3,9
+Ron Baker,SG,1,38,4-7,1-2,1-1,0,3,3,6,1,1,1,3,-2,10
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Maurice Ndour,SF,0,12,1-3,0-0,0-0,0,0,0,1,1,0,1,2,-6,2
+Kyle O'Quinn,C,0,19,2-3,0-0,3-3,1,3,4,3,0,2,1,2,-2,7
+Chasson Randle,PG,0,10,2-3,0-0,2-2,1,1,2,0,2,0,1,2,+6,6
+Justin Holiday,SG,0,25,6-10,0-0,0-0,0,4,4,2,1,1,2,1,+3,12
+Mindaugas Kuzminskas,F,0,DNP-COACH'S DECISION
+Joakim Noah,C,0,DNP-SUSPENDED BY LEAGUE
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+TEAM,,,,38-80,6-16,16-17,8,31,39,25,9,5,14,18,,98
+ ,,,,47.5%,37.5%,94.1%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Luke Babbitt,SF,1,16,2-6,1-5,0-0,0,0,0,0,0,0,0,0,-5,5
+Josh Richardson,SF,1,29,0-4,0-3,2-2,1,0,1,5,1,2,2,0,-12,2
+Hassan Whiteside,C,1,34,6-9,0-0,5-7,5,11,16,0,0,2,3,4,-3,17
+Goran Dragic,PG,1,35,8-17,2-5,4-6,0,3,3,5,0,0,3,4,+1,22
+Rodney McGruder,SG,1,31,5-11,1-6,0-0,1,4,5,4,0,0,0,2,+0,11
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Okaro White,PF,0,5,1-2,0-1,0-0,1,1,2,0,0,0,1,0,-2,2
+James Johnson,PF,0,27,3-10,1-4,5-5,0,4,4,1,3,0,3,1,+3,12
+Willie Reed,C,0,14,0-2,0-0,0-0,0,5,5,0,0,0,0,4,+1,0
+Tyler Johnson,SG,0,27,6-12,1-2,2-5,3,0,3,2,1,0,1,2,+1,15
+Wayne Ellington,SG,0,22,3-10,2-7,0-0,0,2,2,0,0,0,0,0,-4,8
+Udonis Haslem,PF,0,DNP-COACH'S DECISION
+Dion Waiters,SG,0,DNP-SPRAINED LEFT ANKLE
+TEAM,,,,34-83,8-33,18-25,11,30,41,17,5,4,13,17,,94
+ ,,,,41.0%,24.2%,72.0%
+
+400900538,Bulls,Knicks,91,100
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Nikola Mirotic,PF,1,36,7-16,2-8,5-5,3,7,10,0,0,0,1,2,-5,21
+Paul Zipser,SF,1,17,0-5,0-3,0-0,0,2,2,1,0,0,1,2,-15,0
+Robin Lopez,C,1,33,5-12,0-0,1-1,3,1,4,1,1,2,2,0,-10,11
+Rajon Rondo,PG,1,25,2-6,1-2,0-0,2,5,7,9,0,0,2,0,-21,5
+Jimmy Butler,SG,1,40,9-18,1-3,7-9,1,2,3,4,1,2,3,4,-6,26
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Bobby Portis,PF,0,17,4-8,0-1,0-0,2,1,3,0,0,0,1,2,-1,8
+Denzel Valentine,SF,0,23,1-7,1-5,0-0,0,4,4,1,0,1,0,1,-3,3
+Joffrey Lauvergne,C,0,10,1-2,0-0,0-0,0,3,3,1,1,0,2,1,-2,2
+Jerian Grant,PG,0,7,0-1,0-1,0-0,0,0,0,2,1,0,1,2,-3,0
+Michael Carter-Williams,PG,0,14,0-3,0-1,0-0,0,1,1,2,1,0,1,0,+3,0
+Anthony Morrow,SG,0,19,3-7,1-3,8-8,0,0,0,1,2,0,0,1,+18,15
+Cristiano Felicio,C,0,DNP-COACH'S DECISION
+Isaiah Canaan,PG,0,DNP-COACH'S DECISION
+TEAM,,,,32-85,6-27,21-23,11,26,37,22,7,5,14,15,,91
+ ,,,,37.6%,22.2%,91.3%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,37,9-25,2-8,3-4,1,7,8,2,0,0,3,4,+2,23
+Maurice Ndour,SF,1,33,5-10,0-1,3-5,4,8,12,1,2,1,1,2,+12,13
+Willy Hernangomez,C,1,21,4-11,0-0,0-0,4,5,9,3,0,0,1,4,+14,8
+Courtney Lee,SG,1,33,6-12,0-2,2-2,2,2,4,3,0,0,2,5,+5,14
+Ron Baker,SG,1,37,4-7,1-2,0-1,0,3,3,6,1,1,4,3,+2,9
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,19,5-7,1-3,0-2,0,0,0,2,1,0,1,0,+1,11
+Kyle O'Quinn,C,0,27,4-6,0-0,0-0,5,8,13,5,0,5,2,2,-5,8
+Chasson Randle,PG,0,6,0-2,0-2,2-2,0,1,1,0,0,1,0,1,+8,2
+Sasha Vujacic,SG,0,5,0-1,0-0,0-0,0,0,0,1,0,0,0,1,-1,0
+Justin Holiday,SG,0,21,5-8,2-5,0-0,0,4,4,3,0,0,0,0,+7,12
+Joakim Noah,C,0,DNP-SUSPENDED BY LEAGUE
+Marshall Plumlee,C,0,DNP-COACH'S DECISION
+TEAM,,,,42-89,6-23,10-16,16,38,54,26,4,8,14,22,,100
+ ,,,,47.2%,26.1%,62.5%
+
+400900554,Wizards,Knicks,106,103
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Jason Smith,PF,1,23,1-4,1-4,2-2,1,5,6,1,1,1,3,4,+12,5
+Otto Porter Jr.,SF,1,22,2-7,1-3,2-2,5,4,9,0,0,0,0,2,+10,7
+Marcin Gortat,C,1,30,7-7,0-0,2-3,0,3,3,1,0,0,0,2,+9,16
+John Wall,PG,1,32,9-15,4-5,2-6,0,1,1,8,1,1,2,3,+6,24
+Bradley Beal,SG,1,36,7-16,4-9,7-7,0,3,3,1,2,1,2,1,+7,25
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Kelly Oubre Jr.,SF,0,28,5-8,1-3,2-2,3,2,5,2,0,2,2,2,-11,13
+Bojan Bogdanovic,SF,0,31,2-9,2-8,2-2,0,6,6,1,0,0,2,2,-5,8
+Ian Mahinmi,C,0,18,2-3,0-0,0-2,0,3,3,0,0,3,0,3,-6,4
+Brandon Jennings,PG,0,20,1-5,1-2,1-2,0,3,3,3,1,0,2,3,-7,4
+Daniel Ochefu,PF,0,DNP-COACH'S DECISION
+Chris McCullough,PF,0,DNP-COACH'S DECISION
+Trey Burke,PG,0,DNP-COACH'S DECISION
+Tomas Satoransky,SG,0,DNP-COACH'S DECISION
+TEAM,,,,36-74,14-34,20-28,9,30,39,17,5,8,13,22,,106
+ ,,,,48.6%,41.2%,71.4%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,31,7-19,2-5,7-9,1,5,6,4,0,0,1,4,-4,23
+Marshall Plumlee,C,1,11,0-0,0-0,0-0,1,1,2,1,1,0,0,2,-10,0
+Willy Hernangomez,C,1,31,5-15,0-0,3-3,5,3,8,1,0,0,2,4,-3,13
+Courtney Lee,SG,1,31,5-12,1-4,0-0,3,6,9,3,5,0,1,0,-1,11
+Ron Baker,SG,1,27,5-9,0-3,2-2,1,1,2,2,0,0,2,2,-9,12
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,17,4-10,0-2,0-0,2,1,3,2,0,0,1,0,+5,8
+Maurice Ndour,SF,0,21,1-5,0-0,1-2,4,1,5,2,1,0,2,1,-4,3
+Kyle O'Quinn,C,0,17,2-4,0-0,3-4,2,4,6,1,0,2,1,4,+0,7
+Justin Holiday,SG,0,33,7-12,2-4,0-0,0,4,4,1,0,0,1,1,+5,16
+Sasha Vujacic,SG,0,21,4-9,2-2,0-1,1,3,4,3,2,0,0,1,+6,10
+Kristaps Porzingis,PF,0,DNP-SORE LOWER BACK
+Joakim Noah,C,0,DNP-SUSPENDED BY LEAGUE
+TEAM,,,,40-95,7-20,16-21,20,29,49,20,9,2,11,19,,103
+ ,,,,42.1%,35.0%,76.2%
+
+400900559,Knicks,Grizzlies,88,101
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Maurice Ndour,SF,1,29,7-9,0-0,1-2,2,5,7,0,1,3,1,1,-3,15
+Willy Hernangomez,C,1,29,4-7,0-0,3-5,3,7,10,3,2,0,2,4,+12,11
+Courtney Lee,SG,1,28,7-13,2-4,0-0,1,2,3,3,1,0,0,0,-3,16
+Justin Holiday,SG,1,27,5-13,2-7,0-0,1,1,2,2,3,0,1,0,+2,12
+Ron Baker,SG,1,31,1-7,0-3,0-0,0,2,2,7,0,0,1,2,+6,2
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,23,5-12,0-4,0-0,0,1,1,0,0,0,0,0,-11,10
+Marshall Plumlee,C,0,15,2-5,0-0,0-2,5,2,7,0,0,0,0,3,-13,4
+Kyle O'Quinn,C,0,20,4-8,0-1,1-2,1,2,3,2,1,1,0,4,-21,9
+Chasson Randle,PG,0,18,1-6,0-2,0-0,0,1,1,0,0,0,1,0,-19,2
+Sasha Vujacic,SG,0,21,2-8,2-7,1-2,2,3,5,3,0,0,0,2,-15,7
+Kristaps Porzingis,PF,0,DNP-SORE LOWER BACK
+Carmelo Anthony,PF,0,DNP-SORE LEFT KNEE
+Joakim Noah,C,0,DNP-SUSPENDED BY LEAGUE
+TEAM,,,,38-88,6-28,6-13,15,26,41,20,8,4,6,16,,88
+ ,,,,43.2%,21.4%,46.2%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+JaMychal Green,PF,1,29,4-7,1-2,1-2,2,3,5,1,0,1,1,1,-1,10
+Marc Gasol,C,1,34,4-13,2-4,6-6,0,10,10,3,0,3,2,3,+8,16
+Mike Conley,PG,1,34,12-17,7-11,0-0,0,3,3,6,1,0,3,0,+14,31
+Tony Allen,SG,1,19,5-8,0-0,0-0,2,2,4,0,0,0,0,1,+1,10
+Vince Carter,SG,1,28,4-5,4-5,0-0,0,4,4,3,1,2,0,0,+7,12
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Zach Randolph,PF,0,15,1-8,0-0,0-0,1,3,4,1,0,0,2,1,+3,2
+Brandan Wright,PF,0,14,2-2,0-0,0-0,1,1,2,1,0,2,0,0,+17,4
+Deyonta Davis,C,0,2,0-1,0-0,0-0,0,0,0,0,0,1,0,0,+0,0
+Wade Baldwin IV,PG,0,3,1-1,1-1,0-0,0,0,0,0,0,0,0,0,-2,3
+Troy Daniels,SG,0,8,0-1,0-1,0-0,0,0,0,0,0,0,0,1,+7,0
+Wayne Selden,SG,0,32,5-7,0-0,3-4,1,1,2,2,0,0,3,3,+11,13
+Andrew Harrison,SG,0,22,0-5,0-3,0-0,0,4,4,3,1,0,1,4,+0,0
+James Ennis III,SF,0,DNP-COACH'S DECISION
+TEAM,,,,38-75,15-27,10-12,7,31,38,20,3,9,12,14,,101
+ ,,,,50.7%,55.6%,83.3%
+
+400900574,Raptors,Knicks,110,97
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Serge Ibaka,PF,1,27,5-10,1-4,1-2,0,4,4,0,0,0,0,1,+4,12
+DeMarre Carroll,SF,1,23,1-6,0-3,1-1,0,2,2,1,0,0,0,2,+9,3
+Jonas Valanciunas,C,1,20,3-8,0-0,0-0,3,4,7,0,1,0,1,1,-12,6
+Kyle Lowry,PG,1,38,5-10,4-9,3-3,0,7,7,11,3,1,4,0,+18,17
+DeMar DeRozan,SG,1,29,11-15,0-0,13-15,0,2,2,0,0,0,2,2,+8,35
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Patrick Patterson,PF,0,29,6-9,3-6,0-0,0,3,3,1,1,0,0,0,+6,15
+PJ Tucker,SF,0,27,2-5,2-5,2-2,0,7,7,1,1,0,0,3,+20,8
+Norman Powell,SF,0,3,1-2,0-1,0-0,0,1,1,0,1,0,0,1,-4,2
+Jakob Poeltl,C,0,14,4-4,0-0,0-0,1,6,7,0,0,0,1,2,+16,8
+Fred VanVleet,PG,0,1,0-0,0-0,0-0,0,0,0,1,0,0,0,0,+0,0
+Delon Wright,PG,0,4,0-2,0-1,0-0,1,0,1,0,0,0,0,0,-3,0
+Cory Joseph,PG,0,25,2-6,0-2,0-0,0,0,0,5,1,0,2,2,+3,4
+Lucas Nogueira,C,0,DNP-COACH'S DECISION
+TEAM,,,,40-77,10-31,20-23,5,36,41,20,8,1,10,14,,110
+ ,,,,51.9%,32.3%,87.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Maurice Ndour,SF,1,25,2-4,0-0,2-2,0,2,2,1,0,0,0,3,+7,6
+Willy Hernangomez,C,1,31,9-15,1-1,5-6,3,8,11,5,3,0,2,3,-5,24
+Courtney Lee,SG,1,32,6-13,2-5,0-0,1,0,1,3,1,0,2,3,-2,14
+Justin Holiday,SG,1,40,4-13,2-6,0-0,1,4,5,5,1,1,0,1,-11,10
+Ron Baker,SG,1,38,5-12,1-5,0-0,0,8,8,8,1,0,2,3,-4,11
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,22,5-10,2-6,0-0,0,1,1,0,0,0,1,1,-12,12
+Marshall Plumlee,C,0,3,1-1,0-0,0-0,0,0,0,0,0,0,0,0,+0,2
+Kyle O'Quinn,C,0,17,3-7,0-0,1-1,0,2,2,0,0,0,1,0,-16,7
+Chasson Randle,PG,0,15,1-3,1-3,6-6,0,2,2,2,0,0,3,2,-6,9
+Sasha Vujacic,SG,0,17,1-4,0-2,0-0,1,3,4,3,0,0,0,2,-16,2
+Carmelo Anthony,PF,0,DNP-SORE LEFT KNEE
+Joakim Noah,C,0,DNP-SUSPENDED BY LEAGUE
+TEAM,,,,37-82,9-28,14-15,6,30,36,27,6,1,11,18,,97
+ ,,,,45.1%,32.1%,93.3%
+
+400900598,76ers,Knicks,113,114
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Richaun Holmes,PF,1,33,7-11,0-2,1-1,2,5,7,0,1,0,0,2,+5,15
+Alex Poythress,SF,1,32,9-14,0-3,0-0,3,3,6,1,1,0,0,3,-5,18
+T.J. McConnell,PG,1,19,2-6,0-0,0-2,0,3,3,8,1,0,2,1,+11,4
+Justin Anderson,SG,1,35,9-10,3-4,5-7,0,2,2,3,3,1,2,3,+8,26
+Timothe Luwawu-Cabarrot,SG,1,24,5-10,1-3,3-4,0,2,2,3,0,0,3,5,-6,14
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Shawn Long,PF,0,17,4-13,0-2,0-0,8,1,9,0,1,0,1,5,-9,8
+Tiago Splitter,C,0,22,5-12,1-3,1-2,3,2,5,0,1,0,1,3,-9,12
+Nik Stauskas,SG,0,30,3-11,2-6,4-4,0,4,4,3,1,0,3,3,-3,12
+Gerald Henderson,SG,0,30,2-4,0-0,0-0,0,0,0,3,1,0,1,0,+3,4
+Dario Saric,PF,0,DNP-SORE LEFT FOOT
+Robert Covington,SF,0,DNP-RIGHT KNEE INJURY
+Jahlil Okafor,C,0,DNP-SORE RIGHT KNEE
+Sergio Rodriguez,PG,0,DNP-STRAINED LEFT HAMSTRING
+TEAM,,,,46-91,7-23,14-20,16,22,38,21,10,1,13,25,,113
+ ,,,,50.5%,30.4%,70.0%
+STARTERS,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Carmelo Anthony,PF,1,23,7-15,0-1,3-3,1,1,2,1,1,0,1,2,-8,17
+Maurice Ndour,SF,1,25,2-5,0-0,1-2,1,0,1,0,0,1,2,0,-18,5
+Willy Hernangomez,C,1,18,1-2,0-0,5-6,3,7,10,3,0,0,2,0,-4,7
+Courtney Lee,SG,1,20,2-5,1-3,3-5,0,0,0,0,0,0,0,1,-11,8
+Ron Baker,SG,1,29,3-6,1-3,1-2,0,1,1,4,0,0,2,1,-4,8
+BENCH,position,xf,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS
+Mindaugas Kuzminskas,F,0,18,4-6,1-2,2-2,3,1,4,0,0,0,2,1,+16,11
+Kyle O'Quinn,C,0,13,2-4,1-1,0-0,2,2,4,2,1,2,0,2,-3,5
+Marshall Plumlee,C,0,26,7-10,0-0,0-2,4,7,11,0,0,1,3,5,+9,14
+Chasson Randle,PG,0,26,5-8,1-2,1-1,1,2,3,0,2,0,4,3,+4,12
+Sasha Vujacic,SG,0,21,2-9,2-5,1-2,1,0,1,6,0,0,2,2,+12,7
+Justin Holiday,SG,0,20,6-10,2-5,6-7,1,4,5,1,2,1,2,1,+12,20
+Joakim Noah,C,0,DNP-SUSPENDED BY LEAGUE
+TEAM,,,,41-80,9-22,23-32,17,25,42,17,6,5,20,18,,114
+ ,,,,51.3%,40.9%,71.9%
+
